@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T06:42:22.654443+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2025-12-13T07:34:57.476556+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "日本极右翼分子对美国“开火”了",
@@ -26,22 +26,24 @@
             14,
             15,
             13,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "外交部回应日本防卫大臣和美国国防部长通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32164391",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "消息人士：在拜登时代，美国曾短暂地向以色列隐瞒了一些战争情报",
@@ -51,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
         },
         {
           "title": "美国官员：美国中央司令部将于12月16日与伙伴国家在多哈召开会议，规划加沙地带国际稳定部队事宜。",
@@ -62,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
         },
         {
           "title": "消息人士：在拜登执政期间，美国曾短暂地向以色列隐瞒部分战争情报。",
@@ -73,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
         },
         {
           "title": "法国官员：乌克兰、美国和欧洲正努力就推动和平达成共同立场",
@@ -86,8 +88,47 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时42分]"
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "法国总统府官员：乌克兰、欧洲和美国之间仍无联合文件。",
+          "url": "https://flash.jin10.com/detail/20251213023211404800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "法国总统府官员：正在探讨一种包含美国参与的、类似北约第五条的机制，如何作为乌克兰安全保障的一部分发挥作用。",
+          "url": "https://flash.jin10.com/detail/20251213023122154800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "法国总统府官员：正努力在未来几天内促成乌克兰、欧洲和美国之间达成共同立场。",
+          "url": "https://flash.jin10.com/detail/20251213023102561800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时34分]"
         },
         {
           "title": "美国银行：美联储购买短期美债（国库券）有助于压低美国10年期国债的收益率。",
@@ -101,17 +142,18 @@
           "time_info": "01时42分"
         },
         {
-          "title": "法国总统府官员：乌克兰、欧洲和美国之间仍无联合文件。",
-          "url": "https://flash.jin10.com/detail/20251213023211404800",
-          "source": "金十数据",
+          "title": "美国原油期货本周跌约4.4%，纽约天然气跌超22%",
+          "url": "https://wallstreetcn.com/livenews/3020125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9,
-            21
+            2,
+            17,
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
         },
         {
           "title": "WealthFront Corp.（WLTH）美国IPO首日开盘报14美元，此前给出的IPO发行价为每股14美元。",
@@ -128,55 +170,17 @@
           "time_info": "[02时58分 ~ 05时34分]"
         },
         {
-          "title": "法国总统府官员：正在探讨一种包含美国参与的、类似北约第五条的机制，如何作为乌克兰安全保障的一部分发挥作用。",
-          "url": "https://flash.jin10.com/detail/20251213023122154800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时42分]"
-        },
-        {
-          "title": "法国总统府官员：正努力在未来几天内促成乌克兰、欧洲和美国之间达成共同立场。",
-          "url": "https://flash.jin10.com/detail/20251213023102561800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时42分]"
-        },
-        {
           "title": "美联储：美国上周银行存款18.479万亿美元，之前一周18.528万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3020149",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时42分]"
-        },
-        {
-          "title": "美国原油期货本周跌约4.4%，纽约天然气跌超22%",
-          "url": "https://wallstreetcn.com/livenews/3020125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            24
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "time_info": "[05时34分 ~ 07时34分]"
         },
         {
           "title": "美国12月12日当周天然气钻井数 127，前值 129。",
@@ -191,6 +195,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时34分]"
+        },
+        {
+          "title": "美国邮政暂停来自泰国的邮件服务。",
+          "url": "https://wallstreetcn.com/livenews/3020142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时34分]"
         },
         {
           "title": "美国12月12日当周石油钻井数 414，前值 413。",
@@ -219,6 +236,19 @@
           "time_info": "[02时58分 ~ 04时43分]"
         },
         {
+          "title": "大麻ETF MSOS涨55%，创美国上市以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3020140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时34分]"
+        },
+        {
           "title": "美国汽车零部件供应商First Brands Group LLC.寻求扩充流动性。",
           "url": "https://wallstreetcn.com/livenews/3020104",
           "source": "华尔街见闻-快讯",
@@ -230,6 +260,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时43分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）补发11月18日当周交易员持仓报告：CBOT玉米净多头头寸增加77,650手合约。 NYMEX汽油净多头头寸增加22,129手合约。 COMEX黄金头寸减少7,145手合约。",
+          "url": "https://wallstreetcn.com/livenews/3020130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时34分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee：（对12月FOMC货币政策会议结果）持异议与鹰派立场无关，因为我并并不是鹰派。 我并不是说“我们不可以考虑在长期范围内（多次）降息”。 仍然认为消费者（开支）相当得体，他们具有韧性。",
@@ -244,36 +287,12 @@
           "time_info": "[00时50分 ~ 01时42分]"
         },
         {
-          "title": "美国邮政暂停来自泰国的邮件服务。",
-          "url": "https://wallstreetcn.com/livenews/3020142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时42分]"
-        },
-        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：我在12月份支持FOMC降息。 就业市场仍面临风险，也仍存在通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3020141",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时42分]"
-        },
-        {
-          "title": "大麻ETF MSOS涨55%，创美国上市以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3020140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -314,18 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时58分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）补发11月18日当周交易员持仓报告：CBOT玉米净多头头寸增加77,650手合约。 NYMEX汽油净多头头寸增加22,129手合约。 COMEX黄金头寸减少7,145手合约。",
-          "url": "https://wallstreetcn.com/livenews/3020130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时42分]"
         },
         {
           "title": "贝克休斯油服：美国钻井公司三周内第二次削减油气钻井平台。",
@@ -467,7 +474,7 @@
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -489,8 +496,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -501,8 +508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -513,8 +520,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -525,19 +532,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
           "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -559,8 +567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -575,6 +583,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 06时42分]"
+        },
+        {
+          "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时34分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -614,6 +645,28 @@
           "time_info": "[01时42分 ~ 04时43分]"
         },
         {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时34分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -638,17 +691,6 @@
           "time_info": "[01时42分 ~ 03时32分]"
         },
         {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
-        },
-        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -660,17 +702,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时32分]"
-        },
-        {
-          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
-          "url": "https://flash.jin10.com/detail/20251213031516659800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
@@ -685,15 +716,15 @@
           "time_info": "[00时50分 ~ 01时42分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 06时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -776,7 +807,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -786,8 +817,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -797,8 +828,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -809,8 +840,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
@@ -822,6 +864,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
@@ -836,19 +935,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时34分]"
-        },
-        {
-          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
-          "url": "https://flash.jin10.com/detail/20251213022744229800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时42分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -896,11 +982,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时42分]"
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时34分]"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -924,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -961,8 +1059,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "针对“放生”矿泉水、大米等现象，中国佛教协会刊文：深感惊讶和不解",
@@ -976,8 +1074,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "菲船只在仙宾礁海域挑衅，中国海警外逼驱离",
@@ -987,8 +1085,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "墨西哥为何突然对中国商品加征关税",
@@ -1003,8 +1101,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 07时34分]"
         },
         {
           "title": "中使馆：个别在巴基斯坦中国公民对当地女性拍摄，引发治安事件",
@@ -1014,8 +1112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 06时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 07时34分]"
         },
         {
           "title": "专家：日本人难以接受中国超过自己",
@@ -1027,11 +1125,12 @@
             15,
             19,
             16,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 07时34分]"
         },
         {
           "title": "打卡中国｜在军旗升起的地方，Citywalk南昌红色坐标系",
@@ -1049,11 +1148,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%9B%E5%8D%8F%E5%9B%9E%E5%BA%94%E6%94%BE%E7%94%9F%E5%A4%A7%E7%B1%B3%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 06时42分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时34分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.3%，本周累跌约1.1%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。",
@@ -1073,7 +1173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
