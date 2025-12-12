@@ -3727,6 +3727,18 @@ class NewsAnalyzer:
         try:
             self._initialize_and_check_config()
             
+            # 调试信息：检查配置
+            print("="*60)
+            print("AI分析模式 - 配置检查")
+            print("="*60)
+            print(f"API密钥已提供: {'是' if api_key else '否'} (长度: {len(api_key) if api_key else 0})")
+            feishu_url = CONFIG.get("FEISHU_WEBHOOK_URL", "")
+            print(f"飞书Webhook URL: {'已配置' if feishu_url else '未配置'}")
+            if feishu_url:
+                print(f"  URL前50字符: {feishu_url[:50]}...")
+            print("="*60)
+            print()
+            
             now = get_beijing_time()
             current_hour = now.hour
             

@@ -55,12 +55,18 @@ jobs:
         run: |
           echo "🔍 检查必需的Secrets配置..."
           if [ -z "${{ secrets.DEEPSEEK_API_KEY }}" ]; then
-            echo "⚠️  警告: DEEPSEEK_API_KEY 未配置"
+            echo "❌ 错误: DEEPSEEK_API_KEY 未配置"
             echo "请在 GitHub Secrets 中配置 DEEPSEEK_API_KEY"
+            exit 1
+          else
+            echo "✅ DEEPSEEK_API_KEY 已配置 (长度: ${#DEEPSEEK_API_KEY} 字符)"
           fi
           if [ -z "${{ secrets.FEISHU_WEBHOOK_URL }}" ]; then
-            echo "⚠️  警告: FEISHU_WEBHOOK_URL 未配置"
+            echo "❌ 错误: FEISHU_WEBHOOK_URL 未配置"
             echo "请在 GitHub Secrets 中配置 FEISHU_WEBHOOK_URL"
+            exit 1
+          else
+            echo "✅ FEISHU_WEBHOOK_URL 已配置 (URL前50字符: ${FEISHU_WEBHOOK_URL:0:50}...)"
           fi
 
       - name: Run AI Analysis
@@ -73,6 +79,21 @@ jobs:
           echo "🤖 开始执行AI分析..."
           echo "当前UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           echo "当前北京时间: $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %Z')"
+          echo ""
+          echo "🔍 验证环境变量..."
+          if [ -z "$DEEPSEEK_API_KEY" ]; then
+            echo "❌ DEEPSEEK_API_KEY 环境变量为空"
+            exit 1
+          else
+            echo "✅ DEEPSEEK_API_KEY 已设置 (前10字符: ${DEEPSEEK_API_KEY:0:10}...)"
+          fi
+          if [ -z "$FEISHU_WEBHOOK_URL" ]; then
+            echo "❌ FEISHU_WEBHOOK_URL 环境变量为空"
+            exit 1
+          else
+            echo "✅ FEISHU_WEBHOOK_URL 已设置 (URL: ${FEISHU_WEBHOOK_URL:0:60}...)"
+          fi
+          echo ""
           python main.py --ai-analysis
 
       - name: Commit and push if changes
