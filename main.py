@@ -2732,6 +2732,254 @@ def send_to_webhooks(
     return results
 
 
+# === DeepSeek API 集成 ===
+def call_deepseek_api(
+        prompt: str,
+        api_key: str,
+        proxy_url: Optional[str] = None,
+        max_tokens: int = 4000,
+) -> Optional[str]:
+    """调用DeepSeek API进行分析"""
+    url = "https://api.deepseek.com/v1/chat/completions"
+    
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}",
+    }
+    
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "temperature": 0.7,
+        "max_tokens": max_tokens,
+    }
+    
+    proxies = None
+    if proxy_url:
+        proxies = {"http": proxy_url, "https": proxy_url}
+    
+    try:
+        response = requests.post(
+            url, headers=headers, json=payload, proxies=proxies, timeout=60
+        )
+        response.raise_for_status()
+        result = response.json()
+        
+        if "choices" in result and len(result["choices"]) > 0:
+            content = result["choices"][0]["message"]["content"]
+            return content
+        else:
+            print(f"DeepSeek API响应格式异常: {result}")
+            return None
+    except Exception as e:
+        print(f"DeepSeek API调用失败: {e}")
+        return None
+
+
+def get_top_10_hotspots_by_platform(
+        results: Dict,
+        id_to_name: Dict,
+) -> Dict[str, List[Dict]]:
+    """获取每个平台的前十条热点"""
+    platform_hotspots = {}
+    
+    for platform_id, title_data in results.items():
+        platform_name = id_to_name.get(platform_id, platform_id)
+        
+        # 将标题数据转换为列表并按排名排序
+        title_list = []
+        for title, data in title_data.items():
+            ranks = data.get("ranks", [])
+            rank = min(ranks) if ranks else 999  # 使用最小排名
+            title_list.append({
+                "title": title,
+                "rank": rank,
+                "url": data.get("url", ""),
+                "mobileUrl": data.get("mobileUrl", ""),
+            })
+        
+        # 按排名排序，取前10条
+        title_list.sort(key=lambda x: x["rank"])
+        platform_hotspots[platform_name] = title_list[:10]
+    
+    return platform_hotspots
+
+
+def generate_morning_analysis(
+        platform_hotspots: Dict[str, List[Dict]],
+        api_key: str,
+        proxy_url: Optional[str] = None,
+) -> Optional[str]:
+    """生成上午9点的分析报告"""
+    # 构建提示词
+    hotspots_text = "各平台前十条热点如下：\n\n"
+    
+    for platform_name, hotspots in platform_hotspots.items():
+        hotspots_text += f"【{platform_name}】\n"
+        for i, item in enumerate(hotspots, 1):
+            hotspots_text += f"{i}. {item['title']}\n"
+        hotspots_text += "\n"
+    
+    prompt = f"""请作为专业的新闻分析师，对以下各平台的热点新闻进行整理、总结和分析，给出当日情况报告。
+
+要求：
+1. 总结各平台的主要热点话题
+2. 分析这些热点背后的趋势和意义
+3. 识别关键事件和重要信息
+4. 用简洁、专业的语言输出分析结果
+5. 输出格式要清晰，便于阅读
+
+{hotspots_text}
+
+请给出详细的分析报告："""
+    
+    return call_deepseek_api(prompt, api_key, proxy_url)
+
+
+def generate_evening_analysis(
+        morning_hotspots: Dict[str, List[Dict]],
+        evening_hotspots: Dict[str, List[Dict]],
+        keyword_related_hotspots: List[Dict],
+        api_key: str,
+        proxy_url: Optional[str] = None,
+) -> Optional[str]:
+    """生成晚上9点的复盘报告"""
+    # 构建提示词
+    morning_text = "上午9点各平台前十条热点：\n\n"
+    for platform_name, hotspots in morning_hotspots.items():
+        morning_text += f"【{platform_name}】\n"
+        for i, item in enumerate(hotspots, 1):
+            morning_text += f"{i}. {item['title']}\n"
+        morning_text += "\n"
+    
+    evening_text = "晚上9点各平台前十条热点：\n\n"
+    for platform_name, hotspots in evening_hotspots.items():
+        evening_text += f"【{platform_name}】\n"
+        for i, item in enumerate(hotspots, 1):
+            evening_text += f"{i}. {item['title']}\n"
+        evening_text += "\n"
+    
+    keyword_text = "与关键词（AI、人工智能、特朗普、美国、中国）相关的热点：\n\n"
+    for i, item in enumerate(keyword_related_hotspots, 1):
+        keyword_text += f"{i}. {item['title']} (来源: {item.get('source', '未知')})\n"
+    
+    prompt = f"""请作为专业的新闻分析师，对比分析上午9点和晚上9点的热点变化，给出当日复盘报告。
+
+要求：
+1. 对比上午和晚上的热点变化，分析哪些话题持续热度，哪些是新出现的
+2. 分析热点变化背后的原因和趋势
+3. 总结当日重要事件和关键信息
+4. 对与关键词（AI、人工智能、特朗普、美国、中国）相关的热点进行重点分析
+5. 用简洁、专业的语言输出复盘报告
+6. 输出格式要清晰，便于阅读
+
+{morning_text}
+
+{evening_text}
+
+{keyword_text}
+
+请给出详细的复盘报告："""
+    
+    return call_deepseek_api(prompt, api_key, proxy_url)
+
+
+def get_keyword_related_hotspots(
+        all_results: Dict,
+        id_to_name: Dict,
+        title_info: Dict,
+        keywords: List[str],
+        top_n: int = 5,
+) -> List[Dict]:
+    """获取与关键词相关的热点，返回前N条"""
+    keyword_related = []
+    
+    for platform_id, title_data in all_results.items():
+        platform_name = id_to_name.get(platform_id, platform_id)
+        
+        for title, data in title_data.items():
+            # 检查标题是否包含关键词
+            title_lower = title.lower()
+            if any(keyword.lower() in title_lower for keyword in keywords):
+                ranks = data.get("ranks", [])
+                rank = min(ranks) if ranks else 999
+                
+                info = title_info.get(platform_id, {}).get(title, {})
+                keyword_related.append({
+                    "title": title,
+                    "rank": rank,
+                    "source": platform_name,
+                    "url": data.get("url", ""),
+                    "mobileUrl": data.get("mobileUrl", ""),
+                    "weight": calculate_news_weight(info),
+                })
+    
+    # 按权重排序，取前N条
+    keyword_related.sort(key=lambda x: x["weight"], reverse=True)
+    return keyword_related[:top_n]
+
+
+def send_ai_analysis_to_feishu(
+        webhook_url: str,
+        analysis_text: str,
+        report_type: str,
+        keyword_hotspots: Optional[List[Dict]] = None,
+        proxy_url: Optional[str] = None,
+) -> bool:
+    """发送AI分析结果到飞书"""
+    headers = {"Content-Type": "application/json"}
+
+    # 构建消息内容
+    content = f"📊 {report_type}\n\n"
+    content += "━━━━━━━━━━━━━━━━━━━\n\n"
+    content += analysis_text
+    
+    if keyword_hotspots:
+        content += "\n\n━━━━━━━━━━━━━━━━━━━\n\n"
+        content += "🔑 与关键词相关的热点：\n\n"
+        for i, item in enumerate(keyword_hotspots, 1):
+            source = item.get("source", "未知")
+            url = item.get("mobileUrl") or item.get("url", "")
+            if url:
+                content += f"{i}. {item['title']} (来源: {source})\n   {url}\n\n"
+            else:
+                content += f"{i}. {item['title']} (来源: {source})\n\n"
+    
+    now = get_beijing_time()
+    payload = {
+        "msg_type": "text",
+        "content": {
+            "total_titles": len(keyword_hotspots) if keyword_hotspots else 0,
+            "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
+            "report_type": report_type,
+            "text": content,
+        },
+    }
+
+    proxies = None
+    if proxy_url:
+        proxies = {"http": proxy_url, "https": proxy_url}
+
+    try:
+        response = requests.post(
+            webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
+        )
+        if response.status_code == 200:
+            print(f"飞书AI分析通知发送成功 [{report_type}]")
+            return True
+        else:
+            print(f"飞书AI分析通知发送失败 [{report_type}]，状态码：{response.status_code}")
+            return False
+    except Exception as e:
+        print(f"飞书AI分析通知发送出错 [{report_type}]：{e}")
+        return False
+
+
 def send_to_feishu(
         webhook_url: str,
         report_data: Dict,
@@ -3456,6 +3704,145 @@ class NewsAnalyzer:
 
         return summary_html
 
+    def run_ai_analysis_mode(self, api_key: str, force_run: bool = False) -> None:
+        """执行AI分析模式（上午9点或晚上9点）"""
+        try:
+            self._initialize_and_check_config()
+            
+            now = get_beijing_time()
+            current_hour = now.hour
+            
+            # 判断是上午9点还是晚上9点
+            if current_hour == 9:
+                report_type = "当日情况分析"
+                is_morning = True
+            elif current_hour == 21:
+                report_type = "当日复盘分析"
+                is_morning = False
+            else:
+                if not force_run:
+                    print(f"当前时间 {current_hour}:00 不是预设的运行时间（9:00 或 21:00）")
+                    print("提示：如需强制运行，请使用 --force 参数")
+                    return
+                else:
+                    # 强制运行模式：根据时间判断使用哪种模式
+                    if current_hour < 12:
+                        report_type = "当日情况分析（测试模式）"
+                        is_morning = True
+                    else:
+                        report_type = "当日复盘分析（测试模式）"
+                        is_morning = False
+                    print(f"强制运行模式：当前时间 {current_hour}:00，使用{'上午' if is_morning else '晚上'}模式")
+            
+            print(f"开始执行{report_type}...")
+            
+            # 爬取数据
+            results, id_to_name, failed_ids = self._crawl_data()
+            
+            # 保存当前数据
+            save_titles_to_file(results, id_to_name, failed_ids)
+            
+            # 获取各平台前十条热点
+            platform_hotspots = get_top_10_hotspots_by_platform(results, id_to_name)
+            
+            if not platform_hotspots:
+                print("未获取到任何热点数据")
+                return
+            
+            # 获取关键词相关的热点
+            keywords = ["AI", "人工智能", "特朗普", "美国", "中国"]
+            platform_ids = [p["id"] for p in CONFIG["PLATFORMS"]]
+            all_results, final_id_to_name, title_info = read_all_today_titles(platform_ids)
+            
+            keyword_hotspots = []
+            if all_results:
+                keyword_hotspots = get_keyword_related_hotspots(
+                    all_results, final_id_to_name, title_info, keywords, top_n=5
+                )
+            
+            # 生成AI分析
+            if is_morning:
+                # 上午9点：生成当日情况分析
+                analysis_text = generate_morning_analysis(
+                    platform_hotspots, api_key, self.proxy_url
+                )
+                # 保存上午数据供晚上使用
+                self._save_morning_data(platform_hotspots)
+            else:
+                # 晚上9点：需要对比上午的数据
+                # 读取上午9点的数据
+                morning_hotspots = self._load_morning_data()
+                if not morning_hotspots:
+                    print("未找到上午9点的数据，将使用当前数据进行分析")
+                    morning_hotspots = platform_hotspots
+                
+                analysis_text = generate_evening_analysis(
+                    morning_hotspots,
+                    platform_hotspots,
+                    keyword_hotspots,
+                    api_key,
+                    self.proxy_url,
+                )
+            
+            if not analysis_text:
+                print("AI分析生成失败")
+                return
+            
+            # 发送到飞书
+            feishu_url = CONFIG["FEISHU_WEBHOOK_URL"]
+            if feishu_url:
+                if is_morning:
+                    send_ai_analysis_to_feishu(
+                        feishu_url,
+                        analysis_text,
+                        report_type,
+                        keyword_hotspots if keyword_hotspots else None,
+                        self.proxy_url,
+                    )
+                else:
+                    send_ai_analysis_to_feishu(
+                        feishu_url,
+                        analysis_text,
+                        report_type,
+                        keyword_hotspots if keyword_hotspots else None,
+                        self.proxy_url,
+                    )
+            else:
+                print("未配置飞书Webhook，无法发送分析结果")
+            
+            print(f"{report_type}完成")
+            
+        except Exception as e:
+            print(f"AI分析流程执行出错: {e}")
+            raise
+    
+    def _load_morning_data(self) -> Optional[Dict]:
+        """加载上午9点的数据"""
+        date_folder = format_date_folder()
+        data_file = Path("output") / date_folder / ".morning_data.json"
+        
+        if not data_file.exists():
+            return None
+        
+        try:
+            with open(data_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"加载上午数据失败: {e}")
+            return None
+    
+    def _save_morning_data(self, data: Dict) -> None:
+        """保存上午9点的数据"""
+        date_folder = format_date_folder()
+        data_file = Path("output") / date_folder / ".morning_data.json"
+        data_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        try:
+            with open(data_file, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"保存上午数据失败: {e}")
+
     def run(self) -> None:
         """执行分析流程"""
         try:
@@ -3655,6 +4042,21 @@ def main():
         action='store_true',
         help='仅生成静态的 trends.json, news.jpg 和相关HTML文件并退出'
     )
+    parser.add_argument(
+        '--ai-analysis',
+        action='store_true',
+        help='运行AI分析模式（自动判断上午9点或晚上9点）'
+    )
+    parser.add_argument(
+        '--deepseek-api-key',
+        type=str,
+        help='DeepSeek API密钥（也可通过环境变量DEEPSEEK_API_KEY设置）'
+    )
+    parser.add_argument(
+        '--force',
+        action='store_true',
+        help='强制运行AI分析（不检查时间）'
+    )
     args = parser.parse_args()
 
     try:
@@ -3671,6 +4073,18 @@ def main():
             analyzer = NewsAnalyzer()
             generate_static_api_files(analyzer)
             print("文件生成完毕。")
+
+        elif args.ai_analysis:
+            # AI分析模式
+            api_key = args.deepseek_api_key or os.environ.get("DEEPSEEK_API_KEY", "").strip()
+            if not api_key:
+                print("错误：未提供DeepSeek API密钥")
+                print("请通过 --deepseek-api-key 参数或环境变量 DEEPSEEK_API_KEY 提供")
+                return
+            
+            print("以AI分析模式运行...")
+            analyzer = NewsAnalyzer()
+            analyzer.run_ai_analysis_mode(api_key, force_run=args.force)
 
         else:
             print("以单次脚本模式运行...")

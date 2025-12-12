@@ -1,0 +1,85 @@
+name: AI Analysis
+
+on:
+  schedule:
+    # 北京时间 09:00 = UTC 01:00 (UTC+8)
+    - cron: "0 1 * * *"  # 每天 UTC 01:00 (北京时间 09:00)
+    # 北京时间 21:00 = UTC 13:00 (UTC+8)
+    - cron: "0 13 * * *"  # 每天 UTC 13:00 (北京时间 21:00)
+  workflow_dispatch:  # 允许手动触发
+
+# 添加权限设置
+permissions:
+  contents: write
+
+jobs:
+  ai-analysis:
+    runs-on: ubuntu-latest
+    # 设置时区为北京时间
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify required files
+        run: |
+          echo "🔍 检查必需的配置文件..."
+          
+          if [ ! -f config/config.yaml ]; then
+            echo "❌ 错误: config/config.yaml 文件不存在"
+            echo "请参考项目文档创建配置文件"
+            exit 1
+          fi
+          
+          if [ ! -f config/frequency_words.txt ]; then
+            echo "❌ 错误: config/frequency_words.txt 文件不存在"
+            echo "请参考项目文档创建频率词配置文件"
+            exit 1
+          fi
+          
+          echo "✅ 配置文件检查通过"
+
+      - name: Check required secrets
+        run: |
+          echo "🔍 检查必需的Secrets配置..."
+          if [ -z "${{ secrets.DEEPSEEK_API_KEY }}" ]; then
+            echo "⚠️  警告: DEEPSEEK_API_KEY 未配置"
+            echo "请在 GitHub Secrets 中配置 DEEPSEEK_API_KEY"
+          fi
+          if [ -z "${{ secrets.FEISHU_WEBHOOK_URL }}" ]; then
+            echo "⚠️  警告: FEISHU_WEBHOOK_URL 未配置"
+            echo "请在 GitHub Secrets 中配置 FEISHU_WEBHOOK_URL"
+          fi
+
+      - name: Run AI Analysis
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          GITHUB_ACTIONS: true
+          TZ: Asia/Shanghai
+        run: |
+          echo "🤖 开始执行AI分析..."
+          echo "当前UTC时间: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "当前北京时间: $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %Z')"
+          python main.py --ai-analysis
+
+      - name: Commit and push if changes
+        if: always()
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update: AI Analysis at $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')" && git push)
+
