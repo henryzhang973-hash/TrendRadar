@@ -2650,6 +2650,47 @@ def split_content_into_batches(
     return batches
 
 
+def generate_keyword_summary(
+        stats: List[Dict],
+        api_key: Optional[str] = None,
+        proxy_url: Optional[str] = None,
+) -> Optional[str]:
+    """生成关键词相关新闻的AI总结"""
+    if not api_key:
+        api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+        if not api_key:
+            print("未提供DeepSeek API密钥，无法生成AI总结")
+            return None
+    
+    # 构建新闻列表
+    news_list = []
+    for stat in stats:
+        if stat["count"] > 0:
+            keyword = stat["word"]
+            for title_data in stat["titles"][:5]:  # 每个关键词最多取5条
+                news_list.append(f"- {title_data['title']} (来源: {title_data.get('source_name', '未知')})")
+    
+    if not news_list:
+        return None
+    
+    news_text = "\n".join(news_list[:20])  # 最多20条新闻
+    
+    prompt = f"""请对以下与关键词（AI、人工智能、特朗普、美国、中国）相关的热点新闻进行简洁总结。
+
+要求：
+1. 用一段话（100-200字）总结主要热点和趋势
+2. 突出重要事件和关键信息
+3. 语言简洁专业，便于快速阅读
+4. 不要列出具体新闻标题，只给出总结性描述
+
+相关新闻：
+{news_text}
+
+请给出简洁的总结："""
+    
+    return call_deepseek_api(prompt, api_key, proxy_url, max_tokens=500)
+
+
 def send_to_webhooks(
         stats: List[Dict],
         failed_ids: Optional[List] = None,
@@ -2691,11 +2732,31 @@ def send_to_webhooks(
 
     update_info_to_send = update_info if CONFIG["SHOW_VERSION_UPDATE"] else None
 
+    # 检查是否有匹配的新闻，如果有则使用AI总结
+    has_matched_news = any(stat["count"] > 0 for stat in stats)
+    ai_summary = None
+    
+    if has_matched_news:
+        print("检测到匹配的关键词新闻，生成AI总结...")
+        api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+        ai_summary = generate_keyword_summary(stats, api_key, proxy_url)
+        if ai_summary:
+            print(f"AI总结生成成功，长度: {len(ai_summary)} 字符")
+        else:
+            print("AI总结生成失败，将使用原始格式")
+
     # 发送到飞书
     if feishu_url:
-        results["feishu"] = send_to_feishu(
-            feishu_url, report_data, report_type, update_info_to_send, proxy_url, mode
-        )
+        if ai_summary:
+            # 使用AI总结格式发送
+            results["feishu"] = send_ai_summary_to_feishu(
+                feishu_url, ai_summary, report_type, proxy_url
+            )
+        else:
+            # 使用原始格式发送
+            results["feishu"] = send_to_feishu(
+                feishu_url, report_data, report_type, update_info_to_send, proxy_url, mode
+            )
 
     # 发送到钉钉
     if dingtalk_url:
@@ -2931,6 +2992,55 @@ def get_keyword_related_hotspots(
     # 按权重排序，取前N条
     keyword_related.sort(key=lambda x: x["weight"], reverse=True)
     return keyword_related[:top_n]
+
+
+def send_ai_summary_to_feishu(
+        webhook_url: str,
+        summary_text: str,
+        report_type: str,
+        proxy_url: Optional[str] = None,
+) -> bool:
+    """发送AI总结到飞书（用于crawler workflow）"""
+    headers = {"Content-Type": "application/json"}
+
+    # 构建消息内容
+    content = f"📊 {report_type}\n\n"
+    content += "━━━━━━━━━━━━━━━━━━━\n\n"
+    content += summary_text
+    
+    now = get_beijing_time()
+    payload = {
+        "msg_type": "text",
+        "content": {
+            "total_titles": 0,
+            "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
+            "report_type": report_type,
+            "text": content,
+        },
+    }
+
+    proxies = None
+    if proxy_url:
+        proxies = {"http": proxy_url, "https": proxy_url}
+
+    try:
+        response = requests.post(
+            webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
+        )
+        if response.status_code == 200:
+            result = response.json()
+            if result.get("code") == 0:
+                print(f"飞书AI总结通知发送成功 [{report_type}]")
+                return True
+            else:
+                print(f"飞书AI总结通知发送失败 [{report_type}]，错误码：{result.get('code')}，错误信息：{result.get('msg', '未知错误')}")
+                return False
+        else:
+            print(f"飞书AI总结通知发送失败 [{report_type}]，状态码：{response.status_code}")
+            return False
+    except Exception as e:
+        print(f"飞书AI总结通知发送出错 [{report_type}]：{e}")
+        return False
 
 
 def send_ai_analysis_to_feishu(
