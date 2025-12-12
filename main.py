@@ -2764,6 +2764,7 @@ def call_deepseek_api(
         proxies = {"http": proxy_url, "https": proxy_url}
     
     try:
+        print(f"正在调用DeepSeek API，提示词长度: {len(prompt)} 字符")
         response = requests.post(
             url, headers=headers, json=payload, proxies=proxies, timeout=60
         )
@@ -2772,12 +2773,20 @@ def call_deepseek_api(
         
         if "choices" in result and len(result["choices"]) > 0:
             content = result["choices"][0]["message"]["content"]
+            print(f"DeepSeek API调用成功，返回内容长度: {len(content)} 字符")
             return content
         else:
             print(f"DeepSeek API响应格式异常: {result}")
             return None
+    except requests.exceptions.HTTPError as e:
+        print(f"DeepSeek API HTTP错误: {e}")
+        if hasattr(e.response, 'text'):
+            print(f"错误响应: {e.response.text}")
+        return None
     except Exception as e:
         print(f"DeepSeek API调用失败: {e}")
+        import traceback
+        traceback.print_exc()
         return None
 
 
@@ -2970,13 +2979,22 @@ def send_ai_analysis_to_feishu(
             webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
         )
         if response.status_code == 200:
-            print(f"飞书AI分析通知发送成功 [{report_type}]")
-            return True
+            result = response.json()
+            if result.get("code") == 0:
+                print(f"飞书AI分析通知发送成功 [{report_type}]")
+                return True
+            else:
+                print(f"飞书AI分析通知发送失败 [{report_type}]，错误码：{result.get('code')}，错误信息：{result.get('msg', '未知错误')}")
+                print(f"响应内容：{result}")
+                return False
         else:
             print(f"飞书AI分析通知发送失败 [{report_type}]，状态码：{response.status_code}")
+            print(f"响应内容：{response.text}")
             return False
     except Exception as e:
         print(f"飞书AI分析通知发送出错 [{report_type}]：{e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 
@@ -3786,29 +3804,33 @@ class NewsAnalyzer:
             
             if not analysis_text:
                 print("AI分析生成失败")
-                return
+                # 即使分析失败，也尝试发送一个提示消息
+                analysis_text = "AI分析生成失败，请检查DeepSeek API配置和网络连接。"
+                print("将发送错误提示消息到飞书")
             
             # 发送到飞书
             feishu_url = CONFIG["FEISHU_WEBHOOK_URL"]
-            if feishu_url:
-                if is_morning:
-                    send_ai_analysis_to_feishu(
-                        feishu_url,
-                        analysis_text,
-                        report_type,
-                        keyword_hotspots if keyword_hotspots else None,
-                        self.proxy_url,
-                    )
-                else:
-                    send_ai_analysis_to_feishu(
-                        feishu_url,
-                        analysis_text,
-                        report_type,
-                        keyword_hotspots if keyword_hotspots else None,
-                        self.proxy_url,
-                    )
+            if not feishu_url:
+                print("⚠️  警告：未配置飞书Webhook，无法发送分析结果")
+                print("请在GitHub Secrets中配置 FEISHU_WEBHOOK_URL")
+                return
+            
+            print(f"准备发送消息到飞书，Webhook URL: {feishu_url[:50]}...")
+            print(f"分析文本长度: {len(analysis_text)} 字符")
+            print(f"关键词热点数量: {len(keyword_hotspots) if keyword_hotspots else 0}")
+            
+            result = send_ai_analysis_to_feishu(
+                feishu_url,
+                analysis_text,
+                report_type,
+                keyword_hotspots if keyword_hotspots else None,
+                self.proxy_url,
+            )
+            
+            if result:
+                print(f"✅ {report_type}已成功发送到飞书")
             else:
-                print("未配置飞书Webhook，无法发送分析结果")
+                print(f"❌ {report_type}发送到飞书失败，请检查日志")
             
             print(f"{report_type}完成")
             
