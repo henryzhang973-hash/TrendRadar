@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-13T12:49:19.853618+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-12-13T13:43:19.344130+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "对日本，美国越来越不耐烦了",
+          "url": "https://news.ifeng.com/c/8p2knNhcQIf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
+        },
         {
           "title": "斯坦福 38% 本科新生残疾，美国名校「残疾潮」暗流涌动，这反映出美国大学招生体系的哪些问题？",
           "url": "https://www.zhihu.com/question/1982383860055553227",
@@ -14,11 +25,12 @@
           "ranks": [
             8,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "外交部回应日本防卫大臣和美国国防部长通话",
@@ -28,11 +40,12 @@
             14,
             16,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "日本极右翼分子对美国“开火”了",
@@ -47,19 +60,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 11时43分]"
-        },
-        {
-          "title": "对日本，美国越来越不耐烦了",
-          "url": "https://news.ifeng.com/c/8p2knNhcQIf",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "消息人士：在拜登时代，美国曾短暂地向以色列隐瞒了一些战争情报",
@@ -158,6 +160,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "马杜罗说美国威胁手段永远行不通",
+          "url": "https://flash.jin10.com/detail/20251213125646447800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国原油期货本周跌约4.4%，纽约天然气跌超22%",
           "url": "https://wallstreetcn.com/livenews/3020125",
           "source": "华尔街见闻-快讯",
@@ -211,6 +224,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时34分]"
+        },
+        {
+          "title": "柬埔寨首相：美国和马来西亚应核实“在最新冲突中哪一方先开火”。",
+          "url": "https://flash.jin10.com/detail/20251213092319080800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时43分]"
         },
         {
           "title": "美国邮政暂停来自泰国的邮件服务。",
@@ -300,18 +326,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "柬埔寨首相：美国和马来西亚应核实“在最新冲突中哪一方先开火”。",
-          "url": "https://flash.jin10.com/detail/20251213092319080800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时49分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee：（对12月FOMC货币政策会议结果）持异议与鹰派立场无关，因为我并并不是鹰派。 我并不是说“我们不可以考虑在长期范围内（多次）降息”。 仍然认为消费者（开支）相当得体，他们具有韧性。",
@@ -639,6 +653,19 @@
           "time_info": "[00时49分 ~ 07时34分]"
         },
         {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时41分 ~ 13时43分]"
+        },
+        {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
@@ -651,17 +678,30 @@
           "time_info": "[00时49分 ~ 07时34分]"
         },
         {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
+        },
+        {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -675,19 +715,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时49分 ~ 12时49分]"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时41分 ~ 12时49分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -714,16 +741,16 @@
           "time_info": "[00时49分 ~ 06时42分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -737,16 +764,17 @@
           "time_info": "[04时43分 ~ 07时34分]"
         },
         {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
           "ranks": [
+            11,
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 13时43分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -772,19 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 12时49分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -987,8 +1002,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
+        },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
@@ -1022,19 +1048,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认",
-          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
-          "source": "凤凰网",
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
           "ranks": [
-            3
+            15,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
+          "time_info": "[11时42分 ~ 13时43分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -1059,6 +1086,18 @@
           "time_info": "01时42分"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
+        },
+        {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
           "url": "https://flash.jin10.com/detail/20251213022744229800",
           "source": "金十数据",
@@ -1072,15 +1111,15 @@
           "time_info": "[02时58分 ~ 07时34分]"
         },
         {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
@@ -1108,16 +1147,28 @@
           "time_info": "[02时58分 ~ 05时34分]"
         },
         {
+          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 13时43分]"
+        },
+        {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时43分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -1132,6 +1183,19 @@
           "time_info": "[07时34分 ~ 11时43分]"
         },
         {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时43分]"
+        },
+        {
           "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
           "url": "https://wallstreetcn.com/livenews/3020165",
           "source": "华尔街见闻-快讯",
@@ -1144,6 +1208,18 @@
           "time_info": "[07时34分 ~ 11时43分]"
         },
         {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时43分]"
+        },
+        {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
           "url": "https://wallstreetcn.com/livenews/3020161",
           "source": "华尔街见闻-快讯",
@@ -1154,18 +1230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时49分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -1182,16 +1246,17 @@
           "time_info": "[01时42分 ~ 04时43分]"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10
+            7,
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时43分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -1233,45 +1298,11 @@
           "time_info": "[05时34分 ~ 07时34分]"
         },
         {
-          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
-          "url": "https://news.ifeng.com/c/8p315VNzI20",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时49分]"
-        },
-        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1288,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普回应与爱泼斯坦同框照片被公布",
+          "url": "https://www.toutiao.com/trending/7582957093125636122/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -1337,7 +1379,7 @@
     },
     {
       "keyword_group": "中国",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
@@ -1349,8 +1391,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
         },
         {
           "title": "针对“放生”矿泉水、大米等现象，中国佛教协会刊文：深感惊讶和不解",
@@ -1364,8 +1406,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 12时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 13时43分]"
+        },
+        {
+          "title": "事关中国？欧盟被曝将取消内燃机禁令，德国支持，西班牙反对",
+          "url": "https://news.ifeng.com/c/8p2rqobDCkn",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
         },
         {
           "title": "菲船只在仙宾礁海域挑衅，中国海警外逼驱离",
@@ -1377,6 +1431,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "法国可劲怂恿，欧盟对中国小包裹下手",
+          "url": "https://news.ifeng.com/c/8p2rqobDCko",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时43分]"
         },
         {
           "title": "墨西哥为何突然对中国商品加征关税",
@@ -1434,30 +1500,6 @@
           "time_info": "[00时49分 ~ 06时42分]"
         },
         {
-          "title": "事关中国？欧盟被曝将取消内燃机禁令，德国支持，西班牙反对",
-          "url": "https://news.ifeng.com/c/8p2rqobDCkn",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
-        },
-        {
-          "title": "法国可劲怂恿，欧盟对中国小包裹下手",
-          "url": "https://news.ifeng.com/c/8p2rqobDCko",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时49分]"
-        },
-        {
           "title": "新一年的“中国机遇”",
           "url": "https://www.toutiao.com/trending/7582984349118201882/",
           "source": "今日头条",
@@ -1465,19 +1507,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 13时43分]"
+        },
+        {
+          "title": "中国代表：中方愿推动针对海地黑帮的安理会决议得以落实",
+          "url": "https://flash.jin10.com/detail/20251213131926390800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "中国代表敦促刚果（金）“M23运动”立即停火",
           "url": "https://flash.jin10.com/detail/20251213121923434800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时43分]"
+        },
+        {
+          "title": "“看好中国”已成共识",
+          "url": "https://www.toutiao.com/trending/7582909402869534262/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 13时43分]"
         },
         {
           "title": "台湾是中国一个省没外交部",
@@ -1504,15 +1569,15 @@
           "time_info": "[06时41分 ~ 07时34分]"
         },
         {
-          "title": "“看好中国”已成共识",
-          "url": "https://www.toutiao.com/trending/7582909402869534262/",
-          "source": "今日头条",
+          "title": "看好中国经济已成共识",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B7%B2%E6%88%90%E5%85%B1%E8%AF%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "中国驻巴基斯坦使馆提醒",
