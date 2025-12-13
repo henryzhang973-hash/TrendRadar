@@ -2655,7 +2655,7 @@ def generate_keyword_summary(
         api_key: Optional[str] = None,
         proxy_url: Optional[str] = None,
 ) -> Optional[str]:
-    """生成关键词相关新闻的AI总结"""
+    """生成关键词相关新闻的AI总结（从交易者角度）"""
     if not api_key:
         api_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
         if not api_key:
@@ -2675,20 +2675,26 @@ def generate_keyword_summary(
     
     news_text = "\n".join(news_list[:20])  # 最多20条新闻
     
-    prompt = f"""请对以下与关键词（AI、人工智能、特朗普、美国、中国）相关的热点新闻进行简洁总结。
+    prompt = f"""请作为专业的交易者和市场分析师，对以下与关键词（AI、人工智能、特朗普、美国、中国）相关的热点新闻进行分析。
 
 要求：
-1. 用一段话（100-200字）总结主要热点和趋势
-2. 突出重要事件和关键信息
-3. 语言简洁专业，便于快速阅读
-4. 不要列出具体新闻标题，只给出总结性描述
+1. 从交易者角度判断这些热点对市场的潜在影响
+2. 评估热点的重要性和持续性
+3. 给出投资和研究建议
+4. 使用Markdown格式输出，尽量简洁
+5. 重点关注可能影响市场走势的关键信息
+
+输出格式要求（Markdown）：
+- 使用标题、列表等Markdown语法
+- 结构清晰，便于快速阅读
+- 控制在200-300字以内
 
 相关新闻：
 {news_text}
 
-请给出简洁的总结："""
+请给出交易者角度的分析和建议："""
     
-    return call_deepseek_api(prompt, api_key, proxy_url, max_tokens=500)
+    return call_deepseek_api(prompt, api_key, proxy_url, max_tokens=800)
 
 
 def send_to_webhooks(
@@ -2934,25 +2940,20 @@ def generate_evening_analysis(
             evening_text += f"{i}. {item['title']}\n"
         evening_text += "\n"
     
-    keyword_text = "与关键词（AI、人工智能、特朗普、美国、中国）相关的热点：\n\n"
-    for i, item in enumerate(keyword_related_hotspots, 1):
-        keyword_text += f"{i}. {item['title']} (来源: {item.get('source', '未知')})\n"
-    
     prompt = f"""请作为专业的新闻分析师，对比分析上午9点和晚上9点的热点变化，给出当日复盘报告。
 
 要求：
-1. 对比上午和晚上的热点变化，分析哪些话题持续热度，哪些是新出现的
+1. 对比上午9点和晚上9点的热点变化，分析哪些话题持续热度，哪些是新出现的
 2. 分析热点变化背后的原因和趋势
 3. 总结当日重要事件和关键信息
-4. 对与关键词（AI、人工智能、特朗普、美国、中国）相关的热点进行重点分析
-5. 用简洁、专业的语言输出复盘报告
-6. 输出格式要清晰，便于阅读
+4. 用简洁、专业的语言输出复盘报告
+5. 输出格式要清晰，便于阅读
+
+注意：本分析不关注特定关键词，而是分析所有平台的整体热点趋势。
 
 {morning_text}
 
 {evening_text}
-
-{keyword_text}
 
 请给出详细的复盘报告："""
     
@@ -3000,12 +3001,13 @@ def send_ai_summary_to_feishu(
         report_type: str,
         proxy_url: Optional[str] = None,
 ) -> bool:
-    """发送AI总结到飞书（用于crawler workflow）"""
+    """发送AI总结到飞书（用于crawler workflow，交易者角度）"""
     headers = {"Content-Type": "application/json"}
 
-    # 构建消息内容
-    content = f"📊 {report_type}\n\n"
+    # 构建消息内容（Markdown格式）
+    content = f"📈 **{report_type}**\n\n"
     content += "━━━━━━━━━━━━━━━━━━━\n\n"
+    # summary_text已经是Markdown格式，直接使用
     content += summary_text
     
     now = get_beijing_time()
@@ -3889,18 +3891,7 @@ class NewsAnalyzer:
                 print("未获取到任何热点数据")
                 return
             
-            # 获取关键词相关的热点
-            keywords = ["AI", "人工智能", "特朗普", "美国", "中国"]
-            platform_ids = [p["id"] for p in CONFIG["PLATFORMS"]]
-            all_results, final_id_to_name, title_info = read_all_today_titles(platform_ids)
-            
-            keyword_hotspots = []
-            if all_results:
-                keyword_hotspots = get_keyword_related_hotspots(
-                    all_results, final_id_to_name, title_info, keywords, top_n=5
-                )
-            
-            # 生成AI分析
+            # 生成AI分析（不使用关键词，只分析所有平台前十条热点）
             if is_morning:
                 # 上午9点：生成当日情况分析
                 analysis_text = generate_morning_analysis(
@@ -3909,17 +3900,18 @@ class NewsAnalyzer:
                 # 保存上午数据供晚上使用
                 self._save_morning_data(platform_hotspots)
             else:
-                # 晚上9点：需要对比上午的数据
+                # 晚上9点：需要对比上午9点的数据
                 # 读取上午9点的数据
                 morning_hotspots = self._load_morning_data()
                 if not morning_hotspots:
                     print("未找到上午9点的数据，将使用当前数据进行分析")
                     morning_hotspots = platform_hotspots
                 
+                # 晚上9点不需要关键词热点，只对比上午和晚上的所有平台热点
                 analysis_text = generate_evening_analysis(
                     morning_hotspots,
                     platform_hotspots,
-                    keyword_hotspots,
+                    [],  # 不传递关键词热点
                     api_key,
                     self.proxy_url,
                 )
@@ -3939,13 +3931,13 @@ class NewsAnalyzer:
             
             print(f"准备发送消息到飞书，Webhook URL: {feishu_url[:50]}...")
             print(f"分析文本长度: {len(analysis_text)} 字符")
-            print(f"关键词热点数量: {len(keyword_hotspots) if keyword_hotspots else 0}")
             
+            # AI analysis不使用关键词热点，只发送分析文本
             result = send_ai_analysis_to_feishu(
                 feishu_url,
                 analysis_text,
                 report_type,
-                keyword_hotspots if keyword_hotspots else None,
+                None,  # 不发送关键词热点
                 self.proxy_url,
             )
             
