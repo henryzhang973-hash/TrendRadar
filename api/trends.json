@@ -1,271 +1,337 @@
 {
-  "generated_at": "2025-12-15T13:03:18.433013+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-12-16T13:01:25.045408+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
-          "title": "“神仙打架”被中国科学家终结",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%E2%80%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
+          "title": "中国农村的科技含量越来越高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E7%A7%91%E6%8A%80%E5%90%AB%E9%87%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
-          "url": "https://wallstreetcn.com/articles/3761393",
+          "title": "菲方人员持刀威胁中国海警画面公开",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E4%BA%BA%E5%91%98%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "中国科学家终结爱因斯坦和玻尔争论",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BB%88%E7%BB%93%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%92%8C%E7%8E%BB%E5%B0%94%E4%BA%89%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "中国乒协回应WTT总决赛孙颖莎、王楚钦退赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32176016",
-          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "曝柬军中国产反坦克导弹被泰军缴获",
-          "url": "https://www.toutiao.com/trending/7583899523462729225/",
+          "title": "日方倒打一耙不可能得逞！国防部公布中国航母编队舰载机飞行训练实际情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32179194",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "国际人士：中国有权捍卫主权领土完整",
+          "url": "https://www.toutiao.com/trending/7583654470971162660/",
           "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "中国有没有实战性很强的武术？",
+          "url": "https://www.zhihu.com/question/301752911",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "15岁中国少女橘子碗夺冠创历史",
+          "url": "https://www.toutiao.com/trending/7582993129776463910/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）富时中国A50指数成分股午盘收盘行情一览：大面积飘绿，半导体、通信设备、有色金属等板块领跌",
+          "url": "https://flash.jin10.com/detail/20251216113315753800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "三星电子正接近与英伟达敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额。（中国台湾电子时报）",
+          "url": "https://wallstreetcn.com/livenews/3021401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "中国成《疯狂动物城2》全球最大票仓",
+          "url": "https://wallstreetcn.com/livenews/3021378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "意大利企业AI技术使用率翻倍",
+          "url": "https://flash.jin10.com/detail/20251216123652498800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "中国古人如何熬过寒冷冬天",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E5%A6%82%E4%BD%95%E7%86%AC%E8%BF%87%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "中国队11岁小孩姐12秒骑射五箭全中",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F11%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%A7%9012%E7%A7%92%E9%AA%91%E5%B0%84%E4%BA%94%E7%AE%AD%E5%85%A8%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "金十图示：2025年12月15日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、保险、白酒板块上涨，消费电子、电池、化学制药板块下跌",
-          "url": "https://flash.jin10.com/detail/20251215113320108800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国移动发布6G传输技术白皮书与原型样机",
-          "url": "https://wallstreetcn.com/livenews/3020647",
+          "title": "意大利企业AI技术使用率翻倍",
+          "url": "https://wallstreetcn.com/livenews/3021406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时01分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216120200843800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 7,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美国特使称美乌柏林会谈取得“重大进展”",
-          "url": "https://news.ifeng.com/c/8p5rPWB09j7",
+          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
+          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "美媒：欧盟即将进入关键一周，向美国展示自己并不软弱",
-          "url": "https://news.ifeng.com/c/8p5VYy1Hx1a",
-          "source": "凤凰网",
+          "title": "日媒：高市被特朗普警告后情绪低落",
+          "url": "https://www.toutiao.com/trending/7584090116184985142/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "华尔街投行：明年更大的风险不是“美国衰退导致市场崩盘”，而是“市场崩盘导致美国衰退”",
-          "url": "https://wallstreetcn.com/articles/3761360",
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "美国前驻华大使博卡斯：关键在于能否维持“贸易休战”",
-          "url": "https://news.ifeng.com/c/8p65FhvCQMz",
-          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "美国276斤死刑犯行刑前点奢华盛宴",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD276%E6%96%A4%E6%AD%BB%E5%88%91%E7%8A%AF%E8%A1%8C%E5%88%91%E5%89%8D%E7%82%B9%E5%A5%A2%E5%8D%8E%E7%9B%9B%E5%AE%B4",
-          "source": "百度热搜",
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "中美关系剧透警告｜美国前驻华大使博卡斯：关键在于能否维持“贸易休战”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32174968",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "美国布朗大学 2025 年 12 月 13 日发生枪击事件，致 2 死 8 伤，嫌疑人仍在逃，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1983427558025488018",
-          "source": "知乎",
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[13时00分 ~ 13时01分]"
         }
       ]
     },
     {
-      "keyword_group": "AI 人工智能",
-      "match_count": 3,
+      "keyword_group": "美国",
+      "match_count": 5,
       "titles": [
         {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
+          "title": "委内瑞拉称特多曾协助美国“盗取”油轮",
+          "url": "https://news.ifeng.com/c/8p82n3wW0Tf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "美国版战忽局再上线",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "委内瑞拉称特多曾协助美国“盗取”油轮",
+          "url": "https://flash.jin10.com/detail/20251216120711010800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
-          "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
-          "url": "https://www.cls.cn/detail/2229051",
-          "source": "财联社热门",
+          "title": "委内瑞拉称特多曾协助美国“盗取”油轮",
+          "url": "https://wallstreetcn.com/livenews/3021399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
-          "url": "https://flash.jin10.com/detail/20251215115553831800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "13时01分"
         },
         {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
+          "title": "印度卢比兑美元跌至历史新低，现报1美元兑90.8087卢比。印度本地资产遭遇资金持续外流，且与美国的贸易协议迟迟未能敲定，令市场情绪承压。",
+          "url": "https://wallstreetcn.com/livenews/3021385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
