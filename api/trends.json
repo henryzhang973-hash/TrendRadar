@@ -1,99 +1,132 @@
 {
-  "generated_at": "2025-12-17T12:58:38.217550+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-12-18T12:59:15.905172+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 8,
+      "keyword_group": "中国",
+      "match_count": 11,
       "titles": [
         {
-          "title": "美国就业继续降温：11月非农小幅回升，但失业率创四年新高，交易员估明年降息两次",
-          "url": "https://wallstreetcn.com/articles/3761504",
-          "source": "华尔街见闻",
+          "title": "中国发现亚洲最大海底金矿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%A4%A7%E6%B5%B7%E5%BA%95%E9%87%91%E7%9F%BF",
+          "source": "百度热搜",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "美国11月非农录得6.4万人 失业率为四年来新高 劳动力市场面临不确定性",
-          "url": "https://www.cls.cn/detail/2231468",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
-          "url": "https://wallstreetcn.com/articles/3761522",
-          "source": "华尔街见闻",
+          "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193977",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2231451",
-          "source": "财联社热门",
+          "title": "中国发现的新矿物正式命名为金秀矿",
+          "url": "https://news.ifeng.com/c/8pB2bIusQEC",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "美国务院批准1亿美元对日军售",
-          "url": "https://www.douyin.com/hot/2338714",
-          "source": "抖音",
+          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
+          "url": "https://www.zhihu.com/question/1976277649514074131",
+          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "美国版战忽局再上线",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
           "ranks": [
-            24
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "许亚军被曝在美国",
-          "url": "https://www.toutiao.com/trending/7583827299838066724/",
-          "source": "今日头条",
+          "title": "泰安古匾实证琉球曾为中国藩属国",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%AE%89%E5%8F%A4%E5%8C%BE%E5%AE%9E%E8%AF%81%E7%90%89%E7%90%83%E6%9B%BE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%97%A9%E5%B1%9E%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "国台办：坚决反对美国与中国台湾地区开展任何形式的军事联系",
-          "url": "https://wallstreetcn.com/livenews/3022095",
+          "title": "中国光伏行业协会王勃华：光伏企业应进一步支持参与行业自律，坚决抵制以低于成本的价格开展恶性竞争",
+          "url": "https://wallstreetcn.com/livenews/3022835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "12时59分"
+        },
+        {
+          "title": "中国气象局：到2035年建成自主可控、国际先进的地球系统预报体系",
+          "url": "https://wallstreetcn.com/livenews/3022824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "中国光伏行业协会名誉理事长王勃华：多晶硅产量12年来首次下降",
+          "url": "https://wallstreetcn.com/livenews/3022821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "中国海关：中国11月份玉米及玉米粉进口56万吨 同比增87.5%。 今年累计玉米及玉米粉进口185万吨，同比降86.1%。 11月份小麦及小麦粉进口25万吨，同比增278.6%。 今年累计小麦及小麦粉进口340万吨，同比降69.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "海关：中国11月份稀土及其制品出口12452吨，同比增22.7%。 今年累计稀土及其制品出口118447吨，同比增4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3022815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -102,247 +135,192 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "凯投宏观：如果AI热潮继续消退，中国股市可能比美国股市表现更好",
-          "url": "https://flash.jin10.com/detail/20251217124326326800",
-          "source": "金十数据",
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
-          "url": "https://www.zhihu.com/question/1984358783053422759",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
-          "url": "https://flash.jin10.com/detail/20251217120220101800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
           "source": "财联社热门",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "虞书欣ThaiMu",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
-          "url": "https://flash.jin10.com/detail/20251217115517049800",
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
+          "url": "https://flash.jin10.com/detail/20251218121012213800",
           "source": "金十数据",
           "ranks": [
-            14
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "12时59分"
         },
         {
-          "title": "韩国测试借助人工智能监测冬季危险路况",
-          "url": "https://wallstreetcn.com/livenews/3022093",
+          "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
+          "url": "https://wallstreetcn.com/livenews/3022822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "12时59分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218120050426800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "12时59分"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983941746871264912",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "民调：超六成美国选民反对在委内瑞拉境内动武",
+          "url": "https://news.ifeng.com/c/8pB2r4tEibX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
+          "url": "https://www.zhihu.com/question/1984441162011022805",
           "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32186728",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "特朗普称已下令封锁进出委受制裁油轮",
-          "url": "https://www.toutiao.com/trending/7584624870806277638/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中国脑机接口实现新突破",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "2025中国经济印记",
-          "url": "https://www.douyin.com/hot/2338915",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "中国国新：要高质量运营中央企业战略性新兴产业发展专项基金、国新创投基金",
-          "url": "https://wallstreetcn.com/livenews/3022131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "39岁中国女子伦敦被刺身亡",
-          "url": "https://www.baidu.com/s?wd=39%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%BC%A6%E6%95%A6%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）富时中国A50指数成分股午盘收盘行情一览：通信设备、保险板块领涨，新易盛涨超6%，煤炭板块跌幅居前",
-          "url": "https://flash.jin10.com/detail/20251217113649052800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "菲方人员持长刀挑衅中国海警",
-          "url": "https://www.toutiao.com/trending/7584190038892809764/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "中国财政部发行28天期债券，规模400亿元，发行利率1.1220%，边际利率1.3049%，预期1.2500%，投标倍数2.09倍，边际倍数1.24倍； 中国财政部发行91天期债券，规模600亿元，发行利率1.2957%，边际利率1.3442%，预期1.3500%，投标倍数2.69倍，边际倍数2.32倍。",
-          "url": "https://wallstreetcn.com/livenews/3022109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         }
       ]
     }
