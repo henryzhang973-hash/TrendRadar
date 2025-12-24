@@ -1,60 +1,27 @@
 {
-  "generated_at": "2025-12-23T13:01:41.808606+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-24T13:01:39.845088+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "中国",
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
+          "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
+          "url": "https://www.cls.cn/detail/2238263",
+          "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "美新型战舰被命名为特朗普级你咋看",
-          "url": "https://www.toutiao.com/trending/7586859203608772635/",
-          "source": "今日头条",
+          "title": "2025年至今中国共完成87次航天发射，民企执行23次",
+          "url": "https://wallstreetcn.com/livenews/3025987",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
@@ -63,20 +30,97 @@
           "time_info": "13时01分"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "洪秀柱赞郑丽文表达我是中国人立场",
+          "url": "https://www.toutiao.com/trending/7586822955934728218/",
+          "source": "今日头条",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "特朗普宣布：建造特朗普级战列舰",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%BB%BA%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0",
+          "title": "超50万吨车厘子涌入中国",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8550%E4%B8%87%E5%90%A8%E8%BD%A6%E5%8E%98%E5%AD%90%E6%B6%8C%E5%85%A5%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美为何此时全面收紧对中国无人机限制",
+          "url": "https://www.toutiao.com/trending/7587249656829054483/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，保险、酿酒板块全线走低",
+          "url": "https://flash.jin10.com/detail/20251224113421162800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "中国人终于对鱼刺“下手”了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%AF%B9%E9%B1%BC%E5%88%BA%E2%80%9C%E4%B8%8B%E6%89%8B%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "谷辣斯妄称不是中国人 国台办回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "中国财政部发行91天期债券，规模600亿元，发行利率1.2352%，边际利率1.2957%，预期1.3000%，投标倍数2.36倍，边际倍数1.77倍； 中国财政部发行182天期债券，规模600亿元，发行利率1.3121%，边际利率1.3527%，预期1.3500%，投标倍数2.64倍，边际倍数1.33倍； 中国财政部发行7年期债券，规模880亿元，发行利率1.6600%，边际利率1.6900%，预期1.7000%，投标倍数3.22倍，边际倍数8.80倍。",
+          "url": "https://wallstreetcn.com/livenews/3025972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
@@ -85,163 +129,36 @@
           "time_info": "13时01分"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "title": "泰柬双双感谢中国调停说明什么",
+          "url": "https://www.toutiao.com/trending/7586993825218825771/",
           "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普称其目标是迫使马杜罗下台",
-          "url": "https://wallstreetcn.com/livenews/3025322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "中国有色金属工业协会锡业分会：锡价急速拉升背离产业基本面 对产业链供应链造成冲击",
-          "url": "https://wallstreetcn.com/livenews/3025367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "郑丽文激动发声：我们是中国人",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E6%BF%80%E5%8A%A8%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "郑丽文激动发声：我们是中国人",
-          "url": "https://www.toutiao.com/trending/7585809352938864694/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "疯狂动物城2近一半票房来自中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E8%BF%91%E4%B8%80%E5%8D%8A%E7%A5%A8%E6%88%BF%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "98%中国亿万富豪都是白手起家",
-          "url": "https://www.baidu.com/s?wd=98%25%E4%B8%AD%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E9%83%BD%E6%98%AF%E7%99%BD%E6%89%8B%E8%B5%B7%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "中国古建令人惊叹",
-          "url": "https://www.douyin.com/hot/2344991",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "2000日元一条黑中国？有人真急了",
-          "url": "https://www.toutiao.com/trending/7586321282641084458/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "扶贫兜底,中国斩杀线低得可怕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348191&amp;topic_name=%E6%89%B6%E8%B4%AB%E5%85%9C%E5%BA%95%2C%E4%B8%AD%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E4%BD%8E%E5%BE%97%E5%8F%AF%E6%80%95",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "富时中国A50指数期货涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3025318",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "樊振东获赞中国给欧洲乒坛的最大馈赠",
+          "url": "https://www.toutiao.com/trending/7586461728670531603/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
-      "keyword_group": "AI 人工智能",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 11,
       "titles": [
         {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
           "source": "今日头条",
           "ranks": [
             6
@@ -251,66 +168,110 @@
           "time_info": "13时01分"
         },
         {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
           "source": "抖音",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
-          "source": "财联社热门",
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            7
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223120023669800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "曝英伟达计划春节前对华交付AI芯片",
-          "url": "https://www.toutiao.com/trending/7586876449718685210/",
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
           "ranks": [
-            17
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
+          "url": "https://wallstreetcn.com/livenews/3025951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -320,25 +281,119 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
-          "title": "如何评价美国新护卫舰项目",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8A%A4%E5%8D%AB%E8%88%B0%E9%A1%B9%E7%9B%AE",
-          "source": "bilibili 热搜",
+          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
+          "url": "https://wallstreetcn.com/articles/3761934",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
         {
-          "title": "美国隐形斩杀线:残酷清除底层人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348183&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%9A%90%E5%BD%A2%E6%96%A9%E6%9D%80%E7%BA%BF%3A%E6%AE%8B%E9%85%B7%E6%B8%85%E9%99%A4%E5%BA%95%E5%B1%82%E4%BA%BA",
-          "source": "贴吧",
+          "title": "是谁划下了“美国斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            29
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "李凯尔改回美国国籍",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%87%AF%E5%B0%94%E6%94%B9%E5%9B%9E%E7%BE%8E%E5%9B%BD%E5%9B%BD%E7%B1%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "男篮归化球员李凯尔国籍变回美国",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%BD%92%E5%8C%96%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%8F%98%E5%9B%9E%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "男篮归化球员李凯尔国籍变回美国",
+          "url": "https://www.toutiao.com/trending/7586564098591817770/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海市新增9款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3025990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224115857022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
