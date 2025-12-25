@@ -1,403 +1,359 @@
 {
-  "generated_at": "2025-12-24T13:01:39.845088+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2025-12-25T13:02:12.074297+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 13,
+      "keyword_group": "美国",
+      "match_count": 15,
       "titles": [
         {
-          "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
-          "url": "https://www.cls.cn/detail/2238263",
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
+          "url": "https://www.cls.cn/detail/2239421",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "2025年至今中国共完成87次航天发射，民企执行23次",
-          "url": "https://wallstreetcn.com/livenews/3025987",
-          "source": "华尔街见闻-快讯",
+          "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
+          "url": "https://www.zhihu.com/question/1987239829688247081",
+          "source": "知乎",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "洪秀柱赞郑丽文表达我是中国人立场",
-          "url": "https://www.toutiao.com/trending/7586822955934728218/",
-          "source": "今日头条",
+          "title": "斩杀线揭开美国一角,殖人先急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "超50万吨车厘子涌入中国",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8550%E4%B8%87%E5%90%A8%E8%BD%A6%E5%8E%98%E5%AD%90%E6%B6%8C%E5%85%A5%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "一夜返贫!美国富翁也难逃斩杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
+          "source": "贴吧",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
-          "source": "澎湃新闻",
+          "title": "美国人头上都有条成为流浪汉的「斩杀线」么，从经济角度如何看待这种现象？「斩杀线」背后的本质是什么？",
+          "url": "https://www.zhihu.com/question/1986918666340677378",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "美为何此时全面收紧对中国无人机限制",
-          "url": "https://www.toutiao.com/trending/7587249656829054483/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，保险、酿酒板块全线走低",
-          "url": "https://flash.jin10.com/detail/20251224113421162800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "中国人终于对鱼刺“下手”了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%AF%B9%E9%B1%BC%E5%88%BA%E2%80%9C%E4%B8%8B%E6%89%8B%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "谷辣斯妄称不是中国人 国台办回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "中国财政部发行91天期债券，规模600亿元，发行利率1.2352%，边际利率1.2957%，预期1.3000%，投标倍数2.36倍，边际倍数1.77倍； 中国财政部发行182天期债券，规模600亿元，发行利率1.3121%，边际利率1.3527%，预期1.3500%，投标倍数2.64倍，边际倍数1.33倍； 中国财政部发行7年期债券，规模880亿元，发行利率1.6600%，边际利率1.6900%，预期1.7000%，投标倍数3.22倍，边际倍数8.80倍。",
-          "url": "https://wallstreetcn.com/livenews/3025972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "泰柬双双感谢中国调停说明什么",
-          "url": "https://www.toutiao.com/trending/7586993825218825771/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "樊振东获赞中国给欧洲乒坛的最大馈赠",
-          "url": "https://www.toutiao.com/trending/7586461728670531603/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "title": "美国未来18个月不对中国芯片加征额外关税，释放什么信号？",
+          "url": "https://news.ifeng.com/c/8pMXDpCmPFM",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "李凯尔辟谣已恢复美国国籍，经纪人称不排除效力 CBA 可能，如何看待这个表态？男篮的规化策略可否持续？",
+          "url": "https://www.zhihu.com/question/1987152660307126035",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美国为何着急打压中国无人机",
+          "url": "https://www.toutiao.com/trending/7587609246309551679/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "李凯尔发声：恢复美国国籍不实",
+          "url": "https://www.toutiao.com/trending/7587253195055828516/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "什么是美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济今年展现出韧性。 来自美国经济和关税的风险已经减弱。 随着薪资增长，物价更接近目标。 **日本的真实利率仍然非常低。 如果经济展望实现将保持加息。** 调整宽松政策将推动长期增长。 预计薪资上行压力将持续。 回归零利率常态的风险已降低。",
+          "url": "https://wallstreetcn.com/livenews/3026526",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
+          "title": "日本首相高市早苗：美国关税造成供应链不确定性。 力争实现工资增幅跟上物价涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3026507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "日本央行行长植田和男：美国经济面临的下行风险正在消退。",
+          "url": "https://flash.jin10.com/detail/20251225122453636800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
         },
         {
-          "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
-          "url": "https://wallstreetcn.com/livenews/3025951",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行行长植田和男：围绕美国经济的不确定性及关税影响依然存在，但正在减弱。",
+          "url": "https://flash.jin10.com/detail/20251225122427641800",
+          "source": "金十数据",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
         }
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 7,
+      "keyword_group": "中国",
+      "match_count": 11,
       "titles": [
         {
-          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
-          "url": "https://wallstreetcn.com/articles/3761934",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "是谁划下了“美国斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "title": "中国磁悬浮试验车时速700公里破纪录",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A3%81%E6%82%AC%E6%B5%AE%E8%AF%95%E9%AA%8C%E8%BD%A6%E6%97%B6%E9%80%9F700%E5%85%AC%E9%87%8C%E7%A0%B4%E7%BA%AA%E5%BD%95",
           "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "李凯尔改回美国国籍",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%87%AF%E5%B0%94%E6%94%B9%E5%9B%9E%E7%BE%8E%E5%9B%BD%E5%9B%BD%E7%B1%8D",
-          "source": "bilibili 热搜",
+          "title": "中国农业发展银行行长张小东一行到访上海清算所并调研",
+          "url": "https://wallstreetcn.com/livenews/3026530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "泽连斯基为何把矛头指向中国",
+          "url": "https://www.toutiao.com/trending/7587608455666470427/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "男篮归化球员李凯尔国籍变回美国",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%BD%92%E5%8C%96%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%8F%98%E5%9B%9E%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "泽连斯基又扯中国，这次是卫星",
+          "url": "https://news.ifeng.com/c/8pMiaD3fRMC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "五角大楼“中国军力报告”硬中有缓？专家解读",
+          "url": "https://news.ifeng.com/c/8pMbEdu3DZT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "为什么欧日俄印在面对跟 spacex 越来越大的差距时，没有像中国这样焦急地追赶？",
+          "url": "https://www.zhihu.com/question/1987109527217254861",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "男篮归化球员李凯尔国籍变回美国",
-          "url": "https://www.toutiao.com/trending/7586564098591817770/",
+          "title": "日本遗孤自取日本名纪念中国养父母",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%E8%87%AA%E5%8F%96%E6%97%A5%E6%9C%AC%E5%90%8D%E7%BA%AA%E5%BF%B5%E4%B8%AD%E5%9B%BD%E5%85%BB%E7%88%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "NASA新局长：中国空间站烤鸡翅很酷",
+          "url": "https://www.toutiao.com/trending/7587291109551570963/",
           "source": "今日头条",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "泽连斯基称俄军用上中国卫星数据",
+          "url": "https://www.toutiao.com/trending/7587565242419494918/",
+          "source": "今日头条",
           "ranks": [
-            15
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
-          "source": "澎湃新闻",
+          "title": "巴西媒体曝：巴西考虑对中国游客实施免签",
+          "url": "https://wallstreetcn.com/livenews/3026523",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
+        },
+        {
+          "title": "由中国商业航天企业天兵科技研制的天龙三号可回收火箭近期将实施首飞任务。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3026504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "上海市新增9款已完成登记的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3025990",
-          "source": "华尔街见闻-快讯",
+          "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
-          "url": "https://flash.jin10.com/detail/20251224115857022800",
+          "title": "软银升级AI计算基础设施，处理能力提升20%",
+          "url": "https://flash.jin10.com/detail/20251225122108008800",
           "source": "金十数据",
           "ranks": [
-            8
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
-          "url": "https://www.zhihu.com/question/1986826913436680279",
-          "source": "知乎",
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
           "ranks": [
-            15
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "13时02分"
         }
       ]
     }
