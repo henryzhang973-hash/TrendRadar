@@ -1,548 +1,425 @@
 {
-  "generated_at": "2026-01-19T12:47:11.219993+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-01-20T12:41:10.203494+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
+      "keyword_group": "中国",
+      "match_count": 15,
       "titles": [
         {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
+          "title": "6个“新”洞见中国经济新机遇",
+          "url": "https://www.toutiao.com/trending/7597182800596402217/",
+          "source": "今日头条",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
+          "title": "用大寒节气打开冬日中国之美",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%A4%A7%E5%AF%92%E8%8A%82%E6%B0%94%E6%89%93%E5%BC%80%E5%86%AC%E6%97%A5%E4%B8%AD%E5%9B%BD%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "title": "IMF上调中国经济增长预期",
+          "url": "https://www.douyin.com/hot/2373174",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "出口额创历史新高，中国变压器在海外卖爆了！",
+          "url": "https://wallstreetcn.com/articles/3763590",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32415962",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
+          "title": "林孝埈首次以中国国籍参加冬奥会",
+          "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E9%A6%96%E6%AC%A1%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%9B%BD%E7%B1%8D%E5%8F%82%E5%8A%A0%E5%86%AC%E5%A5%A5%E4%BC%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "title": "1名中国公民在阿富汗首都爆炸事件中死亡",
+          "url": "https://news.ifeng.com/c/8q3WlIzYyxY",
           "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "外交部：布局中国就是赢得先机",
+          "url": "https://www.douyin.com/hot/2372921",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "美财长声援特朗普加税夺岛",
-          "url": "https://www.toutiao.com/trending/7595914700006211647/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
-          "url": "https://flash.jin10.com/detail/20260119121744013800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
-          "url": "https://flash.jin10.com/detail/20260119121117362800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
-          "url": "https://wallstreetcn.com/livenews/3039516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
-          "url": "https://flash.jin10.com/detail/20260119115225347800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
-          "url": "https://wallstreetcn.com/livenews/3039514",
-          "source": "华尔街见闻-快讯",
+          "title": "“成为中国人”咋就在海外火了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D%E5%92%8B%E5%B0%B1%E5%9C%A8%E6%B5%B7%E5%A4%96%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
-          "url": "https://flash.jin10.com/detail/20260119114952164800",
-          "source": "金十数据",
+          "title": "详解中国轰炸机进化之路",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E8%BD%B0%E7%82%B8%E6%9C%BA%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 14,
-      "titles": [
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
         {
-          "title": "首超140万亿！去年中国GDP增速5%",
-          "url": "https://www.toutiao.com/trending/7596049706971794998/",
+          "title": "印媒：中国大学跃升是印度的一面镜子",
+          "url": "https://www.toutiao.com/trending/7596650006556639275/",
           "source": "今日头条",
           "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "中国汽车业拿下两个连续全球第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
+          "title": "成为中国人咋就在海外火了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8B%E5%B0%B1%E5%9C%A8%E6%B5%B7%E5%A4%96%E7%81%AB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "2025年中国GDP同比增长5%",
-          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "中国GDP跨越140万亿元关口",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "BBA 中仅宝马去年全球销量实现增长，在中国市场集体遇冷，受什么因素影响？反映出哪些市场趋势？",
-          "url": "https://www.zhihu.com/question/1996144743348920535",
+          "title": "四个字概括2025年中国经济表现",
+          "url": "https://www.douyin.com/hot/2372720",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、石油等板块走强，通信设备股回调",
+          "url": "https://flash.jin10.com/detail/20260120113239322800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
           "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
-          "url": "https://www.cls.cn/detail/2261758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "日媒：中国收紧对日稀土出口许可审查",
-          "url": "https://news.ifeng.com/c/8q2DnMZEUV1",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "一图读懂2025年中国经济成绩单",
-          "url": "https://www.toutiao.com/trending/7596886976813649418/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "突破140万亿元关口！2025年中国GDP同比增长5%，四季度GDP增长4.5%",
-          "url": "https://wallstreetcn.com/articles/3763563",
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
           "source": "华尔街见闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "2025年中国GDP达1401879亿元，比上年增长5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413940",
-          "source": "澎湃新闻",
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "范志毅说安东尼奥带 U23 国足像 04 年欧洲杯希腊，董方卓说安东尼奥带队太功利，毁中国足球未来，谁对？",
-          "url": "https://www.zhihu.com/question/1995988616556586523",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "日本最后2只大熊猫下周一回中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%90%8E2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%9B%9E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "title": "特朗普重返白宫1周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB1%E5%91%A8%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            30,
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "中国石油集团董事长戴厚良拜会加拿大总理马克·卡尼",
-          "url": "https://wallstreetcn.com/livenews/3039515",
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "摩根大通预计中国股票涨势有望延续到农历新年",
-          "url": "https://wallstreetcn.com/livenews/3039500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "马杜罗政府实权人物被曝曾长期与美国接触",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411112",
-          "source": "澎湃新闻",
+          "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1996590090156209188",
+          "source": "知乎",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "“美国佬，滚回家！”",
-          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
+          "title": "“照我们的来”，美国想碰英国这条红线",
+          "url": "https://news.ifeng.com/c/8q3B4foesQo",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
-          "url": "https://wallstreetcn.com/articles/3763553",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
-          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "世界周刊谈美国收紧移民政策",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E7%BE%8E%E5%9B%BD%E6%94%B6%E7%B4%A7%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "游戏机被没收，美国11岁男孩开枪打死父亲",
-          "url": "https://news.ifeng.com/c/8q2C37WCxW7",
-          "source": "凤凰网",
+          "title": "中国无意与美国搞“中美共治”",
+          "url": "https://www.toutiao.com/trending/7595975911490650138/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "圆脸评美国对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%AF%84%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "两代弄潮儿：谁在书写美国的财政规则？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408977",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "title": "美财长：欧洲太软弱，格陵兰岛只有属于美国才对大家都好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414255",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "人民日报评美国“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7596857185708019206/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "专家：格陵兰岛难逃美国魔爪",
-          "url": "https://www.toutiao.com/trending/7596629092015803923/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "美国童星疑闯红灯被拖行致死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AB%A5%E6%98%9F%E7%96%91%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB",
+          "title": "中国无意与美国搞“中美共治”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%84%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%90%9E%E2%80%9C%E4%B8%AD%E7%BE%8E%E5%85%B1%E6%B2%BB%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "彻底失控!美国ICE毒杀婴儿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349276&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%21%E7%BE%8E%E5%9B%BDICE%E6%AF%92%E6%9D%80%E5%A9%B4%E5%84%BF",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
-          "url": "https://www.cls.cn/detail/2261597",
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
           "source": "财联社热门",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
-          "url": "https://flash.jin10.com/detail/20260119115731413800",
-          "source": "金十数据",
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
-          "url": "https://flash.jin10.com/detail/20260119114123064800",
-          "source": "金十数据",
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
-          "url": "https://wallstreetcn.com/livenews/3039492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "UP主手搓可食用的AI海洋方块",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-20）",
+          "url": "https://flash.jin10.com/detail/20260120115005476800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "12时41分"
         }
       ]
     }
