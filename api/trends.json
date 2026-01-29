@@ -1,491 +1,502 @@
 {
-  "generated_at": "2026-01-28T12:41:07.786095+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T13:03:52.520096+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
-          "title": "米兰冬奥会中国体育代表团成立",
-          "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E7%AB%8B",
-          "source": "百度热搜",
+          "title": "明家涉案100余亿14名中国人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E6%B6%89%E6%A1%88100%E4%BD%99%E4%BA%BF14%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "有数｜中国用电量首超10万亿度，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32441563",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "川普说「中国制造了几乎所有风力发电设备，自己却没安装」，真实情况如何？你怎么看？",
-          "url": "https://www.zhihu.com/question/1997722076698654465",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "“中国禁止以色列游客入境”不实",
-          "url": "https://www.toutiao.com/trending/7600140082007248403/",
+          "title": "“中国牌”晶体再获重大突破",
+          "url": "https://www.toutiao.com/trending/7600449297415897124/",
           "source": "今日头条",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "中国禁止以色列游客入境系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%85%A5%E5%A2%83%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/1999857203272783816",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "中国准备太空采矿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%87%86%E5%A4%87%E5%A4%AA%E7%A9%BA%E9%87%87%E7%9F%BF",
           "source": "百度热搜",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
-          "source": "澎湃新闻",
+          "title": "警惕！美日“铁拳”联合演习范围将扩大，美媒炒作“针对中国”",
+          "url": "https://news.ifeng.com/c/8qIiTu2ldUO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "英首相：与中国接触符合英国国家利益",
+          "url": "https://www.toutiao.com/trending/7600571703475683382/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "英反对党领袖批评首相访华，专家：不能对中国说“不”",
+          "url": "https://news.ifeng.com/c/8qIogbmRm7h",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "深圳南山区 GDP 破万亿，为全国首个，对中国城市发展有何启示？",
+          "url": "https://www.zhihu.com/question/1999595928424846260",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "马斯克称中国是下一个级别的狠角色",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BA%A7%E5%88%AB%E7%9A%84%E7%8B%A0%E8%A7%92%E8%89%B2%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "菲议员鼓噪将中国外交官列为“不受欢迎的人”，中方发声",
+          "url": "https://news.ifeng.com/c/8qIil6znzWr",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "中国禁止以色列游客入境系谣言",
-          "url": "https://www.douyin.com/hot/2381605",
-          "source": "抖音",
+          "title": "中国奇谭2探寻传闻的大鸟",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8E%A2%E5%AF%BB%E4%BC%A0%E9%97%BB%E7%9A%84%E5%A4%A7%E9%B8%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475047",
-          "source": "澎湃新闻",
+          "title": "英首相刚到就开会：把握中国给的机会",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%88%9A%E5%88%B0%E5%B0%B1%E5%BC%80%E4%BC%9A%EF%BC%9A%E6%8A%8A%E6%8F%A1%E4%B8%AD%E5%9B%BD%E7%BB%99%E7%9A%84%E6%9C%BA%E4%BC%9A",
+          "source": "百度热搜",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "老外在30年前中国长大是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%A4%96%E5%9C%A830%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E9%95%BF%E5%A4%A7%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "2026逐梦中国",
-          "url": "https://s.weibo.com/weibo?q=%232026%E9%80%90%E6%A2%A6%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=23&Refer=top",
+          "title": "中国足协",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "金十图示：2026年01月28日（周三）富时中国A50指数成分股午盘收盘行情一览：板块走势分化，有色金属、小金属、石油板块涨幅居前，半导体、汽车板块表现低迷",
-          "url": "https://flash.jin10.com/detail/20260128113402087800",
-          "source": "金十数据",
+          "title": "中国泡面征服韩星,吧面够权威",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "英国首相称中国已崛起",
+          "url": "https://www.douyin.com/hot/2382110",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "10元中国龙银质纪念币被炒到1万多",
+          "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%B8%AD%E5%9B%BD%E9%BE%99%E9%93%B6%E8%B4%A8%E7%BA%AA%E5%BF%B5%E5%B8%81%E8%A2%AB%E7%82%92%E5%88%B01%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "吃潜江龙虾过红火中国年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E6%BD%9C%E6%B1%9F%E9%BE%99%E8%99%BE%E8%BF%87%E7%BA%A2%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "中国基建狂魔太空版上线",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E5%A4%AA%E7%A9%BA%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "中国游客贝加尔湖遇难 中领馆提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E9%81%87%E9%9A%BE+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "外籍女性在中国从事婚姻诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "恒指日内涨幅扩大至2%，恒生科技指数涨1.4%。中国海洋石油、中国宏桥涨超5%，中国石油股份、中国电信、中国联通涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3045217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "中国贸促会：中国将长期成为外资企业投资兴业的沃土",
-          "url": "https://wallstreetcn.com/livenews/3045216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "中国香港与土耳其促进和保护投资协定2月4日生效",
-          "url": "https://wallstreetcn.com/livenews/3045215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "titles": [
         {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
-          "url": "https://wallstreetcn.com/livenews/3045261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
         },
         {
-          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
-          "url": "https://flash.jin10.com/detail/20260128123413943800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普称还有一支舰队正驶向伊朗",
-          "url": "https://www.douyin.com/hot/2381636",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
-          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "title": "特朗普与参议院民主党领袖推进磋商 力图避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260129123617629800",
           "source": "金十数据",
           "ranks": [
-            26
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
+        },
+        {
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普和美国参议院少数党领袖舒默正朝着达成一项可能的协议迈进，以避免政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260129122742373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://flash.jin10.com/detail/20260129120407962800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 9,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美国、英国、法国、德国发表联合声明",
-          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
+          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
+          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
-          "title": "暴风雪致美国电价飙升1400%",
-          "url": "https://www.toutiao.com/trending/7599132405224489023/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "释新闻｜三周两次射杀合法公民，美国ICE执法人员会被起诉吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472393",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "美国一支舰队正在向伊朗方向航行",
-          "url": "https://www.toutiao.com/trending/7599555248189066815/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "高盛：地缘风险未能阻挡风险偏好高涨 资金正从美国转向全球布局",
-          "url": "https://flash.jin10.com/detail/20260128115312597800",
+          "title": "现代汽车：丰田2025年从日本出口到美国的汽车数量增至615,204辆。",
+          "url": "https://flash.jin10.com/detail/20260129125404576800",
           "source": "金十数据",
           "ranks": [
-            18
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
         },
         {
-          "title": "加拿大总理否认“收回”批评美国的言论",
-          "url": "https://wallstreetcn.com/livenews/3045233",
-          "source": "华尔街见闻-快讯",
+          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
         },
         {
-          "title": "卡尼：现在的美国，几乎什么都不正常",
-          "url": "https://wallstreetcn.com/livenews/3045224",
-          "source": "华尔街见闻-快讯",
+          "title": "丰田汽车：丰田12月从日本出口至美国的汽车数量同比下降6.2%，至52357辆。",
+          "url": "https://flash.jin10.com/detail/20260129125028094800",
+          "source": "金十数据",
           "ranks": [
-            25
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
+        },
+        {
+          "title": "美国天然气期货主力合约日内涨幅扩大至3%，现报3.844美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260129124131895800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
+          "url": "https://www.zhihu.com/question/1999590149818954631",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "美国持续增兵中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
-          "url": "https://www.zhihu.com/question/1999418734398366788",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128115641682800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时03分"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     }
