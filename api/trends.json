@@ -1,491 +1,282 @@
 {
-  "generated_at": "2026-02-01T13:20:44.626757+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-02T13:22:35.165410+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://wallstreetcn.com/livenews/3047752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
-          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普称伊朗正“严肃”与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3047751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普谈及古巴 称将达成协议",
-          "url": "https://wallstreetcn.com/livenews/3047749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509775",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普：希望沃什能降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3047748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普：伊朗正“严肃”地与美国进行对话",
-          "url": "https://flash.jin10.com/detail/20260201110314645800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
-          "url": "https://flash.jin10.com/detail/20260201105105064800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普：认为格陵兰岛协议已基本达成",
-          "url": "https://flash.jin10.com/detail/20260201102818944800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
-          "url": "https://flash.jin10.com/detail/20260201102227519800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普：印度即将介入并购买委内瑞拉石油。",
-          "url": "https://flash.jin10.com/detail/20260201102008494800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普：尚未讨论委内瑞拉在石油利润中的份额。",
-          "url": "https://flash.jin10.com/detail/20260201102002573800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
-          "url": "https://flash.jin10.com/detail/20260201101644668800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普：希望伊朗能谈判达成一项可接受的协议。伊朗正在“认真地”与美国对话。",
-          "url": "https://flash.jin10.com/detail/20260201101540443800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普：希望沃什能降低利率",
-          "url": "https://flash.jin10.com/detail/20260201101508404800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "特朗普称美伊正谈判",
-          "url": "https://wallstreetcn.com/livenews/3047731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3047717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美国钢铁工人联合会：工会将继续与马拉松石油(MRO.N)就到期合同进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260201125729655800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国宇航局开始进行载人绕月飞行前的关键测试",
-          "url": "https://wallstreetcn.com/livenews/3047750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471773",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国宇航局开始进行载人绕月飞行前的关键测试",
-          "url": "https://flash.jin10.com/detail/20260201102302071800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "实测美国双倍甜度蜜雪冰城",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E7%BE%8E%E5%9B%BD%E5%8F%8C%E5%80%8D%E7%94%9C%E5%BA%A6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "墨西哥回应美国威胁：不会暂停对古巴的人道主义援助",
-          "url": "https://flash.jin10.com/detail/20260201093349992800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "伊朗外长称美国干涉其军演做法“荒谬”",
-          "url": "https://flash.jin10.com/detail/20260201093135473800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
     {
       "keyword_group": "中国",
       "match_count": 8,
       "titles": [
         {
-          "title": "中国变压器，全球爆单",
-          "url": "https://www.cls.cn/detail/2276592",
-          "source": "财联社热门",
+          "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
+          "url": "https://news.ifeng.com/c/8qPQNf3alDD",
+          "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
         },
         {
-          "title": "英国首相镜头里的中国军人",
-          "url": "https://www.douyin.com/hot/2385490",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
-          "url": "https://www.cls.cn/detail/2276516",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "成飞「黄皮粗脖子」歼 -20A 密集试飞，有哪些值得关注的亮点？标志中国五代机进入怎样的新阶段？",
-          "url": "https://www.zhihu.com/question/1999788051715626762",
+          "title": "库迪宣布取消全场 9.9 元，瑞幸、蜜雪冰城、奈雪的茶等纷纷收缩低价策略，中国咖啡价格战走到拐点了吗？",
+          "url": "https://www.zhihu.com/question/2001022418240685338",
           "source": "知乎",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国海警首次披露钓鱼岛执法画面",
-          "url": "https://www.toutiao.com/trending/7601050580802342406/",
+          "title": "在春运 看见行进的中国",
+          "url": "https://www.toutiao.com/trending/7602097088322620979/",
           "source": "今日头条",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
         },
         {
-          "title": "BBC记者称赞中国科技发达人民友善",
-          "url": "https://www.toutiao.com/trending/7600978276802412550/",
-          "source": "今日头条",
+          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
+          "url": "https://www.cls.cn/detail/2277013",
+          "source": "财联社热门",
           "ranks": [
-            26
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
         },
         {
-          "title": "2025中国造船业全年数据发布，三大指标继续全球领跑",
-          "url": "https://wallstreetcn.com/livenews/3047730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "东京大劫案!中国人被抢4亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349957&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%8A%AB%E6%A1%88%21%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8A%A24%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
+          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
+          "url": "https://wallstreetcn.com/articles/3764708",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
-          "url": "https://www.zhihu.com/question/2000979139897811762",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "AI辅助医疗是神助手还是猪队友",
-          "url": "https://www.toutiao.com/trending/7601667319894655018/",
+          "title": "中国第四艘航母到底长什么样",
+          "url": "https://www.toutiao.com/trending/7602088378846154281/",
           "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "欧洲领导人排队来中国图什么",
+          "url": "https://www.toutiao.com/trending/7602082913375276594/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "歪果仁打出租穿越中国体验温差",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "特朗普回应被爱泼斯坦案文件提及",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510757",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "哈梅内伊向美国发出严正警告",
+          "url": "https://www.douyin.com/hot/2386256",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/1999650277494636810",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "福特找中企谈合作？美国反华议员坐不住了",
+          "url": "https://news.ifeng.com/c/8qPdxfcowVU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "古巴强调反恐立场 提议与美国恢复多领域技术合作",
+          "url": "https://flash.jin10.com/detail/20260202121644585800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
+          "url": "https://wallstreetcn.com/articles/3764694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
+          "url": "https://wallstreetcn.com/livenews/3048057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     }
