@@ -1,282 +1,425 @@
 {
-  "generated_at": "2026-02-02T13:22:35.165410+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-03T13:13:44.310203+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
-          "url": "https://news.ifeng.com/c/8qPQNf3alDD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "库迪宣布取消全场 9.9 元，瑞幸、蜜雪冰城、奈雪的茶等纷纷收缩低价策略，中国咖啡价格战走到拐点了吗？",
-          "url": "https://www.zhihu.com/question/2001022418240685338",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "在春运 看见行进的中国",
-          "url": "https://www.toutiao.com/trending/7602097088322620979/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
-          "url": "https://www.cls.cn/detail/2277013",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
-          "url": "https://wallstreetcn.com/articles/3764708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "中国第四艘航母到底长什么样",
-          "url": "https://www.toutiao.com/trending/7602088378846154281/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "欧洲领导人排队来中国图什么",
-          "url": "https://www.toutiao.com/trending/7602082913375276594/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "歪果仁打出租穿越中国体验温差",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普回应被爱泼斯坦案文件提及",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美国",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
-          "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510757",
-          "source": "澎湃新闻",
+          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
+          "url": "https://wallstreetcn.com/livenews/3048813",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "哈梅内伊向美国发出严正警告",
-          "url": "https://www.douyin.com/hot/2386256",
-          "source": "抖音",
+          "title": "美国司法部公布爱泼斯坦案诡异照片，两块鸡肉中间有一个物体被涂黑，事件的真相是什么？",
+          "url": "https://www.zhihu.com/question/2001602613729322897",
+          "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
-          "url": "https://www.zhihu.com/question/1999650277494636810",
-          "source": "知乎",
+          "title": "印度官员：与美国达成的贸易协议涵盖部分农产品。",
+          "url": "https://flash.jin10.com/detail/20260203123420717800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "福特找中企谈合作？美国反华议员坐不住了",
-          "url": "https://news.ifeng.com/c/8qPdxfcowVU",
-          "source": "凤凰网",
+          "title": "遭ICE拘捕的5岁男童获释了，但美国政府仍在拘留更多孩子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32514578",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "古巴强调反恐立场 提议与美国恢复多领域技术合作",
-          "url": "https://flash.jin10.com/detail/20260202121644585800",
+          "title": "美国制造业PMI升至四年来新高 难掩报告中的“企业评论”怨气冲天",
+          "url": "https://www.cls.cn/detail/2278327",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "印度官员：与美国达成的贸易协议回应了华盛顿的要求，即降低印度在汽车等领域征收的高额关税。",
+          "url": "https://flash.jin10.com/detail/20260203123414815800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "印度官员：印度在协议下承诺采购美国商品的范围包括石油、国防、电子、制药、电信产品和飞机。",
+          "url": "https://flash.jin10.com/detail/20260203123336932800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国非农数据又“鸽”了 关键年度修正也因政府停摆被迫延后",
+          "url": "https://www.cls.cn/detail/2278362",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国女子曝幼年被母亲喂食人肉",
+          "url": "https://www.toutiao.com/trending/7602198108495609898/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "古巴副外长称与美国有沟通但无对话",
+          "url": "https://flash.jin10.com/detail/20260203122606949800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "印度股市大涨5%，此前印度与美国达成贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3048793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
         },
         {
-          "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
-          "url": "https://wallstreetcn.com/livenews/3048057",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时13分"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "AI只是在“省钱”而非“造饭碗”，蓝领岗位增长或跑赢科技浪潮",
+          "url": "https://flash.jin10.com/detail/20260203121309957800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203115849071800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3048804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普：向哈佛索赔10亿美元 今后再无瓜葛",
+          "url": "https://flash.jin10.com/detail/20260203122421133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国总统特朗普：索赔10亿美元，并且今后与哈佛大学再无瓜葛。",
+          "url": "https://flash.jin10.com/detail/20260203122216964800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国总统特朗普：哈佛大学长期以来一直存在严重的“反犹主义”倾向，并向日渐衰落的《纽约时报》散布了大量“无稽之谈”。",
+          "url": "https://flash.jin10.com/detail/20260203122155434800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "如何看待权威第三方公布的 2026 年 1 月华为中国手机市场份额第一？",
+          "url": "https://www.zhihu.com/question/2001595690313348791",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中国团队在《细胞》发文，将癌细胞标记为「猪细胞」引发免疫排斥，这项突破对癌症治疗有何意义？",
+          "url": "https://www.zhihu.com/question/2000871816202327666",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "意大利前总理同意“旧秩序已死”，竟怪上中国",
+          "url": "https://news.ifeng.com/c/8qRJno1vyOV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "春节期间中国人出境游首选韩国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32515040",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "观察｜中国商业载人航天加速，太空旅游离普通人还有多远？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32515344",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中国变压器产业缘何爆发",
+          "url": "https://www.toutiao.com/trending/7602144619741646345/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中国财政部发行28天期债券，规模300亿元，发行利率1.0959%，边际利率1.1612%，预期1.2500%，投标倍数3.49倍，边际倍数1.11倍； 中国财政部发行182天期债券，规模450亿元，发行利率1.2755%，边际利率1.3324%，预期1.3000%，投标倍数2.72倍，边际倍数10.57倍。",
+          "url": "https://wallstreetcn.com/livenews/3048788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "歪果仁打出租穿越中国体验温差",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
