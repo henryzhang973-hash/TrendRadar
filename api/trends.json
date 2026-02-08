@@ -1,689 +1,436 @@
 {
-  "generated_at": "2026-02-07T13:03:40.169053+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-08T13:22:21.137417+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 21,
+      "keyword_group": "中国",
+      "match_count": 14,
       "titles": [
         {
-          "title": "特朗普：下周将再与伊朗谈判",
-          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
-          "source": "凤凰网",
+          "title": "中国农业发展银行党委委员、副行长徐一丁接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559173",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "【早报】深夜，中国资产大涨",
+          "url": "https://www.cls.cn/detail/2283589",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "苏翊鸣获得单板滑雪男子大跳台铜牌，也是中国代表团米兰冬奥首枚奖牌，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003599572249830261",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "中国“海底空间站”成功应用",
+          "url": "https://wallstreetcn.com/livenews/3051772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "直播丨“活力视听 万象同屏”2026中国网络视听盛典",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557925",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "外媒：加拿大政府向中国汽车制造商“示好”",
+          "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "苹果逆袭中国市场，背后竟是爱马仕橙救场？",
+          "url": "https://wallstreetcn.com/articles/3765230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "中国古代建筑是什么时候开始喜欢用大红大绿的颜色的？",
+          "url": "https://www.zhihu.com/question/23780333",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "中国黄金2月7日起调整回购规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "如何理解《中国奇谭 2》第七集《拜山》的奇幻设定和情感连接？",
+          "url": "https://www.zhihu.com/question/2002349374299211627",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "赢麻!日媒曝中国续供稀土",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350353&amp;topic_name=%E8%B5%A2%E9%BA%BB%21%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%AD%E5%9B%BD%E7%BB%AD%E4%BE%9B%E7%A8%80%E5%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "苏翊鸣夺得中国队首枚奖牌",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%BE%97%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E6%9E%9A%E5%A5%96%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "阿根廷加入50国稀土联盟后帮中国说话",
+          "url": "https://www.toutiao.com/trending/7604275391884185115/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "中国银行：持续打造伦敦离岸人民币市场",
+          "url": "https://wallstreetcn.com/livenews/3051763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
+          "url": "https://flash.jin10.com/detail/20260208105958137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "舒默否认提议用特朗普命名宾州车站",
-          "url": "https://flash.jin10.com/detail/20260207113549639800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
-          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://wallstreetcn.com/livenews/3051678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2003133394834432173",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://flash.jin10.com/detail/20260207104748240800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
-          "url": "https://wallstreetcn.com/livenews/3051670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
-          "url": "https://flash.jin10.com/detail/20260207095625549800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
-          "url": "https://wallstreetcn.com/livenews/3051669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
-          "url": "https://flash.jin10.com/detail/20260207095445721800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3051664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://flash.jin10.com/detail/20260207085222681800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
-          "url": "https://wallstreetcn.com/livenews/3051652",
-          "source": "华尔街见闻-快讯",
+          "title": "民主党高层对特朗普爆粗口",
+          "url": "https://www.toutiao.com/trending/7603988391726317587/",
+          "source": "今日头条",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
           "ranks": [
-            26
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "特朗普授权对与伊朗有贸易往来国家加征关税 但暂未实施",
-          "url": "https://flash.jin10.com/detail/20260207083533208800",
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
           "source": "金十数据",
           "ranks": [
-            27
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "特朗普拒绝道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "【早报】深夜，中国资产大涨",
-          "url": "https://www.cls.cn/detail/2283589",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国网络视听盛典节目单",
-          "url": "https://www.douyin.com/hot/2392548",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "挪威报告虚构“中国威胁”，中使馆：强烈不满、坚决反对",
-          "url": "https://news.ifeng.com/c/8qXw8qXsynM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国央行连续第15个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3051674",
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国央行黄金储备\"十五连增\"，1月环比增持4万盎司，增持节奏略有加快",
-          "url": "https://wallstreetcn.com/articles/3765215",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
-          "url": "https://flash.jin10.com/detail/20260207101938082800",
+          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
+          "url": "https://flash.jin10.com/detail/20260207233303917800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国球员包揽斯诺克排名赛四强",
-          "url": "https://www.douyin.com/hot/2392441",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "金十图示：中国1月末官方储备资产变化一览，中国央行连续第15个月增持黄金",
-          "url": "https://flash.jin10.com/detail/20260207101529175800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国1月外汇储备 33990.8亿美元，前值 33578.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国1月外汇储备 33990.78亿美元，预期33700亿美元，前值33578.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260207100813177800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国驻刚果（金）使馆：严肃提醒在刚中企和中国公民不得参与非法采矿活动",
-          "url": "https://wallstreetcn.com/livenews/3051668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国胃!谷爱凌自带锅去冬奥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350333&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%21%E8%B0%B7%E7%88%B1%E5%87%8C%E8%87%AA%E5%B8%A6%E9%94%85%E5%8E%BB%E5%86%AC%E5%A5%A5",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国冬奥代表团入场",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "中国球员首次包揽斯诺克排名赛四强",
-          "url": "https://www.toutiao.com/trending/7603912520344014379/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "你在哪一刻感受到中国书法的美？",
-          "url": "https://www.zhihu.com/question/386131103",
-          "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国最冷城市零下58度真实体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%9F%8E%E5%B8%82%E9%9B%B6%E4%B8%8B58%E5%BA%A6%E7%9C%9F%E5%AE%9E%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国体育代表团入场",
-          "url": "https://www.douyin.com/hot/2392350",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "米兰冬奥会中国队服海外走红",
-          "url": "https://www.toutiao.com/trending/7603939451999571502/",
-          "source": "今日头条",
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "中国代表团身穿蓝色羽绒服",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%BA%AB%E7%A9%BF%E8%93%9D%E8%89%B2%E7%BE%BD%E7%BB%92%E6%9C%8D",
-          "source": "百度热搜",
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "全世界都在跳中国山歌",
-          "url": "https://www.douyin.com/hot/2391572",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 10,
+      "match_count": 7,
       "titles": [
         {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3051662",
+          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
+          "url": "https://wallstreetcn.com/livenews/3051748",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 9,
+      "match_count": 5,
       "titles": [
         {
-          "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
-          "url": "https://news.ifeng.com/c/8qXDJawISCo",
+          "title": "一不小心，美国又创造了历史",
+          "url": "https://news.ifeng.com/c/8qZLRWXlKx6",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "美伊谈判之际，美国继续向中东调派战机",
-          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "美国驻联合国代表：美国将向联合国支付部分拖欠会费",
-          "url": "https://flash.jin10.com/detail/20260207123415442800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "美常驻联合国代表：美国将向联合国支付部分拖欠会费",
-          "url": "https://wallstreetcn.com/livenews/3051684",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
-          "source": "澎湃新闻",
+          "title": "美国要还联合国钱了",
+          "url": "https://news.ifeng.com/c/8qZOVWCToZZ",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "据AXIOS网站：美国白宫计划于2月19日为加沙“和平委员会”举行领导人会议。",
-          "url": "https://flash.jin10.com/detail/20260207104933551800",
+          "title": "丹麦：与美国就格陵兰岛谈判未达预期",
+          "url": "https://flash.jin10.com/detail/20260208103612755800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁",
-          "url": "https://flash.jin10.com/detail/20260207103825838800",
-          "source": "金十数据",
+          "title": "丹麦：与美国就格陵兰岛谈判未达预期",
+          "url": "https://wallstreetcn.com/livenews/3051768",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         },
         {
-          "title": "美国驻联合国特使迈克·沃尔茨：美国计划在数周内就拖欠联合国的数十亿美元债务支付首笔款项。",
-          "url": "https://flash.jin10.com/detail/20260207092931142800",
-          "source": "金十数据",
+          "title": "巴西总统谴责美国对古巴施压",
+          "url": "https://wallstreetcn.com/livenews/3051767",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "冬奥会开幕式万斯和美国队亮相遭嘘声",
-          "url": "https://www.toutiao.com/trending/7603225018382057535/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "13时22分"
         }
       ]
     }
