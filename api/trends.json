@@ -1,425 +1,293 @@
 {
-  "generated_at": "2026-02-15T13:17:47.703031+08:00",
+  "generated_at": "2026-02-16T13:24:57.809666+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 15,
+      "match_count": 14,
       "titles": [
         {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "本周，“AI颠覆一切”的狼终于来了",
-          "url": "https://wallstreetcn.com/articles/3765735",
-          "source": "华尔街见闻",
+          "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
+          "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
+          "url": "https://wallstreetcn.com/livenews/3055681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            13
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3055576",
+          "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
+          "url": "https://wallstreetcn.com/livenews/3055650",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
-          "url": "https://flash.jin10.com/detail/20260215110457187800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
-          "url": "https://www.zhihu.com/question/1927393488770692768",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "杨丽萍67岁仍在学习AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%BD%E8%90%8D67%E5%B2%81%E4%BB%8D%E5%9C%A8%E5%AD%A6%E4%B9%A0AI%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国是欧洲的孩子？学者：鲁比奥只是希望欧方沉浸在这套叙事里",
-          "url": "https://news.ifeng.com/c/8qkgAuQCAav",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "原料短缺 美国巧克力零售价格持续上涨",
-          "url": "https://flash.jin10.com/detail/20260215121705344800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美国考虑降低钢铝关税？这对金属意味着什么",
-          "url": "https://wallstreetcn.com/articles/3765738",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美国 1 月 CPI 同比回落至 2.4%，核心 CPI 新低，请问这是「里根经济学」配方见效了么，对市场有何影响？",
-          "url": "https://www.zhihu.com/question/2005928072436794238",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://wallstreetcn.com/livenews/3055572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：与美国参议院Lindsey Graham等人的会谈情况不错。",
-          "url": "https://wallstreetcn.com/livenews/3055565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
-          "url": "https://flash.jin10.com/detail/20260215101721943800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "鲁比奥称美国“永远是欧洲之子”，斯塔默：欧美关系要顺应形势",
-          "url": "https://wallstreetcn.com/livenews/3055555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "中国",
-      "match_count": 9,
+      "match_count": 7,
       "titles": [
         {
-          "title": "鲁比奥：不与中国对话，是失职",
-          "url": "https://news.ifeng.com/c/8ql2UcTgBPH",
-          "source": "凤凰网",
+          "title": "捷克：中国是世界性强国 坚持一中",
+          "url": "https://www.toutiao.com/trending/7606885801848242219/",
+          "source": "今日头条",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "裁判无视中国队员举手示意",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%E6%97%A0%E8%A7%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E4%B8%BE%E6%89%8B%E7%A4%BA%E6%84%8F%23&t=31&band_rank=9&Refer=top",
+          "title": "话百家姓过中国年",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%9D%E7%99%BE%E5%AE%B6%E5%A7%93%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
+          "url": "https://www.zhihu.com/question/2002486347743588819",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         },
         {
-          "title": "30多岁中国籍女子从韩机场前高架桥坠亡",
-          "url": "https://news.ifeng.com/c/8qlHUWRlu4W",
+          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260216123100812800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "富时中国A50指数期货开盘涨0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3055657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
+          "url": "https://wallstreetcn.com/livenews/3055651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国民党质疑台当局单向美国进贡",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwL",
           "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "研究员：中国或将成真正“电力国家”",
-          "url": "https://www.toutiao.com/trending/7606876534200077867/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "中国驻大阪总领馆提醒领区中国公民加强安全防范",
-          "url": "https://flash.jin10.com/detail/20260215105128028800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "裁判无视中国队员举手示意",
-          "url": "https://www.baidu.com/s?wd=%E8%A3%81%E5%88%A4%E6%97%A0%E8%A7%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E4%B8%BE%E6%89%8B%E7%A4%BA%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "中国队无缘女子3000米接力决赛",
-          "url": "https://www.douyin.com/hot/2401252",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "息事宁人?日本释放中国船长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "中领馆提醒中国公民避免前往日本",
-          "url": "https://www.toutiao.com/trending/7606918530118336555/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "王毅：特朗普尊重中方 有人想打压中国",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "13时24分"
         }
       ]
     }
