@@ -1,469 +1,491 @@
 {
-  "generated_at": "2026-03-04T13:06:22.175173+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T13:10:28.115867+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
+      "keyword_group": "美国",
       "match_count": 15,
       "titles": [
         {
-          "title": "七个关键词感知中国经济脉搏",
-          "url": "https://www.douyin.com/hot/2418456",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "中国人民绝不允许任何外部势力干涉中国内政。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3063332",
-          "source": "华尔街见闻-快讯",
+          "title": "美国开始借刀杀人",
+          "url": "https://news.ifeng.com/c/8rEpZ6jY2lb",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "中国始终将周边置于外交全局首要位置",
-          "url": "https://wallstreetcn.com/livenews/3063330",
+          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
+          "url": "https://wallstreetcn.com/articles/3766761",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "中国儿歌《美国佬是强盗》翻红，赖岳谦：60年前就看透美国本质",
+          "url": "https://news.ifeng.com/c/8rF8tTQoAJh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
+          "url": "https://news.ifeng.com/c/8rE2fVZODSF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "土耳其外交部长菲丹表示，如果伊朗方面接受了美国、土耳其和佩泽希齐扬举行三边会议的提议，那将是一个改变局势的重大进展。",
+          "url": "https://flash.jin10.com/detail/20260305130148982800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "默沙东回应美国疫苗工厂裁员",
+          "url": "https://wallstreetcn.com/livenews/3064205",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "13时10分"
         },
         {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
+          "title": "默沙东回应美国疫苗工厂裁员",
+          "url": "https://flash.jin10.com/detail/20260305125951261800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
-          "title": "“中国要求避免攻击天然气设施”，伊朗答凤凰：部分误击",
-          "url": "https://news.ifeng.com/c/8rDFx3IsxNM",
+          "title": "凤凰女记者走进德黑兰市中心，民众高喊“打倒美国”",
+          "url": "https://news.ifeng.com/c/8rF890Bjwdd",
           "source": "凤凰网",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
+          "url": "https://wallstreetcn.com/articles/3766731",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "中国军号抖音粉丝突破5000万",
-          "url": "https://www.douyin.com/hot/2418009",
+          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
+          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "伊朗：未向美国发送任何信息",
+          "url": "https://www.toutiao.com/trending/7613159328044007467/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "布林肯：伊朗冲突持续将让美国陷入不利地位",
+          "url": "https://flash.jin10.com/detail/20260305125823747800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "据华尔街日报：创纪录数量的美国工人正从其401(k)账户中提取资金，以应对财务紧急状况。",
+          "url": "https://flash.jin10.com/detail/20260305123757930800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "美国中央司令部：消除伊朗政权移动导弹发射能力的努力仍在继续。我们正以致命的精准度找到并摧毁这些威胁。",
+          "url": "https://flash.jin10.com/detail/20260305122419773800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "古巴遭遇大范围停电之际 厄瓜多尔驱逐古巴大使 或为美国施压",
+          "url": "https://flash.jin10.com/detail/20260305122405697800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国芯片攻关取得新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "中国今年GDP预期增长4.5%-5%",
+          "url": "https://www.toutiao.com/trending/7613409342783573546/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "信心·恒心·初心——写给春天的中国",
+          "url": "https://www.toutiao.com/trending/7613231511508172809/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "驰骋吧！“码”上中国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%B0%E9%AA%8B%E5%90%A7%EF%BC%81%E2%80%9C%E7%A0%81%E2%80%9D%E4%B8%8A%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "中国2025成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD2025%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "中国式现代化进行时",
+          "url": "https://www.douyin.com/hot/2419630",
           "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698639",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "科技部部长：中国芯片攻关取得新突破",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E9%83%A8%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "中国成为发布大模型最多的国家",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%8F%91%E5%B8%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%A4%9A%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32696490",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "直击两会丨全国政协十四届四次会议会期、议程来了！中国进入“两会时间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691882",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "中国石油跌停",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%B7%8C%E5%81%9C%23&t=31&band_rank=17&Refer=top",
+          "title": "方寸之间看见中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "2026年全国两会明日将拉开帷幕，中国进入“两会时间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691875",
+          "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698067",
           "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "中国海员实拍霍尔木兹海峡现况",
-          "url": "https://www.douyin.com/hot/2418384",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "中国高铁是怎样炼成的",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "大部分中国公民已撤离伊朗",
-          "url": "https://www.douyin.com/hot/2417777",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "生态环境法典是中国第二部以“法典”命名的法律",
-          "url": "https://wallstreetcn.com/livenews/3063301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "title": "两会深观察｜站上新台阶，中国经济如何再攀高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693741",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
+          "url": "https://wallstreetcn.com/livenews/3064174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
           "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "岳雨婷缺席balmain看秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "百度AIGC舌尖遇顺德",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
+          "source": "百度热搜",
           "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "Anthropic 高薪聘请哲学家参与 AI 开发，AI 企业为何要引入哲学家？",
-          "url": "https://www.zhihu.com/question/2010739342163859155",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "代表建议为AI内容添加不可去除水印",
-          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "title": "马斯克为何频繁为中国AI站台",
+          "url": "https://www.toutiao.com/trending/7613576713213054470/",
           "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "石油供应担忧加剧 人工智能交易遭遇抛售",
-          "url": "https://flash.jin10.com/detail/20260304124028832800",
+          "title": "美军称AI工具在对伊行动中发挥关键作用",
+          "url": "https://flash.jin10.com/detail/20260305124103778800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
           "ranks": [
             15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
-          "title": "报道：特朗普周二与Coinbase首席执行官举行了私人会晤",
-          "url": "https://wallstreetcn.com/livenews/3063317",
+          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
+          "url": "https://wallstreetcn.com/livenews/3064172",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "据Politico：特朗普周二与Coinbase(COIN.O)首席执行官私下会面。",
-          "url": "https://flash.jin10.com/detail/20260304122045443800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
-          "url": "https://www.cls.cn/detail/2301977",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "西班牙拒绝美国使用其军事基地，称有能力应对美贸易威胁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32695432",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "美国公布4名遭伊朗袭击死亡士兵名单",
-          "url": "https://news.ifeng.com/c/8rDMsJ65qR9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
-          "url": "https://www.zhihu.com/question/2011562207213802554",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "美国国务院更新对塞浦路斯的旅行建议，授权非紧急美国政府雇员及其家属因安全风险离开塞浦路斯。",
-          "url": "https://flash.jin10.com/detail/20260304122610379800",
-          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "13时10分"
         },
         {
-          "title": "市场消息：无人机袭击了位于巴格达机场附近、为美国大使馆提供后勤支持的营地。",
-          "url": "https://flash.jin10.com/detail/20260304122439899800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "韩国执政党与在野党达成一致，将于3月12日通过美国投资法案。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3063295",
+          "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
+          "url": "https://wallstreetcn.com/livenews/3064167",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "13时10分"
+        },
+        {
+          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
+          "url": "https://wallstreetcn.com/livenews/3064161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "特朗普夫人，“翻车”了",
+          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         }
       ]
     }
