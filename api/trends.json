@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-03-29T13:42:09.059601+08:00",
+  "generated_at": "2026-03-30T13:57:47.782773+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
-          "title": "日本舆论要求政府尽快向中国道歉",
-          "url": "https://www.toutiao.com/trending/7621869700113350662/",
+          "title": "时隔6年中国航班再次抵达朝鲜",
+          "url": "https://www.toutiao.com/trending/7622877388539694602/",
           "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "中国创新“酷”在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E2%80%9C%E9%85%B7%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "2026中国网络媒体论坛",
@@ -26,411 +37,356 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "2026中国网络媒体论坛",
-          "url": "https://www.douyin.com/hot/2446469",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "日本抗议者高喊中国对不起",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
+          "url": "https://www.cls.cn/detail/2328496",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "日本民众举行集会高呼中国对不起",
-          "url": "https://www.toutiao.com/trending/7621775178931814451/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
-          "url": "https://www.cls.cn/detail/2327942",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "日本警方搜查强闯中国驻日使馆者所属自卫队驻地",
-          "url": "https://news.ifeng.com/c/8rsl8sdrU1w",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "中国太空基建新成果",
-          "url": "https://www.douyin.com/hot/2447092",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "中国军号发视频：真正的史诗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E8%A7%86%E9%A2%91%EF%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%8F%B2%E8%AF%97",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "周锡玮：台湾人就是中国人",
-          "url": "https://www.toutiao.com/trending/7621579152078077998/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "中国国防部派团赴欧洲举行机制性对话",
-          "url": "https://wallstreetcn.com/livenews/3078647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "13时57分"
         },
         {
-          "title": "中国黄金集团与山东黄金集团举行工作会商",
-          "url": "https://wallstreetcn.com/livenews/3078644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "崔东树：2026年1-2月中国占世界汽车份额30%",
-          "url": "https://flash.jin10.com/detail/20260329121230943800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "沙特产业界人士在中关村向中国企业释放合作信号",
-          "url": "https://flash.jin10.com/detail/20260329114431247800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "美国全国爆发反对特朗普政府集会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "title": "“我们替高市向中国道歉”，日本民众集会反对高市早苗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857622",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
+          "title": "中国将在长江水下开高铁：沿江高铁总投资超5000亿元 带动上下游行业增加值增长近1.5万亿元",
+          "url": "https://www.cls.cn/detail/2328652",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
-          "url": "https://www.zhihu.com/question/2021274346899943516",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
-          "url": "https://www.cls.cn/detail/2327698",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "美国最后两架电子战飞机EC-130H在此次伊朗袭击中被击中。",
-          "url": "https://flash.jin10.com/detail/20260329131121165800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "13时57分"
         },
         {
-          "title": "美国1000人包围政府机构大楼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD1000%E4%BA%BA%E5%8C%85%E5%9B%B4%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "不只便宜还高档，中国电动车在美国越来越受欢迎了",
-          "url": "https://wallstreetcn.com/articles/3768646",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "美国防部正为在伊朗地面行动做准备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E6%AD%A3%E4%B8%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8%E5%81%9A%E5%87%86%E5%A4%87",
+          "title": "被中国淘汰的车却在印度“杀疯了”",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%B7%98%E6%B1%B0%E7%9A%84%E8%BD%A6%E5%8D%B4%E5%9C%A8%E5%8D%B0%E5%BA%A6%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "美国防部正为“在伊朗展开为期数周的地面行动”做准备",
-          "url": "https://wallstreetcn.com/livenews/3078648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "13时57分"
         },
         {
-          "title": "委内瑞拉恢复启用驻美国外交机构",
-          "url": "https://wallstreetcn.com/livenews/3078639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "叙利亚消息人士称，四架无人机袭击了位于叙利亚东北部哈塞克附近的美国卡斯拉克基地。",
-          "url": "https://flash.jin10.com/detail/20260329115436402800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860443",
           "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
+          "title": "中国将在长江水下开高铁",
+          "url": "https://www.douyin.com/hot/2448174",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "时隔6年中国航班再次抵达平壤",
+          "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%946%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%86%8D%E6%AC%A1%E6%8A%B5%E8%BE%BE%E5%B9%B3%E5%A3%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "中金：油价或推高中国出口份额",
+          "url": "https://wallstreetcn.com/articles/3768692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "逾千名日本民众举行抗议集会，喊话高市就“闯馆”事件向中国道歉",
+          "url": "https://news.ifeng.com/c/8ru8Ca9k5zp",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "日本抗议者高喊中国对不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352475&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "郑丽文率中国国民党访问团于 4 月 7 日至 12 日到江苏、上海、北京参观访问，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2021893156774453756",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "中国将在长江水下开高铁",
+          "url": "https://www.toutiao.com/trending/7622599610049200164/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普：与伊朗“可能”很快达成停火协议",
+          "url": "https://www.cls.cn/detail/2328385",
           "source": "财联社热门",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
+          "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
+          "url": "https://www.cls.cn/detail/2328604",
+          "source": "财联社热门",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "民调：美选民对特朗普不满意率创新高",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
+          "url": "https://wallstreetcn.com/articles/3768680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "【早报】万斯发声！美国无意滞留在伊朗；中东两大铝厂遭袭",
+          "url": "https://www.cls.cn/detail/2328286",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "标普：对日本长期评级的展望反映了我们的观点，即尽管存在地缘政治发展的风险，名义GDP和收入增长仍将保持韧性。 随着美日达成协议，美国关税政策的不确定性可能会显著减弱。 考虑到日本拥有约八个月的大规模石油储备，我们认为日本具有抵御供应短缺的能力。",
+          "url": "https://wallstreetcn.com/livenews/3078989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "标普：美日达成协议后，美国关税政策的不确定性有望大幅缓解。",
+          "url": "https://flash.jin10.com/detail/20260330133802635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "圆脸聊美国不要国王抗议游行",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%81%8A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%9B%BD%E7%8E%8B%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "13时57分"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
+          "url": "https://wallstreetcn.com/livenews/3078972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     }
