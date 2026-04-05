@@ -1,370 +1,557 @@
 {
-  "generated_at": "2026-04-04T13:20:13.077183+08:00",
+  "generated_at": "2026-04-05T13:43:16.833346+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 12,
+      "keyword_group": "特朗普",
+      "match_count": 18,
       "titles": [
         {
-          "title": "超预期反弹！美国3月非农新增就业17.8万人，创逾一年新高，失业率意外降至4.3% ！",
-          "url": "https://wallstreetcn.com/articles/3769211",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
-          "url": "https://www.cls.cn/detail/2335085",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "美国加州南部野火迅速蔓延，地方政府下达疏散令",
-          "url": "https://wallstreetcn.com/livenews/3082386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "开战以来，美国最糟糕的24小时",
-          "url": "https://news.ifeng.com/c/8s2coBmk0vP",
+          "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "伊朗宣称击落一美国先进战斗机后，消息称该战机飞行员或被伊朗军方俘虏，若属实，会如何影响战场内外？",
-          "url": "https://www.zhihu.com/question/2023505434653324083",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "伊朗媒体：美国周四曾提议停火48小时，伊朗以猛攻回应",
-          "url": "https://wallstreetcn.com/articles/3769237",
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "全球对中国认可度超过美国",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%AE%A4%E5%8F%AF%E5%BA%A6%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
-          "url": "https://flash.jin10.com/detail/20260404122017067800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国或延期完成日本战斧导弹订单",
-          "url": "https://flash.jin10.com/detail/20260404115139708800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美官员：伊朗对美国驻沙特大使馆的袭击造成严重破坏",
-          "url": "https://wallstreetcn.com/livenews/3082368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "华泰证券：3月非农超预期回升显示美国就业市场韧性 通胀目前是联储货币政策的核心变量",
-          "url": "https://flash.jin10.com/detail/20260404104944218800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
-          "url": "https://wallstreetcn.com/livenews/3082358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "属于中国人的清明仪式感",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B8%85%E6%98%8E%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "中国人的清明仪式感",
-          "url": "https://www.douyin.com/hot/2454673",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "从优必选、宇树科技财报 解码中国人形机器人差异化突围逻辑",
-          "url": "https://www.cls.cn/detail/2335220",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "连续第四天，经济日报头版头条再驳“中国经济见顶论”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32899403",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "张雪机车夺冠背后的中国摩托车产业蜕变：从规模导向到价值导向，出海红利显现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32894743",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "中国无人飞枪曝光有何意义",
-          "url": "https://www.toutiao.com/trending/7624700114514218532/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "中国新型储能新增装机连续四年居全球首位 预计2030年累计将超370GW",
-          "url": "https://wallstreetcn.com/livenews/3082378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
-          "url": "https://flash.jin10.com/detail/20260404125453767800",
+          "title": "美军全球调拨隐形巡航导弹打伊朗，特朗普威胁“周一”地狱将至",
+          "url": "https://flash.jin10.com/detail/20260405131216500800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "千问AI打车上线后周环比增长超1500%",
-          "url": "https://wallstreetcn.com/livenews/3082383",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时43分"
         },
         {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普称已救回飞行员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%95%91%E5%9B%9E%E9%A3%9E%E8%A1%8C%E5%91%98%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普证实救出失踪飞行员",
+          "url": "https://www.douyin.com/hot/2455859",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
+          "url": "https://flash.jin10.com/detail/20260405124830248800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
+          "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
+          "url": "https://wallstreetcn.com/livenews/3082545",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
+          "url": "https://flash.jin10.com/detail/20260405121452100800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
+          "url": "https://wallstreetcn.com/livenews/3082537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
+          "url": "https://flash.jin10.com/detail/20260405121210468800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
+          "url": "https://flash.jin10.com/detail/20260405121031640800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
+          "url": "https://flash.jin10.com/detail/20260405120951058800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡现“通行方案”：法日等“美国传统盟友”船只首次通过",
+          "url": "https://wallstreetcn.com/articles/3769261",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://wallstreetcn.com/livenews/3082360",
+          "title": "美以空袭伊朗石化枢纽！美国驻沙特大使馆遭袭，伊朗谴责：是以色列干的；伊方警告中东诸国：“不想挨打，就让美军撤出”",
+          "url": "https://wallstreetcn.com/articles/3769260",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "美国卫星影像供应商暂缓发布中东冲突地区卫星图像",
+          "url": "https://wallstreetcn.com/livenews/3082551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "两架美国“黑鹰”被伊朗山民击中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906737",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "美国汽油均价升至4.1美元",
+          "url": "https://www.toutiao.com/trending/7624045614444920841/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "UP主花1000美金在美国学Rap",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%8A%B11000%E7%BE%8E%E9%87%91%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%AD%A6Rap",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "两架美国“黑鹰”被伊朗山民击中",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E6%9E%B6%E7%BE%8E%E5%9B%BD%E2%80%9C%E9%BB%91%E9%B9%B0%E2%80%9D%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%B1%B1%E6%B0%91%E5%87%BB%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
+          "url": "https://flash.jin10.com/detail/20260405124234445800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "应美国政府要求 “星球实验室”无限期暂停发布伊朗战事卫星影像",
+          "url": "https://wallstreetcn.com/livenews/3082543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "【美官员：失踪美军飞行员已被找到】一名美国政府官员5日告诉半岛电视台，失踪的第二名美军飞行员已被找到，但尚未脱险，救援行动仍在进行中。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3082531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美媒：战机被击落事件彻底戳破了美国政府的虚假军事神话",
+          "url": "https://wallstreetcn.com/livenews/3082529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "据半岛电视台：一名美国政府官员表示，在经过“激烈交火”后，被击落的F-15E战斗机上的第二名机组人员已获救。",
+          "url": "https://flash.jin10.com/detail/20260405112053099800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "沙特借助美国载人绕月任务发射一颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3082523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗革命卫队称两架美国“黑鹰”被伊朗山民击中",
+          "url": "https://wallstreetcn.com/livenews/3082519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "中国",
+      "match_count": 11,
       "titles": [
         {
-          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
-          "source": "澎湃新闻",
+          "title": "中国散户又出手了！相信“回调就是上车机会”，3月以来净买入1.25万亿",
+          "url": "https://www.cls.cn/detail/2335375",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://wallstreetcn.com/livenews/3082385",
-          "source": "华尔街见闻-快讯",
+          "title": "甲骨“清明” 每一帧都是中国浪漫",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E9%AA%A8%E2%80%9C%E6%B8%85%E6%98%8E%E2%80%9D+%E6%AF%8F%E4%B8%80%E5%B8%A7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%B5%AA%E6%BC%AB",
+          "source": "百度热搜",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260404123540502800",
-          "source": "金十数据",
+          "title": "为什么中国人对清明节如此重视？",
+          "url": "https://www.zhihu.com/question/2021979359066498993",
+          "source": "知乎",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
-          "url": "https://www.zhihu.com/question/2023328039937786913",
-          "source": "知乎",
+          "title": "京彩中国节",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E5%BD%A9%E4%B8%AD%E5%9B%BD%E8%8A%82",
+          "source": "百度热搜",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
-          "url": "https://flash.jin10.com/detail/20260404110623924800",
-          "source": "金十数据",
+          "title": "商务部打假“投资中国”APP",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E6%89%93%E5%81%87%E2%80%9C%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E2%80%9DAPP",
+          "source": "百度热搜",
           "ranks": [
-            18
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
-          "url": "https://flash.jin10.com/detail/20260404110124771800",
-          "source": "金十数据",
+          "title": "中国新一代电磁枪威力有多强",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E7%94%B5%E7%A3%81%E6%9E%AA%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "中国古代有哪些推理小说（例如包公案）？",
+          "url": "https://www.zhihu.com/question/2018326815559611697",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "上线5天后，“中国孔子学院对外交流中心”被打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32902139",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "中国驻以使馆：将再组织一批在以中国公民通过埃及塔巴口岸转移撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32902150",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "古代的科举制度是中国的一项伟大的制度创新吗？",
+          "url": "https://www.zhihu.com/question/637894831",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "中国殡葬网正式上线运行 为公众提供殡葬信息查询服务",
+          "url": "https://wallstreetcn.com/livenews/3082527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "夫妻AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BBAI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
+          "url": "https://wallstreetcn.com/livenews/3082550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "UP主结合自身经历做清明AI短片",
+          "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "新型AI模型可通过血检识别多种神经退行性疾病",
+          "url": "https://wallstreetcn.com/livenews/3082524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     }
