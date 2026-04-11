@@ -1,502 +1,524 @@
 {
-  "generated_at": "2026-04-10T13:55:13.586714+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T13:23:09.252120+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能",
-      "match_count": 13,
+      "keyword_group": "美国",
+      "match_count": 15,
       "titles": [
         {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "最高涨价463% 你的AI员工变贵了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "国家将为大家开发AI慕课",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%B0%86%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%BC%80%E5%8F%91AI%E6%85%95%E8%AF%BE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "小鹏GX联合福耀玻璃打造并量产交付首块AI调光隐私玻璃",
-          "url": "https://wallstreetcn.com/livenews/3085599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
-          "url": "https://wallstreetcn.com/livenews/3085594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "印度外交部：部长与美国经济增长、能源和环境副国务卿Jacob Helberg就深化印美科技合作进行了交流。讨论了在韧性供应链、半导体、关键矿产、量子技术、人工智能、核能等领域的共同愿景。",
-          "url": "https://flash.jin10.com/detail/20260410132155499800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "习近平会见中国国民党主席郑丽文",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87",
-          "source": "百度热搜",
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "中国海上风电实现新突破",
-          "url": "https://www.douyin.com/hot/2461512",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://www.cls.cn/detail/2340047",
-          "source": "财联社热门",
+          "title": "美国3月CPI同比上涨3.3%低于预期，环比0.9%为近四年最大涨幅，汽油创1967年以来最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3769702",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "富时中国A50指数期货涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3085614",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗代表团：我们心怀善意，但不信任美国",
+          "url": "https://news.ifeng.com/c/8sEAdJSdN7p",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "中国台湾证交所加权股价指数收高1.6%报35,417.83点。",
-          "url": "https://wallstreetcn.com/livenews/3085604",
-          "source": "华尔街见闻-快讯",
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "美贸易代表安抚：真的，中国车进不来",
-          "url": "https://news.ifeng.com/c/8sCkTZmtpN7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "巴拿马总统找补：没想跟中国起冲突",
-          "url": "https://news.ifeng.com/c/8sCec3pc2VH",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "中国自贸试验区扩围至23个，新增内蒙古",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934199",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "中国首艘18万立方米LNG运输船完工",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%9818%E4%B8%87%E7%AB%8B%E6%96%B9%E7%B1%B3LNG%E8%BF%90%E8%BE%93%E8%88%B9%E5%AE%8C%E5%B7%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "3名中国裁判入选世界杯裁判名单",
-          "url": "https://www.douyin.com/hot/2461341",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "港股稳定币概念股午后持续走强，国泰君安国际(01788.HK)涨超40%，狮腾控股(02562.HK)涨超17%，云锋金融(00376.HK)涨近12%，中国光大控股(00165.HK)、华兴资本控股(01911.HK)均涨超8%。",
-          "url": "https://flash.jin10.com/detail/20260410132432524800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
-          "url": "https://wallstreetcn.com/livenews/3085581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "中国在运核电2026年底有望达70台 在建机组超全球半数",
-          "url": "https://flash.jin10.com/detail/20260410132313613800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗战争丨美前众议员怼特朗普：发动战争，简直疯了",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "拜登儿子“约战”特朗普儿子",
-          "url": "https://www.toutiao.com/trending/7626918230665445418/",
+          "title": "哈里斯称正考虑参加2028年美国大选",
+          "url": "https://www.toutiao.com/trending/7626449097516171327/",
           "source": "今日头条",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
-          "url": "https://www.cls.cn/detail/2339842",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
-          "url": "https://www.cls.cn/detail/2339829",
-          "source": "财联社热门",
+          "title": "美国载人绕月飞船阿耳忒弥斯二号成功溅落在预定海域，有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2025971324976195413",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "拜登儿子约战特朗普儿子",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "美国3月核心CPI涨幅低于预期 油价冲击推高通胀但未形成全面扩散",
+          "url": "https://www.cls.cn/detail/2340968",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
-        {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 6,
-      "titles": [
         {
           "title": "美国员工不满薪资纵火烧仓库",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353028&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E4%B8%8D%E6%BB%A1%E8%96%AA%E8%B5%84%E7%BA%B5%E7%81%AB%E7%83%A7%E4%BB%93%E5%BA%93",
           "source": "贴吧",
           "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "美国游客在墨西哥坐完比亚迪懵了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9D%90%E5%AE%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%87%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
+          "url": "https://flash.jin10.com/detail/20260411122629984800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国大客户订单今年能否完成交付？康斯特回应",
+          "url": "https://flash.jin10.com/detail/20260411121809909800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国银行：经济对石油冲击的韧性增强",
+          "url": "https://flash.jin10.com/detail/20260411113254636800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国载人绕月飞船返回舱即将进入大气层",
+          "url": "https://wallstreetcn.com/livenews/3086142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国航空航天局：“阿耳忒弥斯2号”的四名宇航员在溅落后已成功从猎户座飞船中撤离，目前在USS John P. Murtha舰艇上。接下来，他们将被护送到医疗舱，进行任务后的医学评估。",
+          "url": "https://flash.jin10.com/detail/20260411100647647800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国航空航天局：四名执行“阿耳忒弥斯2号”任务的宇航员安全出舱。",
+          "url": "https://flash.jin10.com/detail/20260411094722591800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941158",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "伊朗为何突然转变态度？巴官员：关键推手是中国",
+          "url": "https://news.ifeng.com/c/8sEKnWwLcL4",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
-          "url": "https://wallstreetcn.com/articles/3769554",
-          "source": "华尔街见闻",
+          "title": "春日中国热度拉升",
+          "url": "https://www.toutiao.com/trending/7626641984129449990/",
+          "source": "今日头条",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "68艘空油轮正驶入！美国4月原油出口或创纪录，中东战事引发抢油潮",
-          "url": "https://wallstreetcn.com/articles/3769563",
-          "source": "华尔街见闻",
+          "title": "中国男篮历史上最强的十个人，打 NBA 能进季后赛吗？",
+          "url": "https://www.zhihu.com/question/625448405",
+          "source": "知乎",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "美国年轻人为何被锁死一生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%94%81%E6%AD%BB%E4%B8%80%E7%94%9F",
-          "source": "bilibili 热搜",
+          "title": "中国围棋协会相关负责人：中国队参加LG杯赛符合中韩文化交流大局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941763",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "中国科学家揭示左撇子真相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%AD%E7%A4%BA%E5%B7%A6%E6%92%87%E5%AD%90%E7%9C%9F%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "中青赛北京赛区U10男足虚假比赛双方连射本队球门，中国足协通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940826",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "美国真有可能退出北约吗",
-          "url": "https://www.toutiao.com/trending/7626347671159980082/",
-          "source": "今日头条",
+          "title": "美豆农：越来越依赖中国，去年的还砸在手里",
+          "url": "https://news.ifeng.com/c/8sETDpzVdFO",
+          "source": "凤凰网",
           "ranks": [
-            24
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "美伊停火谈判期间，美国启动以色列F-35重大升级计划",
-          "url": "https://wallstreetcn.com/livenews/3085571",
+          "title": "巴拿马总统：无意与中国发生摩擦",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%97%A0%E6%84%8F%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%94%9F%E6%91%A9%E6%93%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "为了对抗中国车企的极致效率，丰田不再为“看不见的完美”买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "穿普拉达的女王2中国首映礼",
+          "url": "https://www.douyin.com/hot/2462186",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "中国银行在雅加达举办本币结算多边对话 聚焦提升LCT效率",
+          "url": "https://wallstreetcn.com/livenews/3086160",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "中国驻伊朗大使馆再次提醒中国公民暂勿前往伊朗",
+          "url": "https://wallstreetcn.com/livenews/3086143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260411124514356800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
+          "url": "https://flash.jin10.com/detail/20260411094848579800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
+          "url": "https://flash.jin10.com/detail/20260411094831132800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "13时23分"
+        },
+        {
+          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
+          "url": "https://flash.jin10.com/detail/20260411094803513800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
