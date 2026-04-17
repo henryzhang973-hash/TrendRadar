@@ -1,458 +1,506 @@
 {
-  "generated_at": "2026-04-16T13:58:43.428933+08:00",
-  "total_titles_processed": 314,
-  "failed_sources": [],
+  "generated_at": "2026-04-17T14:01:55.600788+08:00",
+  "total_titles_processed": 317,
+  "failed_sources": [
+    "toutiao",
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
-          "title": "视频丨法国全票通过！“将不义之财归还中国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32977763",
-          "source": "澎湃新闻",
+          "title": "“摸着中国石头过河”，苏林此访能学到啥？",
+          "url": "https://news.ifeng.com/c/8sOD2dZ4xdf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "苏林夫人身边的中国女保镖火了",
+          "url": "https://www.toutiao.com/trending/7629545537112506404/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "第十三届中国网络视听大会",
-          "url": "https://www.douyin.com/hot/2467956",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "【图解中国经济一季报】GDP同比增长5.0%，国民经济实现良好开局",
-          "url": "https://www.cls.cn/detail/2344826",
-          "source": "财联社热门",
+          "title": "一季度中国经济“成绩单”来了",
+          "url": "https://www.toutiao.com/trending/7629291475725189171/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "中国人口第三城要易主了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%89%E5%9F%8E%E8%A6%81%E6%98%93%E4%B8%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收高1.1%报37,132.02点。",
-          "url": "https://wallstreetcn.com/livenews/3089024",
+          "title": "中国台湾证交所加权股价指数收低0.9%报36,804.34点。",
+          "url": "https://wallstreetcn.com/livenews/3089801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时01分"
         },
         {
-          "title": "如何看待 2026 软科中国大学排名？有哪些学校排名出乎意料？",
-          "url": "https://www.zhihu.com/question/2027678448433341035",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
-          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
-          "source": "凤凰网",
+          "title": "中国向伊朗提供58吨物资援助",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
-          "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
-          "source": "澎湃新闻",
+          "title": "中国女生在韩遭男子性骚扰被劝和解",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%AD%E7%94%B7%E5%AD%90%E6%80%A7%E9%AA%9A%E6%89%B0%E8%A2%AB%E5%8A%9D%E5%92%8C%E8%A7%A3&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "宋凯主管中国足协也快 3 年了，他算不算干出了成绩，让中国足球在逐渐变好？",
+          "url": "https://www.zhihu.com/question/2026738347968673038",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
-          "title": "中国11人参加斯诺克世锦赛",
-          "url": "https://www.douyin.com/hot/2467795",
+          "title": "美议员放话：要帮秘鲁从中国拿回钱凯港",
+          "url": "https://news.ifeng.com/c/8sOIolxzIqI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "19岁中国女子在泰国与通缉犯男友演“绑架案”骗父赎金",
+          "url": "https://news.ifeng.com/c/8sOXeDQu1D9",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "张陆7次出舱刷新中国航天员纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%99%867%E6%AC%A1%E5%87%BA%E8%88%B1%E5%88%B7%E6%96%B0%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "中国驻日大使馆连遭恐怖威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%BF%9E%E9%81%AD%E6%81%90%E6%80%96%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "大外交｜苏林12小时深度体验铁路“中国速度”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986097",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "港股消费股多数走低，百胜中国跌超5%，周生生跌超4%，老铺黄金、周黑鸭、海底捞跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3089798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "中国海洋采油技术有多牛",
+          "url": "https://www.douyin.com/hot/2468545",
           "source": "抖音",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时01分"
         },
         {
-          "title": "实现良好开局！一季度中国GDP同比增长5.0%",
-          "url": "https://www.cls.cn/detail/2345524",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "中国机器人火到波兰：街头撵野猪，登台讲笑话",
-          "url": "https://v.ifeng.com/c/8sL3jVEOkhS",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "法国全票通过法案，圆明园文物或有望回中国，法议员：雨果希望的一天终于到来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32981931",
-          "source": "澎湃新闻",
+          "title": "苏林夫人身边的中国女保镖火了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%9E%97%E5%A4%AB%E4%BA%BA%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "“将不义之财归还被抢掠的中国”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%86%E4%B8%8D%E4%B9%89%E4%B9%8B%E8%B4%A2%E5%BD%92%E8%BF%98%E8%A2%AB%E6%8A%A2%E6%8E%A0%E7%9A%84%E4%B8%AD%E5%9B%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "2026中国大学排名",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "宝马中国宣传片疑似讽刺友商",
-          "url": "https://www.toutiao.com/trending/7628617507208695332/",
+          "title": "中国驻日大使馆接连遭到恐怖威胁",
+          "url": "https://www.toutiao.com/trending/7629092863972327443/",
           "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美歌手在联合国高唱《我爱你中国》",
-          "url": "https://www.toutiao.com/trending/7628456151844143167/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "中国与越南之间新开5条航线",
-          "url": "https://www.toutiao.com/trending/7628818960595779603/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "报道：美国尚未同意延长停火协议",
-          "url": "https://wallstreetcn.com/articles/3770034",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3770023",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
-          "url": "https://news.ifeng.com/c/8sMQrPZN74e",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "韩媒：传SK海力士争取提早在6至7月美国上市 预计集资100亿美元",
-          "url": "https://flash.jin10.com/detail/20260416133213103800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美国将启动关税退款",
-          "url": "https://www.douyin.com/hot/2467444",
-          "source": "抖音",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "伊朗总统连发数问怒斥美国凭什么",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%BF%9E%E5%8F%91%E6%95%B0%E9%97%AE%E6%80%92%E6%96%A5%E7%BE%8E%E5%9B%BD%E5%87%AD%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "外交部回应成为中国人助推中文热",
+          "url": "https://www.douyin.com/hot/2468314",
+          "source": "抖音",
           "ranks": [
-            20
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "约20名中国学者赴美参会被拒绝入境",
+          "url": "https://www.toutiao.com/trending/7629248367163424787/",
+          "source": "今日头条",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "日本财务大臣与美国财长会晤后放话：已准备好“大胆行动”稳日元",
-          "url": "https://flash.jin10.com/detail/20260416131648173800",
+          "title": "港股保险股走低，中国太保(02601.HK)跌近4%，中国平安(02318.HK)、中国人民保险集团(01339.HK)、中国财险(02328.HK)跌超3%，中国人寿(02628.HK)、友邦保险(01299.HK)跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20260417130121137800",
           "source": "金十数据",
           "ranks": [
-            24
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "中国渔船“军事集结”东海？多方驳斥",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E2%80%9C%E5%86%9B%E4%BA%8B%E9%9B%86%E7%BB%93%E2%80%9D%E4%B8%9C%E6%B5%B7%EF%BC%9F%E5%A4%9A%E6%96%B9%E9%A9%B3%E6%96%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）富时中国A50指数成分股午盘收盘行情一览：白酒、金属、电池等多板块走弱，通讯设备、半导体板块明显上涨",
+          "url": "https://flash.jin10.com/detail/20260417125643981800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
+          "url": "https://www.zhihu.com/question/2013899380286047376",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "小米18Pro新增AI按键",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E6%96%B0%E5%A2%9EAI%E6%8C%89%E9%94%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "刷手机有多累？现在AI能算出来了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%B7%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E7%B4%AF%EF%BC%9F%E7%8E%B0%E5%9C%A8AI%E8%83%BD%E7%AE%97%E5%87%BA%E6%9D%A5%E4%BA%86",
+          "title": "AI来了消博会 消费行业会怎么变",
+          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
           "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "阿里巴巴发布可用于游戏开发的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3088996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时00分"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
+          "url": "https://www.zhihu.com/question/2025259986431787811",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "苏林试戴人工智能眼镜",
+          "url": "https://www.toutiao.com/trending/7629525766065864714/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7628666147721740329/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
+          "url": "https://wallstreetcn.com/livenews/3089779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
-          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
-          "url": "https://www.cls.cn/detail/2345555",
-          "source": "财联社热门",
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "打脸特朗普！海湾和欧洲官员：美伊协议至少需六个月，不是“很快”",
+          "url": "https://flash.jin10.com/detail/20260417125738435800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国核动力航母又起火，这次是“艾森豪威尔”号",
+          "url": "https://news.ifeng.com/c/8sOWMZF2Xf3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时01分]"
+        },
+        {
+          "title": "受伊朗战事影响 美国将推迟向部分欧洲国家交付武器",
+          "url": "https://wallstreetcn.com/livenews/3089769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     }
