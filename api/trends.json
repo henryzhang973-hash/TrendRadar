@@ -1,506 +1,623 @@
 {
-  "generated_at": "2026-04-17T14:01:55.600788+08:00",
-  "total_titles_processed": 317,
-  "failed_sources": [
-    "toutiao",
-    "baidu"
-  ],
+  "generated_at": "2026-04-18T13:31:42.654897+08:00",
+  "total_titles_processed": 314,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
+      "keyword_group": "特朗普",
       "match_count": 23,
       "titles": [
         {
-          "title": "“摸着中国石头过河”，苏林此访能学到啥？",
-          "url": "https://news.ifeng.com/c/8sOD2dZ4xdf",
+          "title": "特朗普最兴奋的一天：三个细节，信息量很大",
+          "url": "https://news.ifeng.com/c/8sPvCLdNSdV",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "苏林夫人身边的中国女保镖火了",
-          "url": "https://www.toutiao.com/trending/7629545537112506404/",
-          "source": "今日头条",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "一季度中国经济“成绩单”来了",
-          "url": "https://www.toutiao.com/trending/7629291475725189171/",
-          "source": "今日头条",
+          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "中国台湾证交所加权股价指数收低0.9%报36,804.34点。",
-          "url": "https://wallstreetcn.com/livenews/3089801",
+          "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
+          "url": "https://wallstreetcn.com/livenews/3090404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "13时31分"
         },
         {
-          "title": "中国向伊朗提供58吨物资援助",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9",
-          "source": "bilibili 热搜",
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2347896",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普：签了协议再收缴伊朗核材料就不算出兵",
+          "url": "https://flash.jin10.com/detail/20260418132550117800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://wallstreetcn.com/livenews/3090403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗：特朗普7项声明“均不属实”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "中国女生在韩遭男子性骚扰被劝和解",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%AD%E7%94%B7%E5%AD%90%E6%80%A7%E9%AA%9A%E6%89%B0%E8%A2%AB%E5%8A%9D%E5%92%8C%E8%A7%A3&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "宋凯主管中国足协也快 3 年了，他算不算干出了成绩，让中国足球在逐渐变好？",
-          "url": "https://www.zhihu.com/question/2026738347968673038",
-          "source": "知乎",
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
+          "url": "https://wallstreetcn.com/livenews/3090399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3090398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周六上午9点（北京时间21:00）签署一项行政命令。",
+          "url": "https://wallstreetcn.com/livenews/3090397",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "美议员放话：要帮秘鲁从中国拿回钱凯港",
-          "url": "https://news.ifeng.com/c/8sOIolxzIqI",
-          "source": "凤凰网",
+          "title": "巴西总统：特朗普不是“世界皇帝”",
+          "url": "https://www.toutiao.com/trending/7629134151015153670/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://www.cls.cn/detail/2346894",
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "19岁中国女子在泰国与通缉犯男友演“绑架案”骗父赎金",
-          "url": "https://news.ifeng.com/c/8sOXeDQu1D9",
-          "source": "凤凰网",
+          "title": "美国一家上诉法院允许特朗普政府继续建设耗资4亿美元的白宫宴会厅，并定于6月举行听证会，审查华盛顿一名法官叫停该项目的命令。",
+          "url": "https://flash.jin10.com/detail/20260418121258485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "近日，一个美国代表团在古巴与古巴政府官员举行了会晤，这标志着美古外交势头再度加强。此前，美国总统特朗普威胁要进行干预，而古巴领导人本周也表示，如果这种情况发生，古巴已做好战斗准备。",
+          "url": "https://flash.jin10.com/detail/20260418120110581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "美国总统特朗普：有人已经厌倦了胜利吗？",
+          "url": "https://flash.jin10.com/detail/20260418115829475800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普回应美伊信息不一致：因为伊朗也要迎合其他人",
+          "url": "https://flash.jin10.com/detail/20260418115420223800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡不会有收费",
+          "url": "https://flash.jin10.com/detail/20260418113337173800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称，通过霍尔木兹海峡的船舶无需缴纳任何费用。",
+          "url": "https://flash.jin10.com/detail/20260418112949536800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "一日本自卫队舰艇进入台湾海峡，外交部：中国军队已依法依规处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32992724",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "肺癌成中国女性第一大癌症",
+          "url": "https://www.baidu.com/s?wd=%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "中国制造“飞向”全球",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9C%E9%A3%9E%E5%90%91%E2%80%9D%E5%85%A8%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "中国新能源产品成了海外抢手货",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E5%93%81%E6%88%90%E4%BA%86%E6%B5%B7%E5%A4%96%E6%8A%A2%E6%89%8B%E8%B4%A7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "报告称肺癌成中国女性第一大癌种，导致女性肺癌发病率升高的原因有哪些？日常该如何预防？",
+          "url": "https://www.zhihu.com/question/2028401687027611513",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "除了足球队 中国已全面进入世界杯",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A4%E4%BA%86%E8%B6%B3%E7%90%83%E9%98%9F+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "玉渊谭天：特殊时刻 两部反制新规全方位保护中国海外利益",
+          "url": "https://flash.jin10.com/detail/20260418124959256800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "中国科学家首次造出「球状闪电」，揭示并证实其本质是「电磁孤子」，这一成果有哪些重要意义？",
+          "url": "https://www.zhihu.com/question/2028187274311921995",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "张陆7次出舱刷新中国航天员纪录",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%99%867%E6%AC%A1%E5%87%BA%E8%88%B1%E5%88%B7%E6%96%B0%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E7%BA%AA%E5%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "中国驻日大使馆连遭恐怖威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%BF%9E%E9%81%AD%E6%81%90%E6%80%96%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "大外交｜苏林12小时深度体验铁路“中国速度”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986097",
+          "title": "50名考生艺考成绩被登错，中国传媒大学致歉：已启动问责程序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32993115",
           "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "港股消费股多数走低，百胜中国跌超5%，周生生跌超4%，老铺黄金、周黑鸭、海底捞跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3089798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "中国海洋采油技术有多牛",
-          "url": "https://www.douyin.com/hot/2468545",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "苏林夫人身边的中国女保镖火了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%9E%97%E5%A4%AB%E4%BA%BA%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BF%9D%E9%95%96%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "中国驻日大使馆接连遭到恐怖威胁",
-          "url": "https://www.toutiao.com/trending/7629092863972327443/",
-          "source": "今日头条",
+          "title": "中国航天2026任务展望",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A92026%E4%BB%BB%E5%8A%A1%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "外交部回应成为中国人助推中文热",
-          "url": "https://www.douyin.com/hot/2468314",
-          "source": "抖音",
+          "title": "被困霍尔木兹海峡的中国船已通知船员“做好走的准备”。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3090390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "约20名中国学者赴美参会被拒绝入境",
-          "url": "https://www.toutiao.com/trending/7629248367163424787/",
-          "source": "今日头条",
-          "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "港股保险股走低，中国太保(02601.HK)跌近4%，中国平安(02318.HK)、中国人民保险集团(01339.HK)、中国财险(02328.HK)跌超3%，中国人寿(02628.HK)、友邦保险(01299.HK)跌2.3%。",
-          "url": "https://flash.jin10.com/detail/20260417130121137800",
-          "source": "金十数据",
+          "title": "中国人口第三城要易主了，成都将超北京成中国第三城，反映怎样的城市发展变局？从人口经济学角度如何解读？",
+          "url": "https://www.zhihu.com/question/2028127955897906386",
+          "source": "知乎",
           "ranks": [
-            23
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "13时31分"
         },
         {
-          "title": "中国渔船“军事集结”东海？多方驳斥",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E2%80%9C%E5%86%9B%E4%BA%8B%E9%9B%86%E7%BB%93%E2%80%9D%E4%B8%9C%E6%B5%B7%EF%BC%9F%E5%A4%9A%E6%96%B9%E9%A9%B3%E6%96%A5",
+          "title": "法国会归还中国文物吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E4%BC%9A%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "“260万件中国文物多少能回归”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C260%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%E5%A4%9A%E5%B0%91%E8%83%BD%E5%9B%9E%E5%BD%92%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
+          "url": "https://wallstreetcn.com/articles/3770261",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "金十图示：2026年04月16日（周四）富时中国A50指数成分股午盘收盘行情一览：白酒、金属、电池等多板块走弱，通讯设备、半导体板块明显上涨",
-          "url": "https://flash.jin10.com/detail/20260417125643981800",
+          "title": "中国电动三轮车在美国卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "市场消息：塞尔维亚石油公司（NIS）获得美国再次豁免。",
+          "url": "https://flash.jin10.com/detail/20260418131204770800",
           "source": "金十数据",
           "ranks": [
-            29
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "13时31分"
+        },
+        {
+          "title": "美国能源部将释放第三批战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260418130331043800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "5艘伊朗油轮试图通过隐藏导航数据突破美国封锁。美国驱逐舰迫使3艘伊朗油轮返航，并正在追击另外两艘。",
+          "url": "https://flash.jin10.com/detail/20260418125401540800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "秘鲁政府拟推迟购买美国战机遭美外交官威胁",
+          "url": "https://flash.jin10.com/detail/20260418120733897800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "美国联邦航空管理局将削减美国主要机场的航班以减少延误。",
+          "url": "https://flash.jin10.com/detail/20260418120344579800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "男子称在美国摆摊月入上万美元",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%91%86%E6%91%8A%E6%9C%88%E5%85%A5%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 12,
+      "match_count": 7,
       "titles": [
         {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
-          "url": "https://www.zhihu.com/question/2013899380286047376",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "AI来了消博会 消费行业会怎么变",
-          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
-          "source": "百度热搜",
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "13时31分"
         },
         {
-          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
-          "url": "https://www.cls.cn/detail/2346818",
-          "source": "财联社热门",
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
+          "title": "广东：大力推动人工智能高质量发展和全域全时全行业应用",
+          "url": "https://wallstreetcn.com/livenews/3090396",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
-          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
-          "url": "https://www.zhihu.com/question/2025259986431787811",
-          "source": "知乎",
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "AI重塑竞争格局，券商金融科技投入稳增长",
+          "url": "https://wallstreetcn.com/livenews/3090380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "xAI宣布推出Grok语音转文本和Grok文本转语音功能。",
+          "url": "https://wallstreetcn.com/livenews/3090379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
           "source": "贴吧",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "苏林试戴人工智能眼镜",
-          "url": "https://www.toutiao.com/trending/7629525766065864714/",
-          "source": "今日头条",
-          "ranks": [
-            14
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.toutiao.com/trending/7628666147721740329/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
-          "url": "https://wallstreetcn.com/livenews/3089779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "打脸特朗普！海湾和欧洲官员：美伊协议至少需六个月，不是“很快”",
-          "url": "https://flash.jin10.com/detail/20260417125738435800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国核动力航母又起火，这次是“艾森豪威尔”号",
-          "url": "https://news.ifeng.com/c/8sOWMZF2Xf3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "受伊朗战事影响 美国将推迟向部分欧洲国家交付武器",
-          "url": "https://wallstreetcn.com/livenews/3089769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "13时31分"
         }
       ]
     }
