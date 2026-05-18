@@ -1,414 +1,403 @@
 {
-  "generated_at": "2026-05-17T14:41:11.584325+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-18T15:57:32.741940+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
+      "keyword_group": "中国",
+      "match_count": 12,
       "titles": [
         {
-          "title": "特朗普：不希望看到台湾有人闹“独立”",
-          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=2&Refer=top",
+          "title": "5中国人在泰遭4警察1平民绑架勒索",
+          "url": "https://s.weibo.com/weibo?q=%235%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B3%B0%E9%81%AD4%E8%AD%A6%E5%AF%9F1%E5%B9%B3%E6%B0%91%E7%BB%91%E6%9E%B6%E5%8B%92%E7%B4%A2%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "特朗普黄仁勋同款美食",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E4%BB%81%E5%8B%8B%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F",
-          "source": "bilibili 热搜",
+          "title": "【外交部介绍普京访华相关安排】外交部发言人郭嘉昆主持例行记者会。有记者问，中方前天发布了普京总统将对中国进行国事访问的消息，能否具体介绍此访有关安排？中方对普京总统此访有什么期待？中方如何评价当前中俄关系？ 郭嘉昆表示，这将是普京总统第二十五次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3105210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "台舆论称特朗普不许台独视美为靠山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
-          "url": "https://www.zhihu.com/question/2039077052658049213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普警告台湾不要试图走向“独立”",
-          "url": "https://www.toutiao.com/trending/7640462139869630015/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
-          "url": "https://flash.jin10.com/detail/20260517131605700800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时57分"
         },
         {
-          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
-          "url": "https://wallstreetcn.com/livenews/3104824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "央视拿下世界杯转播权背后：中国赞助商“关键助攻”，促成多方共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33188234",
-          "source": "澎湃新闻",
+          "title": "4名泰国警察参与绑架勒索中国人",
+          "url": "https://www.toutiao.com/trending/7640608078924283923/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "“千里之行，始于足下”，哈萨克斯坦总统用中文感谢中国",
-          "url": "https://news.ifeng.com/c/8tCHtXG6RXQ",
-          "source": "凤凰网",
+          "title": "4 名中国人赴泰考察失联，行程被强改，胁迫打电话报平安，具体怎么回事？背后可能涉及怎样的犯罪链条？",
+          "url": "https://www.zhihu.com/question/2039292429149237740",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
+          "url": "https://wallstreetcn.com/articles/3772480",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "法国为何出售在中国的电力资产",
-          "url": "https://www.toutiao.com/trending/7640625818187599403/",
-          "source": "今日头条",
+          "title": "人民日报和音：从外贸之“质”读懂中国经济之“韧”",
+          "url": "https://www.cls.cn/detail/2373546",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "中国科学院公众科学日",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%85%AC%E4%BC%97%E7%A7%91%E5%AD%A6%E6%97%A5",
-          "source": "bilibili 热搜",
+          "title": "中国人民银行召开2026年内审工作会议",
+          "url": "https://wallstreetcn.com/livenews/3105198",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "中国半年内迎来“四常”领导人",
-          "url": "https://www.toutiao.com/trending/7640700191540039195/",
-          "source": "今日头条",
+          "title": "泰国4名警察涉嫌绑架5名中国人被捕",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD4%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%B6%89%E5%AB%8C%E7%BB%91%E6%9E%B65%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "福克斯主持人吐槽中国结果“翻车”",
-          "url": "https://www.toutiao.com/trending/7639644021941878847/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "UP主逛中国最大预制菜展",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%80%9B%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "油炒香料?岛民点评中国菜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354298&amp;topic_name=%E6%B2%B9%E7%82%92%E9%A6%99%E6%96%99%3F%E5%B2%9B%E6%B0%91%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E8%8F%9C",
-          "source": "贴吧",
+          "title": "中国人民银行行长潘功胜会见维萨公司首席执行官瑞安·麦金纳尼",
+          "url": "https://wallstreetcn.com/livenews/3105184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "中国男子举报澳洲肉厂安全问题被辞",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E6%BE%B3%E6%B4%B2%E8%82%89%E5%8E%82%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "普京访问中国将主要聚焦三个方面",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%BB%E8%A6%81%E8%81%9A%E7%84%A6%E4%B8%89%E4%B8%AA%E6%96%B9%E9%9D%A2",
+          "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "中国新提3项旅游国际标准 将开启立项投票",
-          "url": "https://flash.jin10.com/detail/20260517122733370800",
-          "source": "金十数据",
+          "title": "【外交部：中方愿同美方一道全面准确落实好两国元首达成的重要共识】5月18日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，白宫发布了特朗普总统访华的事实清单，介绍此访的有关成果，请问中方对此有何评论？郭嘉昆表示，特朗普总统访华期间，两国元首同意将“中美建设性战略稳定关系”作为两国关系的新定位，就下阶段高层交往和外交、经贸等各领域对话合作作出规划，就共同关心的国际和地区热点问题深入交换意见。中方愿同美方一道全面准确落实好两国元首达成的重要共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3105215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时57分"
         },
         {
-          "title": "华为与中国中化签署深化战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260517120115162800",
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "中方回应高市与返途中特朗普通话：日方应尽早纠正涉台错误言行",
+          "url": "https://flash.jin10.com/detail/20260518153508465800",
           "source": "金十数据",
           "ranks": [
-            25
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时57分"
+        },
+        {
+          "title": "中方回应特朗普就台湾问题表态：民进党当局应认清大势悬崖勒马",
+          "url": "https://flash.jin10.com/detail/20260518153421947800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "中方回应特朗普访华事实清单",
+          "url": "https://flash.jin10.com/detail/20260518153346205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "台名嘴谈特朗普拒为“台独”背书",
+          "url": "https://www.toutiao.com/trending/7640870565197676580/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
-          "url": "https://wallstreetcn.com/articles/3772419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
-          "url": "https://wallstreetcn.com/articles/3772426",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "境外间谍对我稀土AI等领域实施窃密",
-          "url": "https://www.toutiao.com/trending/7639950755486633515/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "为什么美国防长在台湾问题上一言不发？",
-          "url": "https://news.ifeng.com/c/8tCCLtKAMKP",
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
-          "title": "美福特号航母返回美国 结束为期11个月部署",
-          "url": "https://wallstreetcn.com/livenews/3104834",
-          "source": "华尔街见闻-快讯",
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "AI如何更好的模仿人类",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%A8%A1%E4%BB%BF%E4%BA%BA%E7%B1%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
+          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "AI已经卷到灯了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%B7%B2%E7%BB%8F%E5%8D%B7%E5%88%B0%E7%81%AF%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美情报称古巴或攻击美国基地和城市，古外长回应",
+          "url": "https://news.ifeng.com/c/8tDwx9QvJNU",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗和美国都已对最近的伊朗提案发表了意见。",
+          "url": "https://flash.jin10.com/detail/20260518153346138800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时57分"
+        },
+        {
+          "title": "美国两架战机空中相撞坠毁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "马斯克：希望SpaceX的首次公开募股（IPO）尽快启动。 希望到今年年底前，让无人驾驶汽车在美国广泛普及。 认为Neuralink技术能帮助部分失明者重见光明。 计划今年进行首例针对失明症的Neuralink植入手术。",
+          "url": "https://wallstreetcn.com/livenews/3105193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     }
