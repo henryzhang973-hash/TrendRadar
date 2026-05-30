@@ -1,469 +1,381 @@
 {
-  "generated_at": "2026-05-29T15:49:44.967853+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-30T14:42:28.846263+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 16,
+      "match_count": 12,
       "titles": [
         {
-          "title": "中国无锡市德科立光据悉考虑在新加坡上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3111249",
+          "title": "柠季拟收购哈根达斯中国门店？公司负责人回应",
+          "url": "https://wallstreetcn.com/livenews/3111738",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "title": "一名被羁押的中国公民在菲移民局监狱突然离世，中使馆向菲方提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33269992",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "外国人的中国胃觉醒了",
-          "url": "https://www.douyin.com/hot/2515611",
-          "source": "抖音",
+          "title": "为什么全世界很多地方把土豆当口粮，中国人却更爱把它当菜？",
+          "url": "https://www.zhihu.com/question/2041195866896209545",
+          "source": "知乎",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "中国首个“亿级车企”诞生",
-          "url": "https://www.toutiao.com/trending/7644470670185103369/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "中国百倍差价酒店区别有多大",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%99%BE%E5%80%8D%E5%B7%AE%E4%BB%B7%E9%85%92%E5%BA%97%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "中国大使：希望个别韩媒不要再愚弄读者了",
-          "url": "https://news.ifeng.com/c/8tW2az1NQZ0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "为什么印度顶着50℃高温，也要抵制中国空调？",
-          "url": "https://news.ifeng.com/c/8tW3b34Cf8M",
-          "source": "凤凰网",
+          "title": "如何看待中国队缺席 2026 亚运会《英雄联盟》项目名单，王者荣耀、和平精英获直通资格？",
+          "url": "https://www.zhihu.com/question/2043644166786082651",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "中国地震台网正式测定：新疆吐鲁番市托克逊县发生5.0级地震，震源深度20千米。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3111229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "最亮的星致敬中国科技工作者",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
-          "source": "bilibili 热搜",
+          "title": "韩国人馋哭中国鲜荔枝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354707&amp;topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%A6%8B%E5%93%AD%E4%B8%AD%E5%9B%BD%E9%B2%9C%E8%8D%94%E6%9E%9D",
+          "source": "贴吧",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "某国网攻中国高校动用41种武器装备",
-          "url": "https://www.toutiao.com/trending/7644908963393179199/",
-          "source": "今日头条",
+          "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "中国芯片又传来好消息",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8F%88%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF",
+          "title": "中国最美公路6月1日恢复通车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%BE%8E%E5%85%AC%E8%B7%AF6%E6%9C%881%E6%97%A5%E6%81%A2%E5%A4%8D%E9%80%9A%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "中使馆：64名被菲方羁押的中国公民获释",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33261653",
-          "source": "澎湃新闻",
+          "title": "印政府警告宝莱坞：不得抨击中国",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E5%AE%9D%E8%8E%B1%E5%9D%9E%EF%BC%9A%E4%B8%8D%E5%BE%97%E6%8A%A8%E5%87%BB%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "上汽集团交付第1亿辆车！中国首个“亿级车企”在上海诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33256421",
+          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "为中国式现代化铸魂：社会主义核心价值观的培育与践行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262871",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "菲律宾近1月抓扣150余名中国公民",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BF%911%E6%9C%88%E6%8A%93%E6%89%A3150%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "菲律宾近1月抓扣150余名中国公民",
-          "url": "https://www.toutiao.com/trending/7644527321089441830/",
+          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
+          "url": "https://www.toutiao.com/trending/7645193705930018346/",
           "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "“你的麦子熟了 整个中国替你收”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E7%9A%84%E9%BA%A6%E5%AD%90%E7%86%9F%E4%BA%86+%E6%95%B4%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BD%A0%E6%94%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
-          "url": "https://wallstreetcn.com/livenews/3111248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.cls.cn/detail/2384760",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
-          "url": "https://www.cls.cn/detail/2384804",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
-          "url": "https://www.cls.cn/detail/2384829",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
-          "url": "https://flash.jin10.com/detail/20260529153912473800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "国产AI芯片三国杀",
-          "url": "https://www.toutiao.com/trending/7645160711315787327/",
-          "source": "今日头条",
+          "title": "中国百倍差价酒店区别有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%99%BE%E5%80%8D%E5%B7%AE%E4%BB%B7%E9%85%92%E5%BA%97%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
-          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
-          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
+          "url": "https://v.ifeng.com/c/8tXkQpz5ynL",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "白宫备忘录显示，美国总统特朗普健康状况极佳，心脏、肺、神经系统及整体身体机能均表现强健。",
+          "url": "https://flash.jin10.com/detail/20260530110709422800",
           "source": "金十数据",
           "ranks": [
-            26
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
+        },
+        {
+          "title": "白宫备忘录显示，美国总统特朗普持续接受所有适当的预防性筛查和免疫接种。",
+          "url": "https://flash.jin10.com/detail/20260530110654937800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "白宫备忘录显示，2026年5月26日，美国总统特朗普进行了年度体检。",
+          "url": "https://flash.jin10.com/detail/20260530110559864800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "白宫发布特朗普医生出具的备忘录：特朗普没有动脉阻塞及异常情况。 特朗普有轻微小腿肿胀。医生称特朗普的小腿肿胀较2025年有所改善 特朗普的医生表示总统健康状况适合履行所有职责。 特朗普的医生表示总统健康状况极佳。",
+          "url": "https://wallstreetcn.com/livenews/3111711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美议员回怼泽连斯基：美国不是提款机",
-          "url": "https://news.ifeng.com/c/8tWTwiBm9R3",
-          "source": "凤凰网",
+          "title": "据彭博社援引一位直接了解情况的人士报道，伊朗对科威特一处空军基地发动的弹道导弹袭击造成数名美国人受轻伤，并严重损坏了两架美国MQ-9“收割者”无人机。",
+          "url": "https://flash.jin10.com/detail/20260530143011028800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
+        },
+        {
+          "title": "普京：已将无人机残骸交美国鉴定",
+          "url": "https://www.toutiao.com/trending/7645534642226774057/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
+          "url": "https://wallstreetcn.com/livenews/3111733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "美财长：多年来美国一直处于沉睡之中，误把舒适当成了实力",
+          "url": "https://news.ifeng.com/c/8tXni56NgoE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
-          "url": "https://wallstreetcn.com/articles/3773373",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "中国在不断地兴修水坝，而美国却拆了 1000 多座水坝，这是为什么？",
-          "url": "https://www.zhihu.com/question/1958158273766200160",
-          "source": "知乎",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33255027",
-          "source": "澎湃新闻",
+          "title": "美国防长谈中美元首会晤，回应中方提问",
+          "url": "https://flash.jin10.com/detail/20260530131209597800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
-        },
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "如何看待美国 CIA 官员利用职务之便从国库转移 300 多公斤黄金藏于家中？",
-          "url": "https://www.zhihu.com/question/2043440192086857649",
-          "source": "知乎",
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "美国防长现身香格里拉对话会现场",
-          "url": "https://www.toutiao.com/trending/7645052708088496134/",
-          "source": "今日头条",
+          "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
+          "url": "https://wallstreetcn.com/articles/3773430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+          "url": "https://wallstreetcn.com/livenews/3111717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         },
         {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
+          "title": "AI时代选专业必看",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E9%80%89%E4%B8%93%E4%B8%9A%E5%BF%85%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "14时42分"
         }
       ]
     }
