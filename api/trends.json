@@ -1,458 +1,414 @@
 {
-  "generated_at": "2026-06-02T16:22:41.252648+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-03T16:50:15.148252+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 12,
+      "keyword_group": "美国",
+      "match_count": 11,
       "titles": [
         {
-          "title": "中方驱逐《纽约时报》一记者出境，外交部：该报严重违反一个中国原则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281164",
-          "source": "澎湃新闻",
+          "title": "中美元首峰会后，鲁比奥最新发声：美国对台政策没有改变",
+          "url": "https://v.ifeng.com/c/8teVeKjTuTd",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "中国智造打印全球",
-          "url": "https://www.douyin.com/hot/2521051",
-          "source": "抖音",
+          "title": "就在昨夜！这组炸裂的美国就业市场数据 令华尔街大吃一惊",
+          "url": "https://www.cls.cn/detail/2389061",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "外交部回应《纽约时报》为“台独”提供平台：严重违反一个中国原则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281543",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "台湾岛以东，中国海警编队向日菲亮剑立威",
-          "url": "https://news.ifeng.com/c/8tcHF5gmsxj",
+          "title": "“为配合美国，日韩这么抱团，中国势必警惕”",
+          "url": "https://news.ifeng.com/c/8teaOoGbMh2",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "中国石油顺利完成澳门首笔货币桥跨境交易",
-          "url": "https://flash.jin10.com/detail/20260602160053653800",
-          "source": "金十数据",
+          "title": "美国务卿：美国必须同中国保持对话",
+          "url": "https://www.toutiao.com/trending/7645971457487683603/",
+          "source": "今日头条",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "中国石油顺利完成澳门首笔货币桥跨境交易",
-          "url": "https://wallstreetcn.com/livenews/3112919",
+          "title": "伊朗谴责美国袭击伊朗油轮和电信站点。",
+          "url": "https://wallstreetcn.com/livenews/3113626",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "中国团队完成首例猪肝双肾联合移植",
-          "url": "https://www.toutiao.com/trending/7646688865318735386/",
-          "source": "今日头条",
+          "title": "伊朗议会副议长：伊朗愿意进行谈判，但不信任美国的承诺。",
+          "url": "https://flash.jin10.com/detail/20260603161312634800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "中国情侣在富士山前跳舞，遭日本网民网暴，当事人称「对日本祛魅了」，为啥会这样？日本变得更排外了吗？",
-          "url": "https://www.zhihu.com/question/2044758349561036976",
-          "source": "知乎",
+          "title": "伊朗外交部：科威特和巴林对允许美国袭击负有直接责任",
+          "url": "https://flash.jin10.com/detail/20260603160928340800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "挪威深海发现载有中国瓷器的沉船",
-          "url": "https://www.toutiao.com/trending/7646230295008051241/",
-          "source": "今日头条",
+          "title": "伊朗外交部：科威特和巴林的统治者应对美国的袭击承担责任。",
+          "url": "https://flash.jin10.com/detail/20260603160634309800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "挪威深海发现载有中国瓷器的沉船",
-          "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E6%B7%B1%E6%B5%B7%E5%8F%91%E7%8E%B0%E8%BD%BD%E6%9C%89%E4%B8%AD%E5%9B%BD%E7%93%B7%E5%99%A8%E7%9A%84%E6%B2%89%E8%88%B9",
-          "source": "百度热搜",
+          "title": "伊朗外交部：强烈谴责美国对伊朗一艘油轮和格什姆岛一座电信塔的侵略性袭击。这些侵略行为不仅违反了4月8日的停火协议，也公然违背了《联合国宪章》所载禁止使用武力的基本原则以及国际法。",
+          "url": "https://flash.jin10.com/detail/20260603160536957800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "美国政府正式就退还关税裁决提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3113609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "中国内地航线燃油附加费将下调",
-          "url": "https://wallstreetcn.com/livenews/3112902",
+          "title": "美元兑日元短线跳水，日内跌0.14%，日本首相高市早苗表示，随时根据需要对汇率采取适当措施，在汇率上深化与美国等国的国际合作。",
+          "url": "https://wallstreetcn.com/livenews/3113602",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "中国氢能源发展如何",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%A2%E8%83%BD%E6%BA%90%E5%8F%91%E5%B1%95%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 11,
+      "match_count": 10,
       "titles": [
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "杭州13岁小孩哥AI识毒果断报警",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E13%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%93%A5AI%E8%AF%86%E6%AF%92%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "翘楚演员回应被认成AI",
+          "url": "https://www.douyin.com/hot/2521565",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中国男篮将与塞尔维亚进行热身赛",
+          "url": "https://www.douyin.com/hot/2522111",
+          "source": "抖音",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "中国足球小将七战全胜横扫欧洲球队，夺意大利杯赛冠军，怎样评价董路和球员们的表现？",
+          "url": "https://www.zhihu.com/question/2045245336847737126",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "中国水上电梯创造多个世界第一",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
-          "source": "华尔街见闻",
+          "title": "文化中国行叩问金石文脉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8F%A9%E9%97%AE%E9%87%91%E7%9F%B3%E6%96%87%E8%84%89%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
-          "url": "https://www.cls.cn/detail/2387726",
-          "source": "财联社热门",
+          "title": "中国为什么能提前预测到碳排放是一个局？",
+          "url": "https://www.zhihu.com/question/2044940702971336256",
+          "source": "知乎",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
+          "title": "中国小姐姐为了考研拆三平米房备考",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%A7%90%E5%A7%90%E4%B8%BA%E4%BA%86%E8%80%83%E7%A0%94%E6%8B%86%E4%B8%89%E5%B9%B3%E7%B1%B3%E6%88%BF%E5%A4%87%E8%80%83&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "AI巨头争相布局 机器人板块近期迎来多重利好催化",
-          "url": "https://www.cls.cn/detail/2387759",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "全球AI投资潮中印度股市黯然失色 外资净投资降至近十年低点",
-          "url": "https://wallstreetcn.com/livenews/3112909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "AI PC彻底引爆科技股未来预期",
-          "url": "https://www.toutiao.com/trending/7646421330887183926/",
+          "title": "在印中国留学生讲述亲历高温遭遇",
+          "url": "https://www.toutiao.com/trending/7646838831991947306/",
           "source": "今日头条",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "所罗门群岛称将重新审查与中国的保密安全协议，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3113600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "OECD报告称中国大规模补贴扭曲全球市场，外交部：中企的竞争力不是补出来的",
+          "url": "https://wallstreetcn.com/livenews/3113599",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "16时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
-          "url": "https://news.ifeng.com/c/8tcn1AFVlOS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普被曝拟放弃“反武器化”基金计划",
-          "url": "https://wallstreetcn.com/livenews/3112899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美国多地传出巨响，初判系流星解体释放约 300 吨 TNT 能量所致，如何理解这一量级？可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044470737411338909",
-          "source": "知乎",
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "中美两军在美国夏威夷举行2026年度中美海上军事安全磋商机制工作小组会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285513",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "美国搞新联盟抗衡中国，欧盟宁可“被殖民”也求加入",
-          "url": "https://news.ifeng.com/c/8tcdMywEF0J",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "“菲律宾上赶着美国搞芯片，激怒中国”",
-          "url": "https://news.ifeng.com/c/8tcn1AFVlOR",
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
-          "title": "欧洲议会决定取消对美国商品的多项欧盟进口关税",
-          "url": "https://flash.jin10.com/detail/20260602155155841800",
-          "source": "金十数据",
+          "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
+          "url": "https://www.cls.cn/detail/2389030",
+          "source": "财联社热门",
           "ranks": [
-            16
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "美退役将军：伊朗借真主党让美国“失去平衡”，转移核谈判注意力",
-          "url": "https://flash.jin10.com/detail/20260602154915207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "法国外长：美国和伊朗应尽快解决霍尔木兹海峡问题。",
-          "url": "https://flash.jin10.com/detail/20260602154055372800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "美国这么多国债怎么来的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%BF%99%E4%B9%88%E5%A4%9A%E5%9B%BD%E5%80%BA%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         }
       ]
     }
