@@ -1,513 +1,271 @@
 {
-  "generated_at": "2026-06-18T16:39:40.507510+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-19T17:02:40.848482+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "克里姆林宫外交政策顾问：特朗普在G7期间被“灌输了”有害想法，此后我们未与美国有过接触。",
-          "url": "https://flash.jin10.com/detail/20260618161546239800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普G7答UP主提问点赞中国",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AEG7%E7%AD%94UP%E4%B8%BB%E6%8F%90%E9%97%AE%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普：感谢中俄“完全中立”，让情况好转了很多",
-          "url": "https://news.ifeng.com/c/8u3EpDjUAsS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "英特尔美股盘前涨近7%，特朗普称将帮助英特尔，因为我们需要设计和制造芯片。",
-          "url": "https://wallstreetcn.com/livenews/3121546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
-          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "克里姆林宫外交政策顾问：尚未确定美国特使威特科夫和特朗普女婿库什纳的访问日期。",
-          "url": "https://flash.jin10.com/detail/20260618161324290800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
-          "url": "https://www.cls.cn/detail/2403312",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美学者批特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "伊朗小学被炸，特朗普首次公开松口：难免出错，没人是故意的",
-          "url": "https://news.ifeng.com/c/8u3TOe8B66X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
-          "url": "https://www.cls.cn/detail/2403030",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
-          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
-          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "英特尔(INTC.O)盘前涨6.6%，特朗普表示苹果将与该公司合作进行芯片设计和生产。",
-          "url": "https://flash.jin10.com/detail/20260618160556933800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普在G7记者会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗称要成为中国真正合作伙伴",
-          "url": "https://www.toutiao.com/trending/7651502265441959942/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "中国驻荷兰使馆：严重关切、强烈不满",
-          "url": "https://news.ifeng.com/c/8u3e213HHBf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "马宁终于等来给中国人发红牌的机会",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%AE%81%E7%BB%88%E4%BA%8E%E7%AD%89%E6%9D%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%91%E7%BA%A2%E7%89%8C%E7%9A%84%E6%9C%BA%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "山姆中国首席采购官张青提交辞呈，能解决其品控问题吗？山姆问题频发，根源到底是什么？",
-          "url": "https://www.zhihu.com/question/2050594103377618006",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "港股收盘，恒指收跌1.59%，科指收跌1.39%；曹操出行(02643.HK)跌超15%，中国海外发展(00688.HK)跌9%，华润置地(01109.HK)跌7.3%；智谱(02513.HK)涨超26%，股价再创历史新高，MINIMAX-W(00100.HK)涨超12%。",
-          "url": "https://flash.jin10.com/detail/20260618160959929800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "中国骄傲!马宁主哨世界杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355244&amp;topic_name=%E4%B8%AD%E5%9B%BD%E9%AA%84%E5%82%B2%21%E9%A9%AC%E5%AE%81%E4%B8%BB%E5%93%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "中国5月全社会用电量 8671亿千瓦时，前值8205亿千瓦时。",
-          "url": "https://flash.jin10.com/detail/20260618160417808800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "王毅：中国愿同各国一道重振联合国壮大联合国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400113",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "中国5月全社会用电量同比 6.9%，前值6%。",
-          "url": "https://flash.jin10.com/detail/20260618160410635800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "G7称降低对中国关键矿产的依赖，外交部：中方立场没有变化",
-          "url": "https://wallstreetcn.com/livenews/3121521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "高盛中国房地产团队主管王逸：上海和深圳房地产市场有望先行复苏",
-          "url": "https://wallstreetcn.com/livenews/3121517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        }
-      ]
-    },
     {
       "keyword_group": "AI 人工智能",
       "match_count": 7,
       "titles": [
         {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
+          "title": "深圳打造生物医药特殊物品通关AI服务平台",
+          "url": "https://wallstreetcn.com/livenews/3122027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2050636227766964582",
-          "source": "知乎",
+          "title": "法国内政部长勒塔耶：法国必须巩固其威慑力，重建库存，投资于无人机、人工智能、军事空间，并建立一支真正的后备军。",
+          "url": "https://flash.jin10.com/detail/20260619160316949800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "AI预测科隆Major夺冠队伍",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "远景发布Mission Gobi计划，2030年将建5GW绿色AI算力中心",
-          "url": "https://wallstreetcn.com/livenews/3121520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         }
       ]
     },
     {
-      "keyword_group": "美国",
+      "keyword_group": "中国",
       "match_count": 7,
       "titles": [
         {
-          "title": "德国称美国缩减在欧洲军力需要路线图 以防出现防卫缺口",
-          "url": "https://wallstreetcn.com/livenews/3121547",
-          "source": "华尔街见闻-快讯",
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "武契奇辞职前视察中企工地：我们将继续努力，感谢中国朋友",
+          "url": "https://news.ifeng.com/c/8u4yY47hRYG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "中国民企5年百亿救活英国百年钢企，却遭英政府明抢",
+          "url": "https://news.ifeng.com/c/8u3mIBkDIwT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "端午里的中国色",
+          "url": "https://www.douyin.com/hot/2540311",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "复盘TI15中国区预选决赛日",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98TI15%E4%B8%AD%E5%9B%BD%E5%8C%BA%E9%A2%84%E9%80%89%E5%86%B3%E8%B5%9B%E6%97%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "缅甸总统在上海感叹中国太发达了",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%80%BB%E7%BB%9F%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%84%9F%E5%8F%B9%E4%B8%AD%E5%9B%BD%E5%A4%AA%E5%8F%91%E8%BE%BE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "美国通胀又爆了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%83%80%E5%8F%88%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "国际能源署署长比罗尔：我希望伊朗与美国之间能实现持久和平，海峡能够开放。",
-          "url": "https://flash.jin10.com/detail/20260618161332982800",
+          "title": "以防长：无人能对我们发号施令 特朗普也不行",
+          "url": "https://flash.jin10.com/detail/20260619161610436800",
           "source": "金十数据",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "细节终于公布，美国社会一片惊呼",
-          "url": "https://news.ifeng.com/c/8u37fw6Elsl",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：北约长期以来只是纸老虎且是一条单行道，这种局面必须改变。",
-          "url": "https://flash.jin10.com/detail/20260618161138946800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "瑞士央行：中期通胀压力几乎未变。 如有需要，将继续调整货币政策。 通胀上升主要源于油价上涨。 瑞士经济活动已证明具有韧性。 自上次评估以来失业率有所上升。 全球经济或将在未来几个季度抑制瑞士经济增长。 全球经济是影响瑞士经济前景的主要风险。 美国贸易政策继续构成不确定性来源。 瑞郎面临的升值压力可能再次加大。",
-          "url": "https://wallstreetcn.com/livenews/3121512",
+          "title": "北约秘书长吕特定于6月24日在华盛顿与特朗普会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3122019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
         },
         {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
+          "source": "知乎",
           "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时02分"
+        },
+        {
+          "title": "韩国总统李在明：特朗普总统是和平缔造者，我们是和平推动者。",
+          "url": "https://flash.jin10.com/detail/20260619155302953800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "【瑞士宣布比尔根山美伊会谈已取消】瑞士外交部19日在其网站发布声明说，原定于当天在瑞士中部卢塞恩附近的比尔根山举行的美伊会谈已取消。 声明说，美国、伊朗、卡塔尔和巴基斯坦原定举行的会谈已被推迟。“瑞士仍愿为这些会谈提供便利。有关比尔根山的相关筹备工作也将继续进行。” 瑞士广播电视公司网站稍早前报道说，当天，比尔根山地区景象繁忙，挂着外交牌照的豪华轿车、正在执勤的警察和军队警戒线触目可见。 瑞士方面为安排美国和伊朗计划19日在比尔根山举行的会谈，早在17日已经批准部署军队，提供安保支持，同时批准在会谈期间临时关闭比尔根山区的部分空域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "美国4位前总统同框：克林顿打瞌睡",
+          "url": "https://www.toutiao.com/trending/7652592367971090495/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     }
