@@ -1,326 +1,403 @@
 {
-  "generated_at": "2026-06-30T15:44:35.260374+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-01T16:06:07.608834+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
-          "title": "庆祝中国共产党成立105周年音乐会在京举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33480510",
-          "source": "澎湃新闻",
+          "title": "中国队离世界杯还有多远",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A6%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "中国共产党党员总数为10128.6万名",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%91%98%E6%80%BB%E6%95%B0%E4%B8%BA10128.6%E4%B8%87%E5%90%8D%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "加拿大想搞小动作，中国先出手警告",
+          "url": "https://news.ifeng.com/c/8uPAsIs7m2a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "澎湃读报丨央媒头版集中刊发社论社评：热烈庆祝中国共产党成立105周年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33490978",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任",
+          "url": "https://wallstreetcn.com/livenews/3127256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "Claude偷偷给中国用户打水印",
+          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "今天的长安街满眼中国红",
+          "url": "https://www.toutiao.com/trending/7656956438488858660/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "法国佬长见识盛赞中国高铁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355789&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%BD%AC%E9%95%BF%E8%A7%81%E8%AF%86%E7%9B%9B%E8%B5%9E%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "中国共产党105年创造发展奇迹",
+          "url": "https://www.douyin.com/hot/2554391",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "中国文物占1/3，法国一博物馆馆长：若证实系掠夺24小时内归还",
+          "url": "https://news.ifeng.com/c/8uP7zwfmMVQ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "庆祝中国共产党成立105周年｜风雨兼程，实干兴邦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33485386",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "中国养猪场用空调是怎么回事",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%BB%E7%8C%AA%E5%9C%BA%E7%94%A8%E7%A9%BA%E8%B0%83%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "中国—中亚经贸合作高官会在新疆乌鲁木齐召开",
-          "url": "https://flash.jin10.com/detail/20260630153720730800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
-          "url": "https://wallstreetcn.com/articles/3775788",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "马耳他亲吻象塌了 中国男子被砸身亡",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E8%80%B3%E4%BB%96%E4%BA%B2%E5%90%BB%E8%B1%A1%E5%A1%8C%E4%BA%86+%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E8%A2%AB%E7%A0%B8%E8%BA%AB%E4%BA%A1",
+          "title": "脑瘫少年中考674分：想做中国霍金",
+          "url": "https://www.baidu.com/s?wd=%E8%84%91%E7%98%AB%E5%B0%91%E5%B9%B4%E4%B8%AD%E8%80%83674%E5%88%86%EF%BC%9A%E6%83%B3%E5%81%9A%E4%B8%AD%E5%9B%BD%E9%9C%8D%E9%87%91",
           "source": "百度热搜",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "中国大批战舰穿越岛链释放何种信号",
-          "url": "https://www.toutiao.com/trending/7657045616157822505/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "中国共产党党员总数达10128.6万名",
-          "url": "https://www.douyin.com/hot/2552642",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "中国共产党党员总数为10128.6万名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33482675",
+          "title": "直播丨庆祝中国共产党成立105周年大会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33478561",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "外交部：中国—中东欧国家合作机制日臻成熟 合作日益深化",
-          "url": "https://flash.jin10.com/detail/20260630152528361800",
-          "source": "金十数据",
+          "title": "钧正平：中国家门口不容外人撒野",
+          "url": "https://www.toutiao.com/trending/7656645838256685119/",
+          "source": "今日头条",
           "ranks": [
-            16
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "中国共产党党员总数达10128.6万名",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%91%98%E6%80%BB%E6%95%B0%E8%BE%BE10128.6%E4%B8%87%E5%90%8D",
-          "source": "百度热搜",
+          "title": "中国大学排名飙升是实力还是“捧杀”",
+          "url": "https://www.toutiao.com/trending/7656600925607854126/",
+          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "中国贸促会：全国贸促系统原产地证书签证金额持续较大幅度增长",
-          "url": "https://wallstreetcn.com/livenews/3126540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "土耳其总统要摧毁以色列？内塔尼亚胡：将向美国告状",
-          "url": "https://news.ifeng.com/c/8uN3fdPkiPZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "以媒：美国施压以色列避免重启加沙战事并启动重建",
-          "url": "https://flash.jin10.com/detail/20260630153840276800",
+          "title": "外交部：中国将坚定不移推进高水平对外开放",
+          "url": "https://flash.jin10.com/detail/20260701154131786800",
           "source": "金十数据",
           "ranks": [
-            3
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "5:4！美国高院“独保”美联储，最大赢家是沃什",
-          "url": "https://wallstreetcn.com/articles/3775790",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "番位新规 马伯骞本名叫美国",
-          "url": "https://s.weibo.com/weibo?q=%E7%95%AA%E4%BD%8D%E6%96%B0%E8%A7%84%20%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%9C%AC%E5%90%8D%E5%8F%AB%E7%BE%8E%E5%9B%BD&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "王楚钦孙颖莎美国大满贯开门红",
-          "url": "https://www.douyin.com/hot/2552443",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "河野华随机采访美国二次元",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E9%87%8E%E5%8D%8E%E9%9A%8F%E6%9C%BA%E9%87%87%E8%AE%BF%E7%BE%8E%E5%9B%BD%E4%BA%8C%E6%AC%A1%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "王艺迪晋级WTT美国大满贯32强",
-          "url": "https://www.toutiao.com/trending/7656406845767270463/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
-          "url": "https://www.cls.cn/detail/2412167",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "欧洲央行管委Sleijpen：油价下跌，但充满不确定性。 能源价格回落将对价格产生影响。 将在7月利率决议时获得新数据。 仍需观察价格方面的后续变化。 市场理解欧洲央行的反应机制。 欧洲结构性增长数据仍然相当低。 欧洲央行不想让市场感到意外。 人工智能在短期内具有通胀效应。",
-          "url": "https://wallstreetcn.com/livenews/3126558",
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://wallstreetcn.com/livenews/3127257",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时06分"
         },
         {
-          "title": "AI全息电视 梦回千禧年",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%A8%E6%81%AF%E7%94%B5%E8%A7%86%20%E6%A2%A6%E5%9B%9E%E5%8D%83%E7%A6%A7%E5%B9%B4",
-          "source": "bilibili 热搜",
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://flash.jin10.com/detail/20260701154708866800",
+          "source": "金十数据",
           "ranks": [
-            23
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
+          "time_info": "16时06分"
+        },
         {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
-          "url": "https://www.cls.cn/detail/2412193",
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
+          "url": "https://wallstreetcn.com/livenews/3127224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中方敦促美国：快点交钱",
+          "url": "https://news.ifeng.com/c/8uOlmTced5k",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "中方回应美国解除对伊单边制裁",
+          "url": "https://news.ifeng.com/c/8uPFngdR3ec",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
+          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "美国5月JOLTS职位空缺小幅回升至759万人，高于预期，劳动力需求保持稳定",
+          "url": "https://wallstreetcn.com/articles/3775872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "蒯曼晋级WTT美国大满贯女单16强",
+          "url": "https://www.toutiao.com/trending/7656563453590700086/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "美国官员：美将在黎以驻军监督停火",
+          "url": "https://flash.jin10.com/detail/20260701154254730800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         }
       ]
     }
