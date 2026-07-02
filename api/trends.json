@@ -1,314 +1,303 @@
 {
-  "generated_at": "2026-07-01T16:06:07.608834+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T15:25:21.384191+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 17,
+      "keyword_group": "AI 人工智能",
+      "match_count": 14,
       "titles": [
         {
-          "title": "中国队离世界杯还有多远",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A6%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "加拿大想搞小动作，中国先出手警告",
-          "url": "https://news.ifeng.com/c/8uPAsIs7m2a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "澎湃读报丨央媒头版集中刊发社论社评：热烈庆祝中国共产党成立105周年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33490978",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任",
-          "url": "https://wallstreetcn.com/livenews/3127256",
-          "source": "华尔街见闻-快讯",
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "Claude偷偷给中国用户打水印",
-          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "今天的长安街满眼中国红",
-          "url": "https://www.toutiao.com/trending/7656956438488858660/",
-          "source": "今日头条",
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "法国佬长见识盛赞中国高铁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355789&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%BD%AC%E9%95%BF%E8%A7%81%E8%AF%86%E7%9B%9B%E8%B5%9E%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81",
-          "source": "贴吧",
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "中国共产党105年创造发展奇迹",
-          "url": "https://www.douyin.com/hot/2554391",
-          "source": "抖音",
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "中国文物占1/3，法国一博物馆馆长：若证实系掠夺24小时内归还",
-          "url": "https://news.ifeng.com/c/8uP7zwfmMVQ",
-          "source": "凤凰网",
+          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
+          "url": "https://www.cls.cn/detail/2414781",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "庆祝中国共产党成立105周年｜风雨兼程，实干兴邦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33485386",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "中国养猪场用空调是怎么回事",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%BB%E7%8C%AA%E5%9C%BA%E7%94%A8%E7%A9%BA%E8%B0%83%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B",
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "脑瘫少年中考674分：想做中国霍金",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E7%98%AB%E5%B0%91%E5%B9%B4%E4%B8%AD%E8%80%83674%E5%88%86%EF%BC%9A%E6%83%B3%E5%81%9A%E4%B8%AD%E5%9B%BD%E9%9C%8D%E9%87%91",
-          "source": "百度热搜",
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "直播丨庆祝中国共产党成立105周年大会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33478561",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "钧正平：中国家门口不容外人撒野",
-          "url": "https://www.toutiao.com/trending/7656645838256685119/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "中国大学排名飙升是实力还是“捧杀”",
-          "url": "https://www.toutiao.com/trending/7656600925607854126/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "外交部：中国将坚定不移推进高水平对外开放",
-          "url": "https://flash.jin10.com/detail/20260701154131786800",
+          "title": "欧股盘初，芯片股下跌，ASML、ASMI、BESI、英飞凌、AIXTRON跌幅为2%-4%。",
+          "url": "https://flash.jin10.com/detail/20260702150718081800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "阿里整合QoderWork、悟空、MuleRun，将推出新的生产力AI产品",
+          "url": "https://wallstreetcn.com/livenews/3127864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "A股AI应用端再度拉升，福石控股回封涨停，昆仑万维涨超12%，中文在线、掌阅科技、中原传媒等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3127850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
-      "keyword_group": "AI 人工智能",
-      "match_count": 10,
+      "keyword_group": "中国",
+      "match_count": 12,
       "titles": [
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
+          "title": "中国经济驰而不息的底气所在",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%A9%B0%E8%80%8C%E4%B8%8D%E6%81%AF%E7%9A%84%E5%BA%95%E6%B0%94%E6%89%80%E5%9C%A8",
+          "source": "百度热搜",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://wallstreetcn.com/livenews/3127257",
-          "source": "华尔街见闻-快讯",
+          "title": "施压巴拿马撕毁合同又抹黑中国，到底谁在觊觎运河？",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://flash.jin10.com/detail/20260701154708866800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
+          "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
+          "url": "https://www.cls.cn/detail/2414865",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
+          "title": "毛宁向世界分享中国房屋喷雾冷却系统",
+          "url": "https://www.toutiao.com/trending/7657725866726113330/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
-          "source": "知乎",
+          "title": "日本市民大排长龙买中国相机",
+          "url": "https://www.toutiao.com/trending/7657553376851296302/",
+          "source": "今日头条",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "AI裁员 硅谷叶文洁出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "中国空调卖爆,欧盟反手就ban",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355806&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%2C%E6%AC%A7%E7%9B%9F%E5%8F%8D%E6%89%8B%E5%B0%B1ban",
+          "source": "贴吧",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
-          "url": "https://wallstreetcn.com/livenews/3127224",
-          "source": "华尔街见闻-快讯",
+          "title": "6月中国平均气温较常年同期偏高0.3℃",
+          "url": "https://www.toutiao.com/trending/7656951596647628836/",
+          "source": "今日头条",
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "毛宁向世界分享中国房屋喷雾冷却系统",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%90%91%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%B1%8B%E5%96%B7%E9%9B%BE%E5%86%B7%E5%8D%B4%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "高盛：中国居民财富将向金融资产转移",
+          "url": "https://www.toutiao.com/trending/7657524175397519410/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "国家发改委价格监测中心副主任刘刚带队赴中国钢铁工业协会开展工作调研",
+          "url": "https://wallstreetcn.com/livenews/3127870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中国上证综指7月2日（周四）收盘下跌83.54点，跌幅：2.03%，报4028.9点；<br/>中国深证成指7月2日（周四）收盘下跌620.36点，跌幅：3.85%，报15498.81点；<br/>中国沪深300指数7月2日（周四）收盘下跌146.68点，跌幅：2.96%，报4812.3点；<br/>中国创业板指数7月2日（周四）收盘下跌243.45点，跌幅：5.71%，报4017.27点；<br/>中国科创50指数7月2日（周四）收盘下跌165.75点，跌幅：7.7%，报1987.29点。",
+          "url": "https://flash.jin10.com/detail/20260702150231680800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -317,87 +306,98 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "中方敦促美国：快点交钱",
-          "url": "https://news.ifeng.com/c/8uOlmTced5k",
-          "source": "凤凰网",
+          "title": "10人美国淘汰波黑",
+          "url": "https://search.bilibili.com/all?keyword=10%E4%BA%BA%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "中方回应美国解除对伊单边制裁",
-          "url": "https://news.ifeng.com/c/8uPFngdR3ec",
-          "source": "凤凰网",
+          "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
+          "url": "https://wallstreetcn.com/articles/3775979",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "以色列逮捕一名美国公民：涉嫌从事间谍活动",
-          "url": "https://news.ifeng.com/c/8uOc5SgmL8Y",
-          "source": "凤凰网",
+          "title": "美国前锋破门后致敬詹姆斯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E7%A0%B4%E9%97%A8%E5%90%8E%E8%87%B4%E6%95%AC%E8%A9%B9%E5%A7%86%E6%96%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "美国5月JOLTS职位空缺小幅回升至759万人，高于预期，劳动力需求保持稳定",
-          "url": "https://wallstreetcn.com/articles/3775872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "蒯曼晋级WTT美国大满贯女单16强",
-          "url": "https://www.toutiao.com/trending/7656563453590700086/",
+          "title": "WTT美国大满贯男单16强出炉",
+          "url": "https://www.toutiao.com/trending/7657029342459019270/",
           "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "美国官员：美将在黎以驻军监督停火",
-          "url": "https://flash.jin10.com/detail/20260701154254730800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "美国2:0波黑晋级16强",
+          "url": "https://www.douyin.com/hot/2554949",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "美国淘汰波黑,东道主胜利会师",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
+          "url": "https://wallstreetcn.com/livenews/3127868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
