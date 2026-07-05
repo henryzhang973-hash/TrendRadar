@@ -1,337 +1,436 @@
 {
-  "generated_at": "2026-07-04T14:42:08.484532+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-05T15:19:36.907498+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
+      "keyword_group": "特朗普",
       "match_count": 14,
       "titles": [
         {
-          "title": "“十五五”时期美丽中国这样建设",
-          "url": "https://www.toutiao.com/trending/7658224040206106675/",
-          "source": "今日头条",
+          "title": "普京与特朗普通话85分钟，细节公布",
+          "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
+          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国平安继续增持农业银行H股，所持股份占该行H股总数突破26%",
-          "url": "https://wallstreetcn.com/livenews/3128903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
         },
         {
-          "title": "中国空调凭啥在欧洲这么夯",
-          "url": "https://www.douyin.com/hot/2557077",
-          "source": "抖音",
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
-          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%90%83%E8%BF%B7%E7%94%B5%E6%A2%AF%E5%81%B6%E9%81%87C%E7%BD%97%E8%8E%B73%E6%AC%A1%E6%8B%A5%E6%8A%B1",
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
+          "url": "https://flash.jin10.com/detail/20260705124923131800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3128954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "url": "https://wallstreetcn.com/livenews/3128952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3128951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://www.toutiao.com/trending/7657794287316664371/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "美国总统特朗普：绝不会让美国走向衰败。",
+          "url": "https://flash.jin10.com/detail/20260705113219080800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F",
           "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国人造太阳有重大进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%80%A0%E5%A4%AA%E9%98%B3%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "军装能威胁国家安全？英国政客：军服外包给中国是“愚蠢之举”",
+          "url": "https://news.ifeng.com/c/8uVegMTBwK0",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "中国地震台网自动测定：07月05日14时00分在四川德阳市绵竹市附近发生3.2级左右地震，最终结果以正式速报为准。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260705140345824800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "6月份中国大宗商品价格指数小幅回落",
+          "url": "https://wallstreetcn.com/livenews/3128960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "2025 年诺奖得主奥马尔·亚吉全职加盟清华，将对中国科研带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2056465885087405217",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "6月份中国物流业景气指数升至50.6% 各区域均衡增长",
+          "url": "https://wallstreetcn.com/livenews/3128958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "佛得角再谢中国,友谊长存",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355899&amp;topic_name=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E8%B0%A2%E4%B8%AD%E5%9B%BD%2C%E5%8F%8B%E8%B0%8A%E9%95%BF%E5%AD%98",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "中国男篮世预赛 19 分主场惨败日本，为什么国家队豪华内线被霍金森一人完爆？",
+          "url": "https://www.zhihu.com/question/2056630369068267409",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "如何看待中国 80 后集体扎堆染黄毛？他们在「叛逆」什么？",
           "url": "https://www.zhihu.com/question/2055282982999385425",
           "source": "知乎",
           "ranks": [
-            8
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
-          "title": "中国男篮末战中国台北赢球才有生机",
-          "url": "https://www.toutiao.com/trending/7657548996755472390/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国船员在被韩海警扣押期间死亡",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E5%9C%A8%E8%A2%AB%E9%9F%A9%E6%B5%B7%E8%AD%A6%E6%89%A3%E6%8A%BC%E6%9C%9F%E9%97%B4%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国男篮73比92不敌日本男篮，世预赛出线存变数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511637",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "欧洲打算限制中国的空调",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%89%93%E7%AE%97%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A9%BA%E8%B0%83%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国男篮世预赛主场惨败日本",
-          "url": "https://www.toutiao.com/trending/7657861832220229651/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国男篮73:92不敌日本男篮",
-          "url": "https://www.douyin.com/hot/2556627",
-          "source": "抖音",
+          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3128942",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国女球迷电梯偶遇C罗获3次拥抱",
-          "url": "https://www.toutiao.com/trending/7657895882733506067/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "欧洲热到爆,空调全靠中国造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "中国海警位中国台湾岛以东海域开展常态化执法巡查",
-          "url": "https://flash.jin10.com/detail/20260704100454905800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
-          "url": "https://www.zhihu.com/question/2056372314535453404",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "time_info": "15时19分"
         },
         {
-          "title": "热浪搅乱独立日，美国多地取消相关庆祝活动",
-          "url": "https://news.ifeng.com/c/8uTptd6bGr6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056730447258677382",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "如何评价「耿同学」称卢雄斌、何晓明在美国已被认定为学术造假，先后回国入职浙大与清华？",
-          "url": "https://www.zhihu.com/question/2056689569861300625",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
-          "url": "https://wallstreetcn.com/livenews/3128899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "市场消息：因极端高温，在华盛顿特区举行的美国独立日游行取消。",
-          "url": "https://flash.jin10.com/detail/20260704102609141800",
+          "title": "根据年度军事合作计划，中国和俄罗斯两国军队将在中国青岛及附近海空域举行“海上联合-2026”联合演习。俄方参演舰艇编队5日抵达青岛某军港，双方参演兵力集结完毕。",
+          "url": "https://flash.jin10.com/detail/20260705112009554800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
         },
         {
-          "title": "华盛顿特区美国独立日游行因极端高温天气而取消。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3128876",
-          "source": "华尔街见闻-快讯",
+          "title": "中国海军舰艇编队抵达越南进行访问",
+          "url": "https://flash.jin10.com/detail/20260705105409636800",
+          "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "中国空调在欧洲卖疯说明什么",
+          "url": "https://www.toutiao.com/trending/7658881404628913718/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://wallstreetcn.com/livenews/3128902",
-          "source": "华尔街见闻-快讯",
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
+      "keyword_group": "美国",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
-          "url": "https://flash.jin10.com/detail/20260704124044168800",
-          "source": "金十数据",
+          "title": "国乒包揽WTT美国大满贯男女双冠军",
+          "url": "https://www.toutiao.com/trending/7658922081005866559/",
+          "source": "今日头条",
           "ranks": [
-            8
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
         },
         {
-          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
-          "url": "https://flash.jin10.com/detail/20260704113342386800",
-          "source": "金十数据",
+          "title": "美国飞行员在印尼遭枪杀，遗体被找到画面曝光",
+          "url": "https://news.ifeng.com/c/8uVozFIQD2y",
+          "source": "凤凰网",
           "ranks": [
-            13
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
         },
         {
-          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
-          "url": "https://wallstreetcn.com/livenews/3128882",
+          "title": "美国国防部启动碳酸锂战略收储，五年拟采购1.62万吨补充国防储备",
+          "url": "https://wallstreetcn.com/livenews/3128956",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "王曼昱蒯曼美国大满贯女双夺冠",
+          "url": "https://www.douyin.com/hot/2558794",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
