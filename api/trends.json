@@ -1,220 +1,430 @@
 {
-  "generated_at": "2026-07-06T16:14:43.587003+08:00",
+  "generated_at": "2026-07-07T15:32:58.024003+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 19,
+      "match_count": 15,
       "titles": [
         {
-          "title": "中国海军成功组织潜射战略导弹试射",
-          "url": "https://www.toutiao.com/trending/7659275962617433619/",
-          "source": "今日头条",
+          "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526577",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "中国海军战略核潜艇向太平洋试射导弹",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%88%98%E7%95%A5%E6%A0%B8%E6%BD%9C%E8%89%87%E5%90%91%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9",
+          "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
+          "url": "https://news.ifeng.com/c/8uYpqgZCOL7",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "中国男篮92比74中国台北，晋级世预赛第二阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33525727",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "北约秘书长妄称“不能对中国天真，已与日本讨论”",
+          "url": "https://news.ifeng.com/c/8uYsvnO52z9",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "日澳等消极回应中国试射导弹 俄表态",
+          "url": "https://www.toutiao.com/trending/7659337597218717737/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "日、新、澳等国对中国潜射导弹试验反应消极，俄方回应",
+          "url": "https://news.ifeng.com/c/8uYlK0w4Uzo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "中国核潜艇试射战略导弹，专家：或为“巨浪-3”",
+          "url": "https://news.ifeng.com/c/8uYoiNi4D7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "LV胜诉暴露了中国文化确权时差",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%A1%AE%E6%9D%83%E6%97%B6%E5%B7%AE%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "专访中国水科院专家：主汛期防汛进入多线作战攻坚期，“麻痹侥幸”甚于“洪水猛兽”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526293",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股四大行盘中逆势拉升，中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3129793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "中国上证综指7月7日（周二）收盘下跌51.0点，跌幅：1.26%，报3990.24点；<br/>中国深证成指7月7日（周二）收盘下跌191.69点，跌幅：1.24%，报15225.11点；<br/>中国沪深300指数7月7日（周二）收盘下跌49.74点，跌幅：1.03%，报4792.26点；<br/>中国创业板指数7月7日（周二）收盘下跌36.95点，跌幅：0.94%，报3911.91点；<br/>中国科创50指数7月7日（周二）收盘上涨5.49点，涨幅：0.28%，报2001.59点。",
+          "url": "https://flash.jin10.com/detail/20260707150251999800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "金十图示：2026年07月07日（周二）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块集体收涨，保险、证券、白酒板块下跌",
+          "url": "https://flash.jin10.com/detail/20260707150248471800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "世界银行：中国经济增长保持韧性",
+          "url": "https://wallstreetcn.com/livenews/3129784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "LV被指垄断中国古纹样",
+          "url": "https://www.baidu.com/s?wd=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低2.3%报45,479.11点。",
+          "url": "https://wallstreetcn.com/livenews/3129778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "中国在境内培训俄军士兵？中方：纯属污蔑抹黑",
-          "url": "https://news.ifeng.com/c/8uXXl1QYTZF",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "中国男篮力克中国台北",
-          "url": "https://www.douyin.com/hot/2560291",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "美丽中国建设十五五规划释放利好",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E9%87%8A%E6%94%BE%E5%88%A9%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "title": "比利时官方嘲讽美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "中国男篮力克中国台北",
-          "url": "https://www.toutiao.com/trending/7658607770665451574/",
+          "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057413355376227594",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://www.toutiao.com/trending/7658891295284281382/",
           "source": "今日头条",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "港股收盘，恒指收涨1.14%，科指收涨0.94%。创新药概念走强，科网股回暖，中国生物制药(01177.HK)涨6.5%，快手(01024.HK)涨近8%，腾讯控股(00700.HK)涨4.8%。",
-          "url": "https://flash.jin10.com/detail/20260706160917780800",
-          "source": "金十数据",
+          "title": "盘外招无用!比利时大胜美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
           "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2057451748705448806",
-          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "中国海军成功组织潜射战略导弹试射",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33525042",
-          "source": "澎湃新闻",
+          "title": "美国门将超级巨大失误",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%B0%86%E8%B6%85%E7%BA%A7%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+          "source": "百度热搜",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "外交部回应中国防暑降温产品受到欧洲民众追捧",
-          "url": "https://wallstreetcn.com/livenews/3129233",
-          "source": "华尔街见闻-快讯",
+          "title": "美国门将超级巨大失误",
+          "url": "https://www.toutiao.com/trending/7659590855321976874/",
+          "source": "今日头条",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "中国男篮vs中国台北男篮",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "比利时4-1美国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B64-1%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "外交部：中国海军组织潜射战略导弹试射 不针对任何特定国家和目标",
-          "url": "https://wallstreetcn.com/livenews/3129229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "外交部回应中国海军试射战略导弹",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%AF%95%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
+          "title": "比利时4-1大胜美国",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B64-1%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "陪看男篮世预赛：中国vs中国台北",
-          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BDvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97",
-          "source": "百度热搜",
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "视频丨佛得角队世界杯载誉而归，门将感谢中国球迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524042",
+          "title": "美国1:4比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "新中国“0001号”高级技师刘海珊逝世",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%9B%BD%E2%80%9C0001%E5%8F%B7%E2%80%9D%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B8%88%E5%88%98%E6%B5%B7%E7%8F%8A%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
+          "title": "全世界都在笑话美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
         {
-          "title": "外交部回应中国空调欧洲爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E6%AC%A7%E6%B4%B2%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
+          "url": "https://news.ifeng.com/c/8uZ9ehIphCl",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
+          "url": "https://www.zhihu.com/question/2057732608214004902",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
+          "url": "https://www.zhihu.com/question/2057769216468415013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
@@ -223,181 +433,70 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
-          "url": "https://www.cls.cn/detail/2417526",
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "首届全球人工智能治理对话在日内瓦举行，将聚焦四大优先事项",
-          "url": "https://wallstreetcn.com/livenews/3129238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
-          "url": "https://wallstreetcn.com/livenews/3129218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "韩国电信巨头KT计划在AI方面投资18万亿韩元",
-          "url": "https://flash.jin10.com/detail/20260706155213502800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "川普施压FIFA,美国红牌不禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E6%96%BD%E5%8E%8BFIFA%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "美国人：现在才知道我们是个坏国家",
-          "url": "https://www.toutiao.com/trending/7659278040756944947/",
-          "source": "今日头条",
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "连美国队都以为球员红牌特赦是假新闻",
-          "url": "https://www.toutiao.com/trending/7659244753493724682/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "外交部发言人就美国独立250周年答记者问",
-          "url": "https://wallstreetcn.com/livenews/3129236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "孙颖莎美国大满贯夺冠",
-          "url": "https://www.toutiao.com/trending/7659249621968916004/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "2026 年 WTT 美国大满贯赛男单决赛，松岛辉空 4：2 力克希德仁科夺冠，怎么评价 19 岁松岛辉空的崛起？",
-          "url": "https://www.zhihu.com/question/2057439674877081351",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
         },
         {
-          "title": "英格兰主帅希望特朗普帮忙取消红牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%BB%E5%B8%85%E5%B8%8C%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%AE%E5%BF%99%E5%8F%96%E6%B6%88%E7%BA%A2%E7%89%8C%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
           "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "15时32分"
+        },
+        {
+          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
+          "url": "https://wallstreetcn.com/livenews/3129789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     }
