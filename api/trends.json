@@ -1,469 +1,199 @@
 {
-  "generated_at": "2026-07-09T15:42:26.371572+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-10T15:30:07.131637+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
+      "keyword_group": "中国",
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
+          "title": "中国试射潜射战略导弹，日本防相倒打一耙",
+          "url": "https://news.ifeng.com/c/8ue45EHXf7M",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
+          "title": "中国上证综指7月10日（周五）收盘下跌40.43点，跌幅：1%，报3996.16点；<br/>中国深证成指7月10日（周五）收盘下跌352.06点，跌幅：2.29%，报15046.67点；<br/>中国沪深300指数7月10日（周五）收盘下跌95.53点，跌幅：1.96%，报4780.79点；<br/>中国创业板指数7月10日（周五）收盘下跌175.44点，跌幅：4.37%，报3842.73点；<br/>中国科创50指数7月10日（周五）收盘下跌120.85点，跌幅：5.53%，报2064.98点。",
+          "url": "https://flash.jin10.com/detail/20260710150233516800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备板块集体回调，中际旭创、北方华创跌超8%，银行、白酒、工业金属等板块多数上涨",
+          "url": "https://flash.jin10.com/detail/20260710150227623800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "15时30分"
         },
         {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
+          "title": "外交部：所谓“南海仲裁案” 中国不接受、不承认",
+          "url": "https://wallstreetcn.com/livenews/3131833",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "15时30分"
         },
         {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
+          "title": "日本遗孤吃中国饭长大为何“当鬼”",
+          "url": "https://www.toutiao.com/trending/7660701529334205998/",
+          "source": "今日头条",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "特朗普点名批评章家敦，释放一个明确信号",
-          "url": "https://news.ifeng.com/c/8ubwZV9LhlF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
-          "url": "https://wallstreetcn.com/articles/3776465",
-          "source": "华尔街见闻",
+          "title": "外交部：所谓“中国挤压”全球南方国家的工业化发展空间不符合事实",
+          "url": "https://wallstreetcn.com/livenews/3131828",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "15时30分"
         },
         {
-          "title": "特朗普：我在伊朗的刺杀名单排第一位",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普怼完西班牙又改口，桑切斯淡定回应",
-          "url": "https://wallstreetcn.com/livenews/3131143",
+          "title": "富时中国A50指数期货跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3131797",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/2058242652987045100",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "15时30分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
         {
-          "title": "高盛重磅发声：做多中国AI价值链",
-          "url": "https://www.cls.cn/detail/2421215",
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
           "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
-          "source": "财联社热门",
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
-          "url": "https://wallstreetcn.com/articles/3776526",
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "外交部：愿以2026世界人工智能大会为契机，推动人工智能普惠向善",
-          "url": "https://flash.jin10.com/detail/20260709152936797800",
-          "source": "金十数据",
+          "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
+          "url": "https://www.zhihu.com/question/2058240544073937856",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
-          "source": "财联社热门",
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         }
       ]
     },
     {
-      "keyword_group": "中国",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "titles": [
         {
-          "title": "外媒称中国空军全球第二，国防部回应",
-          "url": "https://news.ifeng.com/c/8ucVKQll9Lm",
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "国防部回应外媒称中国空军全球第二",
-          "url": "https://wallstreetcn.com/livenews/3131162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "科幻悬疑惊悚片《恐怖游轮》定档 7 月 17 日，为中国首次内地公映，无删减修改，对此你有何期待？",
-          "url": "https://www.zhihu.com/question/2058129778624786692",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "法拉利高管称中国车企像开发快消品，驾驶情感仍是明显短板，怎样看待他的言论？",
-          "url": "https://www.zhihu.com/question/2058204174265979113",
-          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "北约峰会关切中国军事活动，外交部：北约应端正对华认知",
-          "url": "https://flash.jin10.com/detail/20260709153102086800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "中国有哪些行业打破了西方的技术封锁？",
-          "url": "https://www.zhihu.com/question/52916148",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "中国移动北京公司原董事、副总经理郭旗接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3131139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "味真足!中国麻辣烫拿捏日本胃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356008&amp;topic_name=%E5%91%B3%E7%9C%9F%E8%B6%B3%21%E4%B8%AD%E5%9B%BD%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%8B%BF%E6%8D%8F%E6%97%A5%E6%9C%AC%E8%83%83",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "德国总理默茨：与美国就采购和部署战斧导弹达成一致。",
-          "url": "https://flash.jin10.com/detail/20260709153258745800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "中方发射潜射战略导弹，美国又抱怨上了：提前数小时才通知我",
-          "url": "https://news.ifeng.com/c/8ucDrgitRYj",
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "美国、加拿大、西班牙同时收网，围剿印度黑帮",
-          "url": "https://news.ifeng.com/c/8uc7ezBQ3LO",
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "投资100亿美元！Meta拟建其美国以外最大数据中心 “算力过剩”又被证伪了？",
-          "url": "https://www.cls.cn/detail/2421144",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "新华社评阿根廷与埃及比赛判罚争议：与美国球员红牌“缓刑”有本质区别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541876",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国拟列西班牙商品禁运清单",
-          "url": "https://wallstreetcn.com/livenews/3131147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国驻黎巴嫩大使：罗马谈判是对华盛顿协议的延续。",
-          "url": "https://flash.jin10.com/detail/20260709152814509800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国驻黎巴嫩大使：黎以谈判转移至罗马系出于技术原因。",
-          "url": "https://flash.jin10.com/detail/20260709152751421800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         }
       ]
     }
