@@ -1,425 +1,326 @@
 {
-  "generated_at": "2026-07-11T14:08:38.524406+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-12T14:28:25.506125+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 15,
+      "keyword_group": "美国",
+      "match_count": 9,
       "titles": [
         {
-          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
-          "url": "https://www.cls.cn/detail/2423220",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
-          "url": "https://www.zhihu.com/question/2059024185498808451",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "一组数据看中国经济蓬勃发展",
-          "url": "https://www.toutiao.com/trending/7660329513477439531/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国人民银行举办专题讲座",
-          "url": "https://wallstreetcn.com/livenews/3132309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国救援的底气",
-          "url": "https://www.douyin.com/hot/2566781",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国人民银行举办专题讲座",
-          "url": "https://flash.jin10.com/detail/20260711125838760800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "“法国客户需求紧急”，中国工厂开足马力",
-          "url": "https://news.ifeng.com/c/8ufJxqFg3TY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国开启可回收火箭时代，全球首创的“网系回收”有何玄机？",
-          "url": "https://wallstreetcn.com/articles/3776646",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "“人民英雄”陈薇任中国工程院副院长",
-          "url": "https://www.toutiao.com/trending/7661085054773755914/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "探访中国首艘火箭回收船",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%98%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E8%88%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "《2026年中国航海日公告》发布 全国海洋生产总值超11万亿元",
-          "url": "https://flash.jin10.com/detail/20260711113442318800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "UP主实拍中国首枚火箭回收",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "2位高校党委书记任中国工程院副院长",
-          "url": "https://www.toutiao.com/trending/7661084366626635827/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国新能源重卡刷新出海纪录",
-          "url": "https://wallstreetcn.com/livenews/3132283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "中国无人机“违例”操作 全网破防",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E2%80%9C%E8%BF%9D%E4%BE%8B%E2%80%9D%E6%93%8D%E4%BD%9C+%E5%85%A8%E7%BD%91%E7%A0%B4%E9%98%B2",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://flash.jin10.com/detail/20260711134334234800",
+          "title": "欧洲地中海地震中心：在美国南阿拉斯加发生了4.1级地震；震源深度110.5公里。",
+          "url": "https://flash.jin10.com/detail/20260712140522482800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://news.ifeng.com/c/8uh9QTGdynH",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
+          "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
+          "url": "https://wallstreetcn.com/articles/3776712",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "title": "美国非常震动！中国追上来的脚步咚咚作响",
+          "url": "https://news.ifeng.com/c/8ugUwLXm5GM",
           "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/livenews/3132301",
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://wallstreetcn.com/livenews/3132379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
-          "url": "https://flash.jin10.com/detail/20260711120611427800",
-          "source": "金十数据",
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "美国总统特朗普：我为美国争取到了一份“好得多”的协议，也因此，那座横跨底特律和加拿大安大略省温莎市的全新壮观的“戈迪·豪国际大桥”将按原计划于7月27日开通。",
-          "url": "https://flash.jin10.com/detail/20260711120605603800",
+          "title": "伊朗革命卫队：瞄准了卡塔尔的乌代德空军基地，摧毁了战斗机维修中心和指挥控制中心。并且在报复行动中瞄准了位于科威特的美国军方雷达站。",
+          "url": "https://flash.jin10.com/detail/20260712115121223800",
           "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "伊朗军方：我们警告，美国的行动及其对地区安全的破坏后果将由美国与以色列承担。",
+          "url": "https://flash.jin10.com/detail/20260712114826607800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "这就是节节攀升的中国发展成绩单",
+          "url": "https://www.toutiao.com/trending/7661465126898466867/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "怕中国反制，欧盟开始留“后手”",
+          "url": "https://news.ifeng.com/c/8uh0WghOyLP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "不是稀土，却胜似稀土：中国为何开始管控氦气出口？一场半导体供应链保卫战正在展开",
+          "url": "https://wallstreetcn.com/premium/articles/3776711?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "【早报】中国石化完成对中国航油重组",
+          "url": "https://www.cls.cn/detail/2423679",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "中国空间站烤蛋糕馋哭老外",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356102&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%83%A4%E8%9B%8B%E7%B3%95%E9%A6%8B%E5%93%AD%E8%80%81%E5%A4%96",
+          "source": "贴吧",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
-          "url": "https://flash.jin10.com/detail/20260711120244661800",
-          "source": "金十数据",
+          "title": "气场鉴国籍,老日秒辨中国人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356096&amp;topic_name=%E6%B0%94%E5%9C%BA%E9%89%B4%E5%9B%BD%E7%B1%8D%2C%E8%80%81%E6%97%A5%E7%A7%92%E8%BE%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "特朗普再次发出警告：若伊朗企图暗杀我 数千枚导弹将向伊朗发射",
-          "url": "https://flash.jin10.com/detail/20260711112133723800",
-          "source": "金十数据",
+          "title": "中国石化完成对中国航油重组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566875",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "深度解析中国第一枚回收火箭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "外国网友开始讨论“去中国避暑”",
+          "url": "https://www.toutiao.com/trending/7660723593383067657/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "《功夫女足》上映 AI预测总票房超10亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
     {
-      "keyword_group": "美国",
+      "keyword_group": "特朗普",
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗外长谴责美国财长违反谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3132302",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "伊朗称美国违反谅解备忘录后果自负",
-          "url": "https://wallstreetcn.com/livenews/3132300",
-          "source": "华尔街见闻-快讯",
+          "title": "曝光特朗普临时换专机，美媒吃传票了",
+          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "source": "凤凰网",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         },
         {
-          "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
-          "url": "https://flash.jin10.com/detail/20260711101517977800",
+          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
+          "url": "https://flash.jin10.com/detail/20260712120342300800",
           "source": "金十数据",
           "ranks": [
-            28
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "14时28分"
         }
       ]
     }
