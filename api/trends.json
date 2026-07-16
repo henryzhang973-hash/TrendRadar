@@ -1,436 +1,480 @@
 {
-  "generated_at": "2026-07-15T14:09:50.784206+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-16T14:12:26.147259+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "中国",
+      "match_count": 13,
       "titles": [
         {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
+          "title": "这4个关键字概括上半年中国经济",
+          "url": "https://www.toutiao.com/trending/7662941452045127219/",
+          "source": "今日头条",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "中国一汽入驻阿里云百炼，为首个商业化车企大模型",
+          "url": "https://wallstreetcn.com/livenews/3134830",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "title": "美情报总监提名人：仍要与中国广泛合作",
+          "url": "https://news.ifeng.com/c/8unaWOfIY37",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
-          "source": "财联社热门",
+          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
+          "url": "https://www.zhihu.com/question/2052009717355090086",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
-          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
-          "source": "凤凰网",
+          "title": "读中国当代作家作品时，你最常遇到的困惑是什么？",
+          "url": "https://www.zhihu.com/question/2060694315228206505",
+          "source": "知乎",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
+          "title": "张小斐成中国首位票房破百亿85花",
+          "url": "https://www.toutiao.com/trending/7662517559984177193/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "中国“预制变电站”，全球爆单",
+          "url": "https://www.cls.cn/detail/2427865",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
+          "title": "中国一汽入驻阿里云百炼，为首个商业化车企大模型",
+          "url": "https://flash.jin10.com/detail/20260716133824629800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
+          "title": "俄科学家：中国现在是世界第一",
+          "url": "https://www.toutiao.com/trending/7662724523556339731/",
+          "source": "今日头条",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
-          "url": "https://wallstreetcn.com/livenews/3134087",
-          "source": "华尔街见闻-快讯",
+          "title": "日系车拥抱中国技术",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E7%B3%BB%E8%BD%A6%E6%8B%A5%E6%8A%B1%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
           "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 10,
-      "titles": [
+          "time_info": "14时12分"
+        },
         {
           "title": "初见定终身,老外求婚中国球迷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356184&amp;topic_name=%E5%88%9D%E8%A7%81%E5%AE%9A%E7%BB%88%E8%BA%AB%2C%E8%80%81%E5%A4%96%E6%B1%82%E5%A9%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
           "source": "贴吧",
           "ranks": [
-            2
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "【图解中国经济半年报】GDP同比增长4.7% 规模以上工业增加值同比增长5.4%",
-          "url": "https://www.cls.cn/detail/2426802",
-          "source": "财联社热门",
+          "title": "中国女篮进行人员调整",
+          "url": "https://www.toutiao.com/trending/7662641622435954751/",
+          "source": "今日头条",
           "ranks": [
-            5
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收高2%报45,631.59点。",
-          "url": "https://wallstreetcn.com/livenews/3134115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
           "title": "中国胃,Knight巴黎干麻辣烫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
           "source": "贴吧",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
-          "title": "中国代表在安理会连续驳斥美方",
-          "url": "https://news.ifeng.com/c/8ulwzsAk2dI",
+          "title": "全球人工智能 进入“上海时间”",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
           "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "A股保险板块午后上扬，中国人寿、中国太保涨超4%，中国人保、中国平安、新华保险跟涨。",
-          "url": "https://flash.jin10.com/detail/20260715134503074800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "菲尔兹奖泄露,中国数学家封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
           "source": "贴吧",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "中国稀土集团等在广西投资成立新公司",
-          "url": "https://flash.jin10.com/detail/20260715133519917800",
-          "source": "金十数据",
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "中国财政部发行91天期债券，规模350亿元，发行利率0.8924%，预期0.8300%，投标倍数2.81倍，边际倍数1.25倍； 中国财政部发行30年期债券，规模800亿元，发行利率2.2529%，预期2.2500%，投标倍数6.66倍，边际倍数2.50倍。",
-          "url": "https://wallstreetcn.com/livenews/3134085",
+          "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
+          "url": "https://wallstreetcn.com/livenews/3134812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "苹果、三星通过人工智能服务备案，知情人士：百度均系AI合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3134805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "据NBC新闻：根据美国国防部的公开估算，伊朗战争耗资约300亿美元，但美国内部估算的总成本则在800亿至1000亿美元之间。",
-          "url": "https://flash.jin10.com/detail/20260715135439086800",
-          "source": "金十数据",
+          "title": "美国指了指中国 然后狠狠抽自己耳光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8C%87%E4%BA%86%E6%8C%87%E4%B8%AD%E5%9B%BD+%E7%84%B6%E5%90%8E%E7%8B%A0%E7%8B%A0%E6%8A%BD%E8%87%AA%E5%B7%B1%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "美国航母陷入超期部署“死循环”",
-          "url": "https://news.ifeng.com/c/8uln4DAN4bL",
+          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
+          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "通胀全面降温！美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%",
-          "url": "https://wallstreetcn.com/articles/3776924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
-          "url": "https://www.cls.cn/detail/2426660",
+          "title": "美国6月PPI超预期降温 油价“救场”难掩上游涨价压力",
+          "url": "https://www.cls.cn/detail/2427667",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "日本石油协会会长：美国原油是实现日本未来石油供应多元化的一个选项。",
-          "url": "https://flash.jin10.com/detail/20260715135213819800",
+          "title": "美国女记者无视胸前蟑螂坚持播报",
+          "url": "https://www.toutiao.com/trending/7662900803954802726/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期",
+          "url": "https://wallstreetcn.com/articles/3777031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美国议员警告：这么干，让中国赢了",
+          "url": "https://news.ifeng.com/c/8unbx2SRRPH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "据以色列i24News：以色列国防部长卡茨与美国国防部长赫格塞思进行了交谈。卡茨在一份声明中表示，赫格塞思向他通知了美国在伊朗的活动，两人同意在战争可能爆发的情况下继续合作。",
+          "url": "https://flash.jin10.com/detail/20260716134956577800",
           "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "菲律宾外交部：我们获悉，美国国务卿鲁比奥将赴菲律宾出席东盟及相关会议。",
+          "url": "https://flash.jin10.com/detail/20260716133956749800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "伊朗官媒PRESS TV：伊朗袭击美国在科威特和约旦的设施。",
+          "url": "https://wallstreetcn.com/livenews/3134814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
-          "url": "https://wallstreetcn.com/articles/3776884",
-          "source": "华尔街见闻",
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "投行Jefferies把美国银行目标股价从70美元上调至75美元。",
-          "url": "https://wallstreetcn.com/livenews/3134088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡将继续关闭，直至美国停止袭击。",
-          "url": "https://wallstreetcn.com/livenews/3134084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
-          "url": "https://flash.jin10.com/detail/20260715135111358800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "WAIC 2026即将启幕",
-          "url": "https://search.bilibili.com/all?keyword=WAIC%202026%E5%8D%B3%E5%B0%86%E5%90%AF%E5%B9%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
           "source": "知乎",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         },
         {
-          "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
-          "url": "https://www.zhihu.com/question/2059660303915397288",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "14时12分"
         }
       ]
     }
