@@ -1,458 +1,491 @@
 {
-  "generated_at": "2026-07-29T14:26:08.195400+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-30T14:22:22.437091+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
-          "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
-          "url": "https://www.cls.cn/detail/2439549",
-          "source": "财联社热门",
+          "title": "老外领悟中国小说,含蓄中藏暗示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356633&amp;topic_name=%E8%80%81%E5%A4%96%E9%A2%86%E6%82%9F%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%2C%E5%90%AB%E8%93%84%E4%B8%AD%E8%97%8F%E6%9A%97%E7%A4%BA",
+          "source": "贴吧",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "“新新三样”成中国出口新名片",
+          "url": "https://www.toutiao.com/trending/7667955264047366187/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "世界黄金协会：二季度中国市场黄金需求同比下降41%",
+          "url": "https://flash.jin10.com/detail/20260730141309556800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "中国学者声索巴丹群岛主权，菲防长跳出来",
+          "url": "https://news.ifeng.com/c/8vAsrTurKkY",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "外机成体系逼近，中国飞行员果断驱离",
+          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "针对中国？西班牙决定：不跟",
+          "url": "https://news.ifeng.com/c/8vAtuxFm8Ev",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "中国“新新三样”又火了",
+          "url": "https://www.douyin.com/hot/2589401",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "轻武器博物馆里看中国军工95年",
+          "url": "https://www.douyin.com/hot/2589254",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "如何评价揽佬新歌《中国人能飞》？",
+          "url": "https://www.zhihu.com/question/2064534355440145959",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
+          "url": "https://www.zhihu.com/question/2065751316211701463",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "活力中国调研行｜杭州何止“六小龙”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33679894",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "韩国股市暴跌甩锅中国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            2
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
-          "title": "中国制造迈向“技术红利”阶段",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%BF%88%E5%90%91%E2%80%9C%E6%8A%80%E6%9C%AF%E7%BA%A2%E5%88%A9%E2%80%9D%E9%98%B6%E6%AE%B5",
-          "source": "百度热搜",
+          "title": "五颜六色是中国的夏日底色",
+          "url": "https://www.douyin.com/hot/2589258",
+          "source": "抖音",
           "ranks": [
-            3
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
-          "title": "中国地震台网正式测定：07月29日14时09分在新疆阿克苏地区乌什县（北纬41.37度，东经78.73度）发生4.6级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260729142108815800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中国足球小将两队晋级16强",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E4%B8%A4%E9%98%9F%E6%99%8B%E7%BA%A716%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "有哪些「中国标准」成为「世界标准」的例子？",
-          "url": "https://www.zhihu.com/question/430077118",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "航天 中国人能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E8%88%AA%E5%A4%A9%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "寿司郎财报显示，一家中国大陆门店营收是日本店的 1.6 倍，利润接近三倍，为何该商业模式能在中国成功？",
-          "url": "https://www.zhihu.com/question/2065453278121431256",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "中国游客称日本强震前有井盖冒温泉",
-          "url": "https://www.toutiao.com/trending/7667725284774563354/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "中国地震台网自动测定：7月29日14时9分在新疆阿克苏地区乌什县附近（北纬41.34度，东经78.86度）发生4.9级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260729141752578800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中国信通院：6月国内市场5G手机出货量同比下降12.1%",
-          "url": "https://wallstreetcn.com/livenews/3141487",
+          "title": "中国台湾证交所加权股价指数收低0.3%报39,933.30点。",
+          "url": "https://wallstreetcn.com/livenews/3142170",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低3.8%报40,039.18点。",
-          "url": "https://wallstreetcn.com/livenews/3141472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中国信通院：6月国内市场手机出货量1914.9万部 5G手机出货量同比下降12.1%",
-          "url": "https://flash.jin10.com/detail/20260729135547341800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "14时22分"
         }
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 12,
+      "keyword_group": "AI 人工智能",
+      "match_count": 14,
       "titles": [
         {
-          "title": "美国防部制裁部分中国科研机构，中方回应",
-          "url": "https://news.ifeng.com/c/8v9Hb3PT32R",
-          "source": "凤凰网",
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
-          "title": "美国更新受管制清单，外媒分析其意图",
-          "url": "https://news.ifeng.com/c/8v9BxEKAxKB",
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "AI前沿日报-7月30日",
+          "url": "https://flash.jin10.com/detail/20260730141045782800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "国内首次 电视台播了AI剧",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1+%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E4%BA%86AI%E5%89%A7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "AI公司被曝大量收购旧书",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E9%87%8F%E6%94%B6%E8%B4%AD%E6%97%A7%E4%B9%A6%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普陷入伊朗死局：结束战争，只剩这一个选择？",
+          "url": "https://flash.jin10.com/detail/20260730141024253800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国“虚空造牌”，中方曾严正表态",
+          "url": "https://news.ifeng.com/c/8vAlWg9gecP",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
-          "title": "禁止进口中国新型机器人和逆变器，美国在忌惮什么？",
-          "url": "https://news.ifeng.com/c/8v9Ibfxya12",
-          "source": "凤凰网",
+          "title": "美方限制进口“先进机器人设备”，外交部：保护主义提升不了美国竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33681759",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "华裔儿媳连刺美国白人婆婆",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356579&amp;topic_name=%E5%8D%8E%E8%A3%94%E5%84%BF%E5%AA%B3%E8%BF%9E%E5%88%BA%E7%BE%8E%E5%9B%BD%E7%99%BD%E4%BA%BA%E5%A9%86%E5%A9%86",
           "source": "贴吧",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "美国精简商业航天审批流程 希捷、海力士最新财报出炉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2439568",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "642人伤亡背后的多重隐忧，专家：美国承受不住这样的伤亡",
-          "url": "https://news.ifeng.com/c/8v8ZxNxD3Nc",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "美国防部将部分中国科研机构列入制裁清单，商务部：坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33679912",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "保时捷首席财务官：上半年经营业绩包含美国关税带来的3亿至4亿欧元影响。",
-          "url": "https://flash.jin10.com/detail/20260729141706600800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "声明显示，在沙特和美国实施袭击后，伊拉克总理呼吁召开紧急安全会议。",
-          "url": "https://flash.jin10.com/detail/20260729141416780800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "多位逆变器厂商人士回应美国市场禁令：对行业影响比较大",
-          "url": "https://wallstreetcn.com/livenews/3141467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "伊拉克“人民动员组织”证实遭美国及沙特袭击",
-          "url": "https://wallstreetcn.com/livenews/3141451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "会计被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "AI前沿日报-7月29日",
-          "url": "https://flash.jin10.com/detail/20260729140952492800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
-          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "铁粉深陷特朗普“杀猪盘”血本无归",
-          "url": "https://www.toutiao.com/trending/7667792760249781814/",
-          "source": "今日头条",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A4%BC%E6%89%93%E7%9E%8C%E7%9D%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普态度大转弯？美乌重谈军事支持，爱国者导弹与对俄制裁同步推进",
-          "url": "https://flash.jin10.com/detail/20260729141159710800",
+          "title": "英国石油(BP.N)：启动位于美国湾区的Atlantis大型设施扩建项目。该扩建项目新增两口海底注水井。该项目提前完工且低于预算，预计将使年度平均峰值总产量增加约1万桶油当量/日。",
+          "url": "https://flash.jin10.com/detail/20260730141008393800",
           "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "14时22分"
+        },
+        {
+          "title": "三星SDI将于10月开始在美国生产储能电池。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }
