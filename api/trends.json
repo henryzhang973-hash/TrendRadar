@@ -1,502 +1,337 @@
 {
-  "generated_at": "2026-08-02T14:28:19.766141+08:00",
+  "generated_at": "2026-08-03T14:54:44.814142+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 13,
+      "keyword_group": "AI 人工智能",
+      "match_count": 9,
       "titles": [
         {
-          "title": "中国烹饪协会：“中国烹饪大师”“之乡、之都”等称号全部作废",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33695141",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "中国“科技游”圈粉外国游客",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%A7%91%E6%8A%80%E6%B8%B8%E2%80%9D%E5%9C%88%E7%B2%89%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
-          "url": "https://flash.jin10.com/detail/20260802135902640800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "住建部部长倪虹出席2026中国—东盟建设部长圆桌会议",
-          "url": "https://wallstreetcn.com/livenews/3143652",
-          "source": "华尔街见闻-快讯",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "我拍到了中国第一枚可回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "这就是中国军人的承诺",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
-          "source": "bilibili 热搜",
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "中国海警位黄岩岛附近海域组织维权执法管控演练，模拟拖离侵权船只",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694192",
-          "source": "澎湃新闻",
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "AI前沿日报-8月3日",
+          "url": "https://flash.jin10.com/detail/20260803141925230800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "中国烹协清理称号 大师名师全作废",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%83%B9%E5%8D%8F%E6%B8%85%E7%90%86%E7%A7%B0%E5%8F%B7+%E5%A4%A7%E5%B8%88%E5%90%8D%E5%B8%88%E5%85%A8%E4%BD%9C%E5%BA%9F",
+          "title": "AI短剧《砚边青梅》火爆出圈",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E7%A0%9A%E8%BE%B9%E9%9D%92%E6%A2%85%E3%80%8B%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88",
           "source": "百度热搜",
           "ranks": [
-            23
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“中国值得一次又一次探索”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%80%BC%E5%BE%97%E4%B8%80%E6%AC%A1%E5%8F%88%E4%B8%80%E6%AC%A1%E6%8E%A2%E7%B4%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "Mikimoto以珍珠美学联结中国消费者",
-          "url": "https://s.weibo.com/weibo?q=%23Mikimoto%E4%BB%A5%E7%8F%8D%E7%8F%A0%E7%BE%8E%E5%AD%A6%E8%81%94%E7%BB%93%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%23&t=31&band_rank=28&Refer=top",
+          "title": "中国男篮教练组为何青睐高诗岩",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%95%99%E7%BB%83%E7%BB%84%E4%B8%BA%E4%BD%95%E9%9D%92%E7%9D%90%E9%AB%98%E8%AF%97%E5%B2%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "中国女博士采访诺兰火爆外网",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E9%87%87%E8%AE%BF%E8%AF%BA%E5%85%B0%E7%81%AB%E7%88%86%E5%A4%96%E7%BD%91&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "倪虹出席2026中国—东盟建设部长圆桌会议",
-          "url": "https://flash.jin10.com/detail/20260802122954932800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "中国地震台网正式测定：08月02日11时15分在青海海西州唐古拉地区（北纬33.43度，东经91.15度）发生3.1级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260802112535426800",
-          "source": "金十数据",
+          "title": "日本人买中国车痛失国籍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.6%报43,386.41点。",
+          "url": "https://wallstreetcn.com/livenews/3143914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "中国会拖走菲律宾坐滩军舰吗",
+          "url": "https://www.toutiao.com/trending/7669600712514358826/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "全中国最好吃虫子大盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A5%BD%E5%90%83%E8%99%AB%E5%AD%90%E5%A4%A7%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "中国第三批埃博拉抗疫医疗专家组抵达刚果（金）",
-          "url": "https://wallstreetcn.com/livenews/3143637",
-          "source": "华尔街见闻-快讯",
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
           "ranks": [
-            22
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
+        },
+        {
+          "title": "中国人能飞真人版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "特朗普：已同意取消对伊朗的打击",
-          "url": "https://v.ifeng.com/c/8vG3old8I3A",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "分析师：特朗普取消对伊打击，沙特外交斡旋与伊朗承压或是关键因素",
-          "url": "https://flash.jin10.com/detail/20260802133619872800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://wallstreetcn.com/livenews/3143651",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普同意取消对伊朗的打击",
-          "url": "https://www.douyin.com/hot/2594184",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普称同意取消军事打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3143647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         },
         {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://flash.jin10.com/detail/20260802115054329800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "天才女友 AI片头",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
-          "url": "https://www.zhihu.com/question/2066611104294482895",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "别让虚假AI广告收割信任",
-          "url": "https://www.toutiao.com/trending/7668996991562399763/",
+          "title": "摩洛哥国王决定以特朗普名字命名公路",
+          "url": "https://www.toutiao.com/trending/7669384893911973894/",
           "source": "今日头条",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     },
     {
       "keyword_group": "美国",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "“近30年来首次”？美国、日本联手干预",
-          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
-          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
-          "source": "凤凰网",
+          "title": "美国男子从80米高大桥跳下",
+          "url": "https://www.toutiao.com/trending/7669604384150831145/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "联合国会议美国离席抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE%E7%BE%8E%E5%9B%BD%E7%A6%BB%E5%B8%AD%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "研究称超大地震未来或重创美国西海岸",
+          "url": "https://www.toutiao.com/trending/7668991063687987246/",
+          "source": "今日头条",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
-          "title": "鲁比奥称美国的打击使伊朗更愿意谈判",
-          "url": "https://flash.jin10.com/detail/20260802123339825800",
-          "source": "金十数据",
+          "title": "美国男子从80多米高大桥顶上跳下",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%BB%8E80%E5%A4%9A%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A1%A5%E9%A1%B6%E4%B8%8A%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "美国西部遭遇高温热浪 多地山火风险加剧",
-          "url": "https://flash.jin10.com/detail/20260802121919078800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
-          "url": "https://wallstreetcn.com/livenews/3143639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "伊朗革命卫队：伊朗军方官员表示，美国总统声称伊朗已要求停止袭击，这纯属无稽之谈，是企图勒索波斯湾统治者并向其施压的孤注一掷之举。无论他是继续侵略还是退缩，我们的部队都处于最高战备状态，并为任何可能性做好了准备。如果对抗不可避免，战场将决定一切，届时所有人都会明白谁掌握着权力，谁将拥有最终发言权。",
-          "url": "https://flash.jin10.com/detail/20260802112524436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "14时54分"
         }
       ]
     }
