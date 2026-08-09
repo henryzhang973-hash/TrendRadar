@@ -1,314 +1,314 @@
 {
-  "generated_at": "2026-08-08T12:50:14.524788+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-09T12:58:27.546952+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 15,
+      "keyword_group": "中国",
+      "match_count": 14,
       "titles": [
         {
-          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
-          "url": "https://wallstreetcn.com/articles/3778959",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
-          "url": "https://wallstreetcn.com/articles/3778928",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
-          "url": "https://www.cls.cn/detail/2448836",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "王兴兴300问谈美国禁令",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4300%E9%97%AE%E8%B0%88%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778954",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
-          "url": "https://wallstreetcn.com/articles/3778977",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国为何要重振造船业",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E9%87%8D%E6%8C%AF%E9%80%A0%E8%88%B9%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "历史性一天，给美国的一个强烈信号",
-          "url": "https://news.ifeng.com/c/8vPnmptbds0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美国为什么盯上了多晶硅",
-          "url": "https://www.toutiao.com/trending/7671423425096715803/",
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.toutiao.com/trending/7670816047708667940/",
           "source": "今日头条",
           "ranks": [
-            18
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "德意志银行：预计美国7月CPI环比上涨0.15%",
-          "url": "https://flash.jin10.com/detail/20260808111034173800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "美国最大水库水位降至有记录以来最低水平",
-          "url": "https://flash.jin10.com/detail/20260808095957009800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "据以色列广播局：美国正施压以色列在加沙地区启动为期两周的停火，以实施解除哈马斯武装的计划。",
-          "url": "https://flash.jin10.com/detail/20260808095235810800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
-          "url": "https://flash.jin10.com/detail/20260808093558882800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "美国CFTC已要求预测市场平台避免使用美式赌博赔率进行营销",
-          "url": "https://wallstreetcn.com/livenews/3146941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
-          "url": "https://wallstreetcn.com/articles/3778942",
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "胡锡进：新西兰外长像只疯狗，竟对中国如此狂吠",
-          "url": "https://news.ifeng.com/c/8vPCkslzMgl",
+          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
+          "url": "https://news.ifeng.com/c/8vRKA573RKo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
+          "url": "https://www.zhihu.com/question/2069357693840667744",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "中国拒绝美鹰派副防长访华？弦外之音被热议",
+          "url": "https://news.ifeng.com/c/8vQrofN8ssh",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
-          "source": "澎湃新闻",
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
           "ranks": [
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
-          "url": "https://www.zhihu.com/question/2068024117270245981",
-          "source": "知乎",
+          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
+          "url": "https://flash.jin10.com/detail/20260809102752884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "瑙鲁总统邀请中国大使骑自行车，环岛后还喝了中国产冷饮",
+          "url": "https://news.ifeng.com/c/8vRTHUsdqi0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "中国消防官方整活",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%AE%98%E6%96%B9%E6%95%B4%E6%B4%BB",
-          "source": "bilibili 热搜",
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
+          "source": "金十数据",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "藏在纽约的中国县城",
-          "url": "https://search.bilibili.com/all?keyword=%E8%97%8F%E5%9C%A8%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E",
-          "source": "bilibili 热搜",
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "source": "金十数据",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "日韩网红模仿中国人切西瓜",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%A5%BF%E7%93%9C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "source": "金十数据",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "消息称雪佛兰退出中国市场",
-          "url": "https://www.toutiao.com/trending/7670682549727055401/",
-          "source": "今日头条",
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
+          "url": "https://wallstreetcn.com/livenews/3147010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "伊朗：美国不改，海峡不开",
+          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "被中方反制的7家美国实体有何来头？",
+          "url": "https://news.ifeng.com/c/8vQl4rorpCI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "美国国防部被曝要求军工企业“大幅加快”武器生产",
+          "url": "https://wallstreetcn.com/livenews/3147044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "美国前总统拜登前列腺癌恶化 癌细胞已扩散",
+          "url": "https://flash.jin10.com/detail/20260809095652729800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "越禁越买！美国人热衷来中国扫货",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E7%A6%81%E8%B6%8A%E4%B9%B0%EF%BC%81%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%83%AD%E8%A1%B7%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%89%AB%E8%B4%A7",
+          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "雪佛兰将停止在中国市场销售？通用汽车仍未正面回应",
-          "url": "https://wallstreetcn.com/livenews/3146960",
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时50分"
+          "time_info": "12时58分"
         },
         {
-          "title": "中国地震台网正式测定：08月08日11时45分在新疆阿克苏地区沙雅县发生4.5级地震，震源深度25千米。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260808120026148800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
-          "url": "https://wallstreetcn.com/livenews/3146955",
+          "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3147013",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
-          "url": "https://flash.jin10.com/detail/20260808100246915800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "time_info": "12时58分"
         }
       ]
     },
@@ -317,103 +317,103 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
           "source": "财联社热门",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
-          "url": "https://www.zhihu.com/question/2068674224802067300",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
-          "source": "金十数据",
+          "title": "“热管理”已成AI相关核心技术了吗",
+          "url": "https://www.toutiao.com/trending/7671858005583036470/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "time_info": "12时58分"
         }
       ]
     },
@@ -422,70 +422,70 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
-          "url": "https://wallstreetcn.com/articles/3778955",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
           "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     }
