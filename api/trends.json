@@ -1,397 +1,419 @@
 {
-  "generated_at": "2026-08-12T13:27:45.449690+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-13T13:30:11.440171+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能",
-      "match_count": 15,
+      "keyword_group": "中国",
+      "match_count": 17,
       "titles": [
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "AI产业给韩国人带来什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美团王莆中：不开线下药店，坚持做医药商家AI转型小帮手",
-          "url": "https://flash.jin10.com/detail/20260812131034656800",
-          "source": "金十数据",
+          "title": "“中国研究了我们30多年”，美军高官绷不住了",
+          "url": "https://news.ifeng.com/c/8vYEYNV7hEO",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
-          "url": "https://wallstreetcn.com/livenews/3148411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
+          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769582",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
+          "title": "武大靖出任中国短道速滑队主教练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33767574",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "日本“草莓仙人”挑衅中国人",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E8%8D%89%E8%8E%93%E4%BB%99%E4%BA%BA%E2%80%9D%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "知情人士透露，AI初创公司Cognition正与投资者就新一轮融资进行早期洽谈，这可能会使这家AI初创公司的估值提升50%以上，达到至少400亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3148404",
-          "source": "华尔街见闻-快讯",
+          "title": "红杉中国1.5亿独家出资 张雪机车落地新融资 估值半年不到涨5倍至60亿",
+          "url": "https://www.cls.cn/detail/2453013",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2070073820929419121",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "中国和印尼首次在台岛以东联合军演，台当局气急败坏",
+          "url": "https://news.ifeng.com/c/8vY34OnOdcM",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
-          "url": "https://flash.jin10.com/detail/20260812124218633800",
-          "source": "金十数据",
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
-          "url": "https://www.zhihu.com/question/2070534573788751684",
+          "title": "中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？",
+          "url": "https://www.zhihu.com/question/659432723",
           "source": "知乎",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "易中天用AI解读庄子",
-          "url": "https://www.toutiao.com/trending/7672540891936522281/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3148389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-12）",
-          "url": "https://flash.jin10.com/detail/20260812115808837800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "“空军一号”沦为诱饵，美国官员细思极恐",
-          "url": "https://news.ifeng.com/c/8vWOWxDINsr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
-          "url": "https://wallstreetcn.com/articles/3779188",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
-          "url": "https://www.cls.cn/detail/2451863",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "48条活体蛇从鄂州花湖机场直飞美国",
-          "url": "https://www.toutiao.com/trending/7672767656038203438/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国7月CPI揭晓前夕 美联储官员又“放鹰”：通胀是当前最大问题",
-          "url": "https://www.cls.cn/detail/2451826",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国副总统万斯要求乌克兰停止袭击使用俄罗斯港口的油轮。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3148407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国波士顿联储主席Susan Collins：伊朗战争正在挤压美国低收入人群的利益。 支持美联储7月维持利率不变，认为当前利率水平“略有限制性”，因此预计通胀会逐步回落。 通胀率太高，失业率依旧相对稳定。 若通胀率依旧居高不下，将支持9月份加息。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3148406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美国政府设备重新允许使用TikTok",
-          "url": "https://www.toutiao.com/trending/7672969055648615946/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "据华尔街日报：日本自动驾驶初创公司Turing计划在美国设立办公室，目标为100亿美元的IPO估值。",
-          "url": "https://flash.jin10.com/detail/20260812120725875800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "据英国金融时报：美国副总统万斯要求乌克兰停止对使用俄罗斯港口的油轮进行攻击。",
-          "url": "https://flash.jin10.com/detail/20260812120513030800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中国风热词上新",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%83%AD%E8%AF%8D%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美方竟鼓噪“谁被中国人抢了饭碗速来举报”",
-          "url": "https://news.ifeng.com/c/8vW366Ay9AA",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
           "source": "贴吧",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "韩媒：SK海力士拟将中国工厂NAND产能提高50%",
-          "url": "https://wallstreetcn.com/articles/3779186",
-          "source": "华尔街见闻",
+          "title": "比Lululemon还贵的瑜伽服来中国了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Lululemon%E8%BF%98%E8%B4%B5%E7%9A%84%E7%91%9C%E4%BC%BD%E6%9C%8D%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "中国财政部发行63天期债券，规模200亿元，发行利率0.9796%，预期0.8600%，投标倍数3.52倍，边际倍数6.67倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0787%，边际利率1.1827%，预期1.0100%，投标倍数3.58倍，边际倍数1.46倍； 中国财政部发行50年期债券，规模400亿元，发行利率2.2831%，预期2.2800%，投标倍数6.87倍，边际倍数1.42倍。",
-          "url": "https://wallstreetcn.com/livenews/3148401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "7月俄罗斯汽车销量前10中国品牌占5",
-          "url": "https://www.toutiao.com/trending/7671910502906101802/",
+          "title": "日本“草莓仙人”挑衅中国人",
+          "url": "https://www.toutiao.com/trending/7673295870535745563/",
           "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "毛宁向世界分享中国水陆两栖车",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%90%91%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%B0%B4%E9%99%86%E4%B8%A4%E6%A0%96%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "中国退役军人受邀训练国外安保员工",
+          "url": "https://www.toutiao.com/trending/7672291305200500742/",
+          "source": "今日头条",
           "ranks": [
-            24
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "白海豚凭什么浇透小半个中国",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%87%AD%E4%BB%80%E4%B9%88%E6%B5%87%E9%80%8F%E5%B0%8F%E5%8D%8A%E4%B8%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "73岁奶奶将成中国首批太空游客",
+          "url": "https://www.baidu.com/s?wd=73%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%B0%86%E6%88%90%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E5%A4%AA%E7%A9%BA%E6%B8%B8%E5%AE%A2",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "国家能源局：7月中国绿证价格指数收于222.8点 环比上涨23.1%",
+          "url": "https://wallstreetcn.com/livenews/3148907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "13时30分"
+        },
+        {
+          "title": "长飞光纤中标中国电信广东公司1.59亿元空芯光缆集采",
+          "url": "https://wallstreetcn.com/livenews/3148899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "A股AI PC板块短线走高，春秋电子涨停，华勤技术此前涨停，中石科技、星环科技、联芸科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260813130857859800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "SpaceX股价单日暴涨近10%，背后是AI预期升温叠加空头撤退",
+          "url": "https://flash.jin10.com/detail/20260813130808162800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "张朝阳谈AI如何帮助物理研究",
+          "url": "https://www.douyin.com/hot/2607629",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "博主称胡锡进AI认知太低",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E8%83%A1%E9%94%A1%E8%BF%9BAI%E8%AE%A4%E7%9F%A5%E5%A4%AA%E4%BD%8E&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "联想集团(00992.HK)午后直线拉升涨超12%，公司午间公布业绩，第一财季经调整权益持有人应占溢利同比增长176%，AI相关业务收入同比增长60%，达到634亿元人民币，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260813130213911800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "2026绿色算力（人工智能）大会将于8月22日举行",
+          "url": "https://wallstreetcn.com/livenews/3148912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "联想AI服务器储备订单大增",
+          "url": "https://flash.jin10.com/detail/20260813125234127800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
+          "url": "https://wallstreetcn.com/articles/3779297",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美国在太平洋的军事基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美国人感觉要撤了，有三个小细节",
+          "url": "https://news.ifeng.com/c/8vY3J1B9Lt4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美国得州一架飞机坠毁，“事故非常惨烈”",
+          "url": "https://news.ifeng.com/c/8vY142g1E7T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
+          "url": "https://wallstreetcn.com/articles/3779269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美国海军推出首艘“无人机航母”，美媒泼冷水",
+          "url": "https://news.ifeng.com/c/8vY3J1B9LkF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "踢开美国，“中东北约”横空出世，沙特为何不再相信美军？",
+          "url": "https://v.ifeng.com/c/8vWY82Q7HGB",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         }
       ]
     },
@@ -400,37 +422,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "特朗普承认：悄悄换乘飞机了",
-          "url": "https://wallstreetcn.com/livenews/3148388",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称“完全掌控”霍尔木兹，现实却狠狠打脸：通航量跌至近3个月低点",
+          "url": "https://flash.jin10.com/detail/20260813125705877800",
+          "source": "金十数据",
           "ranks": [
-            19
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "13时30分"
         }
       ]
     }
